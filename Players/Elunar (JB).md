@@ -9,11 +9,11 @@
 - **Inspiration Points:** 0
 
 ## Table of Contents
-1. [Ability Scores](#ability-scores)
-2. [Proficiencies](#proficiencies)
-3. [Combat](#combat)
-4. [Spells](#spells)
-5. [Attacks](#attacks)
+1. [General Information](#general-information)
+2. [Ability Scores](#ability-scores)
+3. [Proficiencies](#proficiencies)
+4. [Combat](#combat)
+5. [Spells](#spells)
 6. [Features & Traits](#features--traits)
 7. [Appearance & Personality](#appearance--personality)
 8. [Backstory](#backstory)
