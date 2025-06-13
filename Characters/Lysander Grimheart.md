@@ -1,4 +1,3 @@
-# Lysander Grimheart (The Betrayer Ghoul)
 
 ## Basic Information
 - **Race:** Human (Undead)
@@ -9,14 +8,6 @@
 - **Master:** [[Vorlag the Pale (Necromancer)]]
 - **Voice:** Sustained/direct/strong, throaty placement, dry air, slow tempo, mid volume, impartial tone, sore throat
 
-## Table of Contents
-1. [Stats](#stats)
-2. [Items](#items)
-3. [DM Notes & Key Info](#dm-notes--key-info)
-4. [Description](#description)
-5. [History](#history)
-6. [Relationships](#relationships)
-7. [Quests](#quests)
 
 ## Stats
 **Base:** Ghoul (Monster Manual, p. 148) with enhancements:

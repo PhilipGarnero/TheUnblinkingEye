@@ -1,4 +1,3 @@
-# Guardians of Sanctuaries
 
 ## Basic Information
 - **Race:** Various (Ancient Dragons, Archfey, Leaders of Secluded Orders)
@@ -7,14 +6,6 @@
 - **Role:** Protectors of lands or communities shielded from dark magic
 - **Voice:** Varies per guardian type - Ancient Dragons: Sustained/direct/strong, throaty, loud, impartial; Archfey: Sudden/indirect/light, nasal, breathy, friendly; Order Leaders: Sustained/direct/strong, mixed, dry, friendly
 
-## Table of Contents
-1. [Stats](#stats)
-2. [Items](#items)
-3. [DM Notes & Key Info](#dm-notes--key-info)
-4. [Description](#description)
-5. [History](#history)
-6. [Relationships](#relationships)
-7. [Quests](#quests)
 
 ## Stats
 *High-level stats appropriate to guardian type (Ancient Dragon, Archfey, etc.)*

@@ -1,4 +1,3 @@
-# Malachar Shadowbane (Drow Cultist)
 
 ## Basic Information
 - **Race:** Drow
@@ -9,14 +8,6 @@
 - **Specialization:** Temple destroyer and divine servant assassin
 - **Voice:** Sudden/indirect/light, nasal placement, breathy air, fast tempo, quiet volume, aggressive tone
 
-## Table of Contents
-1. [Stats](#stats)
-2. [Items](#items)
-3. [DM Notes & Key Info](#dm-notes--key-info)
-4. [Description](#description)
-5. [History](#history)
-6. [Relationships](#relationships)
-7. [Quests](#quests)
 
 ## Stats
 **Base:** Drow Elite Warrior (Monster Manual, p. 128) with Cult Fanatic spellcasting (Monster Manual, p. 345)

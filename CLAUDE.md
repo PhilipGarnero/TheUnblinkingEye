@@ -16,7 +16,7 @@ This is a D&D 5e campaign vault focused on **"The Unblinking Eye"** - a dark fan
 ### Lore (`/Lore/`)
 - **[[The Death's Eye]]** - The primary curse mechanics and effects
 - **[[Vorlag's Influence]]** - Areas where curse effects are amplified
-- **[[Village of Stillwater Creek]]** - Starting location with detailed aftermath
+- **[[Stillwater Creek - Village Index]]**- Starting location with detailed aftermath
 
 ## Core Campaign Mechanics
 
@@ -47,12 +47,9 @@ Dark fantasy with themes of curse, undeath, and the struggle against necromantic
 ## NPC Voice Guidelines
 When creating or portraying NPCs, assign distinct vocal characteristics using these categories:
 
-### Voice Quality
 - **Time**: Sudden | Sustained
 - **Flow**: Direct | Indirect  
 - **Weight**: Light | Strong
-
-### Voice Characteristics
 - **Voice Placement**: Nasal (Aussie-like) | Throaty (Kermit/Peterson-like) | Mixed (regular)
 - **Air Quality**: Breathy | Dry
 - **Tempo**: Slow | Medium | Fast
@@ -69,14 +66,13 @@ All character sheets must follow this standardized layout in the following order
 
 ### Required Sections (in order):
 1. **Basic Information** - Race, age, class, organization, location, voice characteristics, etc.
-2. **Table of Contents** - Numbered list linking to all sections below
-3. **Stats** - Combat statistics, abilities, and mechanical information
-4. **Items** - Equipment, possessions, and notable gear
-5. **DM Notes & Key Info** - Campaign role, tactical notes, and important reminders
-6. **Description** - Physical appearance and personality traits
-7. **History** - Background, past events, and character goals/motivations
-8. **Relationships** - Connections to other NPCs, factions, and player characters
-9. **Quests** - Player-related quests and missions involving this character
+2. **Stats** - Combat statistics, abilities, and mechanical information
+3. **Items** - Equipment, possessions, and notable gear
+4. **DM Notes & Key Info** - Campaign role, tactical notes, and important reminders
+5. **Description** - Physical appearance and personality traits
+6. **History** - Background, past events, and character goals/motivations
+7. **Relationships** - Connections to other NPCs, factions, and player characters
+8. **Quests** - Player-related quests and missions involving this character
 
 ### Important Notes:
 - Character goals and motivations belong in the **History** section, not Quests

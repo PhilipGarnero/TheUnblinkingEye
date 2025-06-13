@@ -1,4 +1,3 @@
-# Divine Servants
 
 ## Basic Information
 - **Race:** Various
@@ -8,14 +7,6 @@
 - **Deities:** Lathander, Pelor, Kelemvor, Silvanus (see Player's Handbook, p. 293ff)
 - **Voice:** Sustained/direct/strong, mixed placement, dry air, medium tempo, mid volume, friendly tone
 
-## Table of Contents
-1. [Stats](#stats)
-2. [Items](#items)
-3. [DM Notes & Key Info](#dm-notes--key-info)
-4. [Description](#description)
-5. [History](#history)
-6. [Relationships](#relationships)
-7. [Quests](#quests)
 
 ## Stats
 *Individual stats to be determined based on specific divine servant encountered*

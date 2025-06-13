@@ -1,4 +1,3 @@
-# Mother Willow (Secluded Herbalist)
 
 ## Basic Information
 - **Race:** *To be determined*
@@ -8,14 +7,6 @@
 - **Role:** Figure attuned to nature, old magic, and spiritual remedies
 - **Voice:** Sustained/indirect/light, mixed placement, breathy air, slow tempo, quiet volume, friendly tone
 
-## Table of Contents
-1. [Stats](#stats)
-2. [Items](#items)
-3. [DM Notes & Key Info](#dm-notes--key-info)
-4. [Description](#description)
-5. [History](#history)
-6. [Relationships](#relationships)
-7. [Quests](#quests)
 
 ## Stats
 *Stats to be determined based on encounter needs*

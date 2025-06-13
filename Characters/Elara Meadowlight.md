@@ -1,4 +1,3 @@
-# Elara Meadowlight
 
 ## Basic Information
 - **Race:** *To be determined*
@@ -7,14 +6,6 @@
 - **Role:** Expert in ancient curses, arcane lore, and religious history
 - **Voice:** Sudden/direct/light, mixed placement, dry air, medium tempo, mid volume, impartial tone
 
-## Table of Contents
-1. [Stats](#stats)
-2. [Items](#items)
-3. [DM Notes & Key Info](#dm-notes--key-info)
-4. [Description](#description)
-5. [History](#history)
-6. [Relationships](#relationships)
-7. [Quests](#quests)
 
 ## Stats
 *Stats to be determined based on encounter needs*

@@ -1,4 +1,3 @@
-# Vorlag the Pale (Necromancer)
 
 ## Basic Information
 - **Race:** Human
@@ -7,14 +6,6 @@
 - **Alignment:** Neutral Evil
 - **Voice:** Sustained/direct/strong, throaty placement, dry air, slow tempo, loud volume, aggressive tone
 
-## Table of Contents
-1. [Stats](#stats)
-2. [Items](#items)
-3. [DM Notes & Key Info](#dm-notes--key-info)
-4. [Description](#description)
-5. [History](#history)
-6. [Relationships](#relationships)
-7. [Quests](#quests)
 
 ## Stats
 **Base:** Use the **Mage** stat block (Monster Manual, p. 347) customized for necromantic theme

@@ -1,4 +1,3 @@
-# Elder Rowan Meadowlight (Village Sage)
 
 ## Basic Information
 - **Race:** Human
@@ -8,14 +7,6 @@
 - **Background:** Acolyte (Player's Handbook 2014, p. 127)
 - **Voice:** Sustained/direct/light, mixed placement, breathy air, slow tempo, quiet volume, friendly tone
 
-## Table of Contents
-1. [Stats](#stats)
-2. [Items](#items)
-3. [DM Notes & Key Info](#dm-notes--key-info)
-4. [Description](#description)
-5. [History](#history)
-6. [Relationships](#relationships)
-7. [Quests](#quests)
 
 ## Stats
 **Base:** Acolyte (Monster Manual 2014, p. 342) or Commoner with Religion proficiency

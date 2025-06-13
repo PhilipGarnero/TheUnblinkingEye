@@ -1,4 +1,3 @@
-# Brother Marcus Dawnward (Deceased Order of the Gauntlet Cleric)
 
 ## Basic Information
 - **Race:** Human
@@ -9,14 +8,6 @@
 - **Location:** Body lies in state at shrine in [[Village of Stillwater Creek]]
 - **Voice:** *N/A - Deceased*
 
-## Table of Contents
-1. [Stats](#stats)
-2. [Items](#items)
-3. [DM Notes & Key Info](#dm-notes--key-info)
-4. [Description](#description)
-5. [History](#history)
-6. [Relationships](#relationships)
-7. [Quests](#quests)
 
 ## Stats
 **When Alive:** Priest (Monster Manual 2014, p. 348)

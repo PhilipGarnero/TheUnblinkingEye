@@ -1,4 +1,3 @@
-# Thorgrim Ironwill (Order of the Gauntlet Fighter)
 
 ## Basic Information
 - **Race:** Mountain Dwarf
@@ -9,14 +8,6 @@
 - **Location:** [[Village of Stillwater Creek]] (investigating undead activity)
 - **Voice:** Sustained/direct/strong, throaty placement, dry air, slow tempo, mid volume, friendly tone
 
-## Table of Contents
-1. [Stats](#stats)
-2. [Items](#items)
-3. [DM Notes & Key Info](#dm-notes--key-info)
-4. [Description](#description)
-5. [History](#history)
-6. [Relationships](#relationships)
-7. [Quests](#quests)
 
 ## Stats
 **Base:** Veteran (Monster Manual 2014, p. 350)

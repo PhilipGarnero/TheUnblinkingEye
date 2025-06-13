@@ -1,4 +1,3 @@
-# Ser Gareth Brightshield (Order of the Gauntlet Leader)
 
 ## Basic Information
 - **Race:** Human
@@ -9,14 +8,6 @@
 - **Location:** [[Village of Stillwater Creek]] (investigating undead activity)
 - **Voice:** Sustained/direct/strong, mixed placement, dry air, medium tempo, loud volume, friendly tone
 
-## Table of Contents
-1. [Stats](#stats)
-2. [Items](#items)
-3. [DM Notes & Key Info](#dm-notes--key-info)
-4. [Description](#description)
-5. [History](#history)
-6. [Relationships](#relationships)
-7. [Quests](#quests)
 
 ## Stats
 **Base:** Paladin (Monster Manual 2014, p. 347)

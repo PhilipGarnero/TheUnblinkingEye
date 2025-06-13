@@ -8,16 +8,6 @@
 - **Experience Points:** 0
 - **Inspiration Points:** 0
 
-## Table of Contents
-1. [Ability Scores](#ability-scores)
-2. [Proficiencies](#proficiencies)
-3. [Combat](#combat)
-4. [Spells](#spells)
-5. [Attacks](#attacks)
-6. [Features & Traits](#features--traits)
-7. [Appearance & Personality](#appearance--personality)
-8. [Backstory](#backstory)
-9. [Equipment & Inventory](#equipment--inventory)
 
 ## Ability Scores
 
@@ -41,12 +31,16 @@
 - **Tools:** Herbalism Kit, Poison kit
 - **Languages:** Common, Druidic, Elvish, Halflin
 
+
 ## Combat
 
 - **Speed:** 10.5 m (35 ft.)
 - **Hit Dice:** 1d8
 - **HP:** 10
 - **AC:** 16
+
+
+## Attacks
 
 ## Spells
 
@@ -68,15 +62,15 @@
     - Longstrider
     - Speak with Animals
     - Thunderwave
-    
+
 
 ## Features & Traits
 
 ### Wood Elf Traits
 
 - **Darkvision:** You can see in dim light within 18m (60ft) of you as if it were bright light, and in darkness as if it were dim light.
-- **Fey Ancestry:** You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
-- **Trance:** Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.
+- **Fey Ancestry:** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+- **Trance:** Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.
 - **Mask of the Wild:** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
 
@@ -86,7 +80,8 @@
 
 ### Background Feature (Hermit)
 
-- **Discovery:** You know the desert like no one else. Can make cactus soup or alcohol.
+- **Familiar Ground:** When you are in a desert, its secrets are open to you. You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to find hidden paths, secret doors, and natural hazards. Additionally, your deep familiarity allows you to interpret subtle clues about the area's inhabitants; you can easily recognize signs that tell you the general type of creatures in the area (e.g., beasts, undead, goblinoids), their approximate numbers, and how recently they were active.
+
 
 ## Appearance & Personality
 
@@ -95,6 +90,7 @@
 - **Bonds:** I entered seclusion because I loved someone I could not have.
 - **Flaws:** Fractured identity : I do not know if I'm a goat or an elf
 - **Appearance:** Elunar is a Wood Elf who appears withered and gaunt. He has a quiet and reserved demeanor. His attire is simple and functional, reflecting his life as a hermit. In his secret travel form, he appears as a goat to remain anonymous.
+
 
 ## Backstory
 
@@ -106,7 +102,7 @@ The fall of Myth Drannor and internal conflicts fractured the druidic orders. So
 
 He found exile in the Anauroch desert. Stories from bards and travelers speak of a "Guardian of the Dead Stones," now called "the Withered Old One" or "Elunar the Withered." He became a living legend, a master of desert survival, known for his knowledge of every species of cactus and drought-resistant plant, a science he called "the art of the prickly." Legends say that in the heart of the desert, one can still hear the echo of a powerful druidic incantation and see remnants of potent druidic magic.
 
-For two centuries, Elunar was consumed by the wind, solitude, and sun. His skin became like parchment, and his hair dry and wild. He spent so much time in his wild shape, a goat, that he began to forget himself and lose his powers. He was known to tell travelers he saved, “Where man falls to thirst under a burning sun, the goat rises.”
+For two centuries, Elunar was consumed by the wind, solitude, and sun. His skin became like parchment, and his hair dry and wild. He spent so much time in his wild shape, a goat, that he began to forget himself and lose his powers. He was known to tell travelers he saved, "Where man falls to thirst under a burning sun, the goat rises."
 
 Today, there are sightings of an old, weather-beaten goat, yellowed by sand and dust, on the Black Road that crosses the desert, but no trace remains of Elunar the Withered.
 
@@ -118,13 +114,16 @@ Suddenly, Elunar senses a group of orcs approaching. He communicates the danger 
 Inside the hideout, Yuyu finds a place where time seems to have stood still for 200 years, filled with dusty and cobweb-covered druidic belongings. At first, Yuyu wonders if the goat's master will return. Gradually, he realizes that the goat itself is the master of this place—an ancient elf who has forgotten his past. He connects the stories of "Elunar the Withered" to the goat.
 
 Yuyu then helps Elunar reconnect with his true, humanoid form. Through Yuyu's help, Elunar regains his sense of self but discovers that he has lost his former powers.
+
+
 ## Equipment & Inventory
 
+- Gold pouch: 5
 - A scroll case stuffed full of notes from your studies or prayers
 - A winter blanket
 - A set of common clothes
+- Waterskin
 - An herbalism kit
-- 5 gp
 - Leather Armor
 - A wooden shield
 - A quarterstaff

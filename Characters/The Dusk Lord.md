@@ -1,4 +1,3 @@
-# The Dusk Lord (Ancient Lich)
 
 ## Basic Information
 - **Race:** Human (Undead)
@@ -8,14 +7,6 @@
 - **Location:** Shadowfell Domain
 - **Voice:** Sudden/direct/strong, throaty placement, dry air, slow tempo, quiet volume, aggressive tone, whispers echoing from multiple directions
 
-## Table of Contents
-1. [Stats](#stats)
-2. [Items](#items)
-3. [DM Notes & Key Info](#dm-notes--key-info)
-4. [Description](#description)
-5. [History](#history)
-6. [Relationships](#relationships)
-7. [Quests](#quests)
 
 ## Stats
 **Power Level:** CR 15+ equivalent when fully manifested (far beyond current campaign scope)
