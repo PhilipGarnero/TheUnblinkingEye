@@ -60,6 +60,10 @@
 - Claws extend from hands that once blessed the sick
 - Bears visible bite marks on neck—wounds that began transformation
 
+### Character Assets
+- **Ghoul Form:** ![Lysander Ghoul](../Assets/Lysander%20Ghoul.png)
+- **Human Form (Flashbacks):** ![Lysander Human](../Assets/Lysander%20Human.png)
+
 **Personality (Twisted Nobility):**
 - **Torn Loyalty:** Struggles between undead hunger and paladin training remnants
 - **Tragic Awareness:** Retains enough of former self to understand what he's become

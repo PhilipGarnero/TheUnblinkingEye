@@ -62,6 +62,9 @@
 - Carries scimitar enchanted with necrotic energy and shield bearing Dusk Lord's symbol
 - Moves with predatory grace, always seeming to emerge from shadows
 
+### Character Assets
+- **Portrait:** ![Malachar Shadowbane](../Assets/Malachar%20Shadowbane.png)
+
 **Personality:**
 - **Fanatically Devoted:** Absolutely loyal to Vorlag and Dusk Lord's cause
 - **Coldly Calculating:** Methodical in approach to violence and tactics

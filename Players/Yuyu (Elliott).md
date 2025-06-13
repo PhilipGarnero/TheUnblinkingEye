@@ -71,6 +71,9 @@
 - **Personality Traits:** Very curious, Yuyu is a cheerful wildling, ignorant of all social codes. He speaks of himself in the third person, doesn't hesitate to shout his name or imitate animals. He draws inspiration from fauna and flora for combat.
 - **Appearance:** Yuyu is a 22-year-old Stout Halfling (3 ft / 90 cm, 42 lbs / 19 kg). He has short brown hair, green eyes, and tan skin. He is often shirtless, his body covered in tribal paints. His messy hair is styled with feathers and bones. A frightening tribal mask is attached to the back of his head, and he wears trophies from his hunts as a necklace.
 
+### Character Assets
+- **Portrait:** ![Yuyu](../Assets/Yuyu.png)
+
 ## Backstory
 Abandoned or lost by his family at age 6 during a game of hide-and-seek in the forest, Yuyu survived alone by surrounding himself with wild animals. After 10 years of solitary life, he left his forest to discover new species in the desert.
 

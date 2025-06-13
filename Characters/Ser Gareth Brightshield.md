@@ -39,6 +39,9 @@
 **Physical Appearance:**
 Stern but righteous paladin in gleaming plate armor bearing Order's gauntlet symbol. Weathered face shows marks of years fighting evil, with graying temples and sharp, determined eyes. Carries himself with bearing of seasoned commander who has seen many battles against darkness.
 
+### Character Assets
+- **Portrait:** ![Ser Gareth Brightshield](../Assets/Ser%20Gareth%20Brightshield.png)
+
 **Personality Traits:**
 - **Methodical:** Approaches undead threats with systematic precision
 - **Righteous:** Unwavering in commitment to destroying evil

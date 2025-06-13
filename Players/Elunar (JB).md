@@ -91,6 +91,10 @@
 - **Flaws:** Fractured identity : I do not know if I'm a goat or an elf
 - **Appearance:** Elunar is a Wood Elf who appears withered and gaunt. He has a quiet and reserved demeanor. His attire is simple and functional, reflecting his life as a hermit. In his secret travel form, he appears as a goat to remain anonymous.
 
+### Character Assets
+- **Goat Form:** ![Elunar Goat](../Assets/Elunar%20goat.png)
+- **Elf Form:** ![Elunar Human](../Assets/Elunar%20human.png)
+
 
 ## Backstory
 

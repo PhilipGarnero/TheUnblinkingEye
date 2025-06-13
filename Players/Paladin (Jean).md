@@ -84,10 +84,13 @@
 - **Personality Traits:** "I am always serene, even when confronted with disaster."
 - **Ideals:** "Logic. Emotions should not cloud our sense of what is true and false, or our logical thinking (Loyal)."
 
+### Character Assets
+- **Portrait:** ![Paladin](../Assets/Paladin.png)
+
 
 ## Backstory
 
-This Paladin once served Torm in the esteemed House of the Hand in Procampur, dedicating his life to the god of courage and self-sacrifice. His life took a dark turn after a particularly brutal conflict when his closest friend and fellow warrior, Lysander Grim, vanished without a trace. Lysander's disappearance was inexplicable; it seemed as if he simply blinked out of existence, leaving behind only his distraught wife and empty home.
+This Paladin once served Torm in the esteemed House of the Hand in Procampur, dedicating his life to the god of courage and self-sacrifice. His life took a dark turn after a particularly brutal conflict when his closest friend and fellow warrior, Lysander Grimheart, vanished without a trace. Lysander's disappearance was inexplicable; it seemed as if he simply blinked out of existence, leaving behind only his distraught wife and empty home.
 
 Consumed by worry and a gnawing guilt, the Paladin launched an exhaustive search for Lysander. However, the more he investigated, the more suspicious the circumstances appeared, suggesting something far more sinister than a simple vanishing. Unable to reconcile the facts or find any answers, he ultimately retreated from society, seeking solace and truth in the solitude of a hermit's life. Now, driven by an unshakeable resolve, he journeys endlessly, specifically heading **west**, guided by a faint, persistent hope that answers, and perhaps Lysander, await him there. He is determined to uncover the truth behind his friend's disappearance, no matter how long it takes or how far he must travel.
 

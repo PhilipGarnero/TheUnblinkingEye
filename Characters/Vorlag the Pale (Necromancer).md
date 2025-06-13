@@ -46,6 +46,9 @@
 * Draped in decaying robes of grey, tattered silk
 * Carries staff of blackened bone and skin-bound grimoire
 
+### Character Assets
+- **Portrait:** ![Vorlag](../Assets/Vorlag.png)
+
 **Personality:**
 * Arrogant and cruel with deep disdain for the living
 * Convinced of the supremacy of undeath

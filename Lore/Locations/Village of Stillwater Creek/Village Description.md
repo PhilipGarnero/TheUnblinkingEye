@@ -2,6 +2,9 @@
 
 **Overall Feel:** A moderately sized village, large enough to have a few basic amenities but small enough that everyone knows each other's business. It's primarily self-sufficient in food but relies on occasional traders for anything more exotic. The mood is generally peaceful, if a little isolated, with an undercurrent of superstition regarding the nearby Direwood and Ancestor Mounds.
 
+### Village Location
+- **Stillwater Vale Map:** ![Stillwater Location](../../../Assets/Stillwater%20location.png)
+
 ## Size and Population
 
 * **Dwellings:** Approximately 20 structures, mostly single-story cottages made of timber and daub with thatched roofs. A few might be two-story, particularly the Inn and perhaps Jeb's Sundries.

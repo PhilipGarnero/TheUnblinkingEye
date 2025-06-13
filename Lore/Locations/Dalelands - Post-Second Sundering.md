@@ -2,6 +2,10 @@
 
 *Current information reflecting the state of the Dalelands after the global catastrophe and under the growing influence of Vorlag the Pale*
 
+### Regional Maps
+- **Dalelands Overview:** ![Dalelands Map](../../Assets/Dalelands%20&%20near%20regions.jpg)
+- **Detailed Regional Map:** ![Dalelands Large](../../Assets/dalelands-large.png)
+
 ## Geographic Overview
 
 The Dalelands remain elven forest vales surrounding the great woodland of Cormanthor, but the Second Sundering has left lasting scars on the region. What was once a loose confederation of independent communities now struggles with fractured connections, diminished resources, and the creeping influence of necromantic corruption.
@@ -23,8 +27,8 @@ The traditional Dales Council structure persists but has been severely weakened:
 ### Current Dale Status
 
 **Functioning Dales:**
-- **Mistledale** (Ashabenford): Maintains some stability, acts as regional hub
-- **Deepingdale** (Highmoon): Agricultural center, some temple presence
+- **Mistledale** (Ashabenford): Maintains some stability, acts as regional hub ![Ashabenford](../../Assets/Ashabenford.webp)
+- **Deepingdale** (Highmoon): Agricultural center, some temple presence ![Highmoon](../../Assets/Highmoon.webp)
 - **Shadowdale** (Shadowdale): Historically significant but increasingly isolated
 
 **Struggling Dales:**

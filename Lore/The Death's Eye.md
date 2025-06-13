@@ -1,5 +1,9 @@
 This curse is inflicted by [[Vorlag the Pale (Necromancer)]] when she doesn't have time to deal with the adventurers directly but wishes to punish their interference or mark them for her attention.
 
+### The Curse Symbol
+- **Death's Eye Mark:** ![Death's Eye](../Assets/Death%20eye.png)
+- **Dusk Mark:** ![Dusk Mark](../Assets/dusk%20mark.png)
+
 ## Nature of the Curse
 
 The Death's Eye is a necromantic tether that binds the characters' spirits to the grave's cold embrace. It's a beacon for all the necrotic energy and undead in the area attracting unwelcome attention. Vorlag "shoots" this mark at the characters.

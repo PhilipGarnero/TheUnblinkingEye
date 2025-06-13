@@ -97,6 +97,9 @@ He secluded himself to hide from those who may still be hunting him. One day, he
 **Flaws:**  
 Having returned to civilization, he enjoys its pleasures a little too much (especially alcohol).
 
+### Character Assets
+- **Portrait:** ![Witte Sisse](../Assets/Witte%20Sisse.png)
+
 
 ## Backstory
 
