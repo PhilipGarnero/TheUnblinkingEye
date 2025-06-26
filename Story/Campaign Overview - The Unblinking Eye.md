@@ -1,3 +1,6 @@
+## Intro sentence
+Contre toute attente, vos cœurs continuent de battre dans cette région tourmentée des Dalelands, mais la mort patiente dans chaque recoin sombre. Elle connaît vos noms, elle compte vos pas, et attend son heure avec une éternelle patience. Elle a pu observer ...
+
 ## Premise
 
 The characters find themselves in a settlement ([[Village of Stillwater Creek]]) that falls under attack by skeletal forces led by the necromancer [[Vorlag the Pale (Necromancer)]]. During or immediately after the battle, Vorlag curses the player characters with the "[[The Death's Eye]]" for their interference or as part of a larger design. The campaign revolves around the characters' efforts to understand, survive, and ultimately lift this debilitating and dangerous curse.

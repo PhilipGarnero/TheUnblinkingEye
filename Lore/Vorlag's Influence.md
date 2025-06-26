@@ -1,5 +1,9 @@
 [[Vorlag the Pale (Necromancer)]] is a necromancer servant of the legendary Dusk Lord, working to establish her master's return to the Dalelands. Her influence spreads methodically across the region as she seeks to weaken the barriers between the Material Plane and Shadowfell.
 
+We can see where she or her followers already passed through by witnessing this mark :
+**Dusk Mark:** ![Dusk Mark](../Assets/dusk%20mark.png)
+
+
 ## Areas of Strong Influence
 
 These are locations where the effects of [[The Death's Eye]], particularly the **Foe Resurrection** ability, are most potent. They include:
@@ -24,6 +28,6 @@ These are locations where the effects of [[The Death's Eye]], particularly the *
 * **Regional Corruption:** Spreading undeath and despair across the Dalelands to make the region more hospitable to the Dusk Lord's influence
 * **Army Building:** Amassing undead forces to serve as the Dusk Lord's initial army upon his return
 * **Eliminating Opposition:** Neutralizing local temples, militias, and other forces that could resist the Dusk Lord's resurgence
-* **Artifact Recovery:** Seeking items once owned by the Dusk Lord or other powerful necromantic relics that could aid in the summoning
+* **Artifact Recovery:** Seeking items once owned by the Dusk Lord or other powerful necromantic relics that could aid in the summoning. Has already claimed **The Phalanx of Whispers** from [[The Ancestor Mounds]]
 
 **Personal Ambitions:** Vorlag also seeks to prove herself worthy of greater power from her master, potentially earning lichdom as a reward for her successful service.

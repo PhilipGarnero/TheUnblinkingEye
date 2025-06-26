@@ -14,7 +14,7 @@
 **Hook:** A hooded stranger has been making unusual purchases over the past week - large quantities of salt, iron nails, and lamp oil. They paid well but seemed nervous and left quickly each time. Jeb is curious about what someone needs so many "warding supplies" for.  
 **Objective:** Investigate who the mysterious buyer is and what they're preparing for.  
 **Rewards:** 30 gp, 20% discount at Jeb's store, information about defensive preparations  
-**Truth:** The buyer is a hermit living on the village outskirts who sensed growing necromantic energy and is desperately trying to ward their home. They can provide warnings about "dark stirrings" and basic knowledge about undead weaknesses.
+**Truth:** The buyer is a hermit namd Gildas Twoorb living on the village outskirts who sensed growing necromantic energy and is desperately trying to ward their home. They can provide warnings about "dark stirrings" and basic knowledge about undead weaknesses.
 
 ## Post-Attack Quests (Multiple Options)
 
@@ -52,6 +52,13 @@
 **Objective:** Guard Elder Rowan during a day-long consecration ritual to establish a new sacred burial site.  
 **Rewards:** 100 gp, permanent sanctuary location (undead cannot approach within 30 feet), Elder Rowan's blessing  
 **Mechanics:** PCs face waves of undead trying to disrupt the ritual over 8 hours. Success creates a safe haven for future use.
+
+### Quest 8: Checking on Finzin
+**Giver:** [[Martha "Ma" Greenthistle]]  
+**Hook:** With all the chaos from the attack, no one has heard from [[Finzin Arnberry]] at his farm across the river. Ma is worried something might have happened to the old farmer and wants someone to check on him.  
+**Objective:** Cross the river to Finzin's farm and check on his wellbeing.  
+**Rewards:** Free night's stay at The Slow River Inn for the party  
+**Truth:** Finzin was fine until the cursed PCs arrived - their presence through [[The Death's Eye]] curse caused nearby dead animals and buried livestock to rise as undead. The PCs must fight these newly risen creatures while protecting Finzin.
 
 ## Quest Chains
 

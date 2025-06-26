@@ -2,7 +2,6 @@ This curse is inflicted by [[Vorlag the Pale (Necromancer)]] when she doesn't ha
 
 ### The Curse Symbol
 - **Death's Eye Mark:** ![Death's Eye](../Assets/Death%20eye.png)
-- **Dusk Mark:** ![Dusk Mark](../Assets/dusk%20mark.png)
 
 ## Nature of the Curse
 
@@ -19,7 +18,6 @@ A faint, greyish, eye-like circle spreads from a point on each character's body 
 
 ## Additional Potential Effects (DM to choose or introduce as curse worsens)
 
-* **Diminished Vigor:** The character cannot regain hit points from spells or effects as efficiently. When a spell or effect would grant them hit points, they regain hit points equal to the amount rolled minus the spell slot level used (minimum 1 HP regained). For non-spell healing (like a Healer's Kit or Second Wind), reduce the healing by a flat amount (e.g., 2 HP, minimum 1).
 * **Whispers from Beyond:** The character suffers from unsettling whispers and visions, especially during rest. They might have disadvantage on Wisdom (Perception) checks that rely on hearing and/or require an extra hour of sleep during a long rest to avoid gaining a level of exhaustion.
 * **Necrotic Frailty:** The character has vulnerability to necrotic damage. (Use with caution at low levels).
 * **Mark of the Damned (Social/Roleplaying):** Animals become uneasy in their presence (disadvantage on Wisdom (Animal Handling) checks). Some devout NPCs might react with fear or suspicion. Undead creatures of low intelligence (Skeletons, Zombies) might ignore the character unless attacked, while more intelligent undead might show a disturbing interest or attempt to command them.
@@ -28,7 +26,6 @@ A faint, greyish, eye-like circle spreads from a point on each character's body 
 
 If the curse is not addressed, its effects can worsen over time:
 * The visual mark becomes more prominent and painful.
-* Maximum HP reduction (e.g., 1-2 points per level gained, or periodically).
 * Disadvantage on death saving throws.
 * Failure to regain all Hit Dice on a long rest.
 

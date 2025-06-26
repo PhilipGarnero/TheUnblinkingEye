@@ -22,10 +22,10 @@
 
 ## Proficiencies
 
-**Proficiency Bonus**: +3
+**Proficiency Bonus**: +2
 
 - **Saving Throw Proficiencies:** Strength, Dexterity
-- **Skill Proficiencies:** Athletics, Animal Handling, Perception, Survival
+- **Skill Proficiencies:** Athletics, Animal Handling, Perception, Survival, Nature
 - **Armor:** Light armor, medium armor, shields
 - **Weapons:** Simple weapons, martial weapons
 - **Tools:** Pan flute, poison kit

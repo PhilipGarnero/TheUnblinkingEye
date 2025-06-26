@@ -10,8 +10,31 @@
 
 
 ## Stats
-**Base:** Paladin (Monster Manual 2014, p. 347)
-**Special Abilities:** Lay on Hands, Divine Sense, extensive undead-fighting experience
+**Knight of the Gauntlet**
+_Medium humanoid (human), Lawful Good_
+**Armor Class** 18 (Chain mail, shield) **Hit Points** 36 (4d10 + 8) **Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 18 (+4) | 10 (+0) | 14 (+2) | 8 (-1) | 12 (+1) | 14 (+2) |
+
+**Saving Throws** Wis, Cha
+**Skills** Athletics +6, Intimidation +4
+**Languages** Common
+**Challenge Rating** 2
+
+
+**Lay on Hands (20/Long Rest).** As an action, the knight can touch a creature and restore up to 20 hit points. Alternatively, the knight can expend 5 of these points to cure one disease or neutralize one poison. _Source: Player's Handbook (2014) p. 84_
+
+**Channel Divinity (1/Short Rest).** The knight has one use of its Channel Divinity.
+
+- **Sacred Weapon.** As an action, the knight imbues one weapon with positive energy for 1 minute. It adds its Charisma modifier (+2) to attack rolls with that weapon, and the weapon emits bright light in a 20-foot radius. _Source: Player's Handbook (2014) p. 86_
+
+**Spellcasting.** The knight is a 4th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12). It has the following paladin spells prepared: 1st level (3 slots): _bless, protection from evil and good, shield of faith_ _Source: Player's Handbook (2014) p. 85_
+
+**Longsword.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (1d8 + 6) slashing damage.
+
+**Divine Smite (Costs a Spell Slot).** When the knight hits a creature with a melee weapon attack, it can expend one 1st-level spell slot to deal an extra 9 (2d8) radiant damage to the target. _Source: Player's Handbook (2014) p. 85_
 
 ## Items
 - Plate armor with Order of the Gauntlet symbol
@@ -37,7 +60,7 @@
 
 ## Description
 **Physical Appearance:**
-Stern but righteous paladin in gleaming plate armor bearing Order's gauntlet symbol. Weathered face shows marks of years fighting evil, with graying temples and sharp, determined eyes. Carries himself with bearing of seasoned commander who has seen many battles against darkness.
+Righteous paladin in gleaming plate armor bearing Order's gauntlet symbol. Face shows kindness despite years fighting evil, with graying temples and sharp, determined eyes. Carries himself with bearing of seasoned commander who has seen many battles against darkness.
 
 ### Character Assets
 - **Portrait:** ![Ser Gareth Brightshield](../Assets/Ser%20Gareth%20Brightshield.png)

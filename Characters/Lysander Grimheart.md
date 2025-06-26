@@ -72,15 +72,15 @@
 - **Protective:** Guards Vorlag with same dedication once shown protecting innocents
 
 ## History
-**The Partnership:** Decades ago, when Vorlag was promising young cleric studying ancient texts, Lysander was her companion and protector. They served together in temple, investigating undead activity reports.
+**The Beautiful Orphan:** Decades ago, Lysander discovered Lovgar dying in ancient ruins—a hauntingly beautiful teenager with skin pale as fresh snow, barely clinging to life. Her ethereal, ghostly beauty struck him with both pity and wonder; she seemed more spirit than flesh, her translucent features delicate as carved marble. He nursed her back to health in secret, hiding her from his wife's potential jealousy, then enrolled her as a cleric of Ilmater to study religion and ancient texts. His visits began frequent but dwindled to once yearly, each time bringing books to feed her voracious appetite for knowledge.
 
-**The Corruption:** During expedition to cleanse ancient crypt, Vorlag discovered forbidden necromantic knowledge. Lysander tried to stop her from pursuing dark arts, but she had already begun transformation.
+**The Corruption:** While cleansing an ancient crypt, Lysander uncovered what seemed like another harmless scholarly text. The indecipherable tome actually contained forbidden necromantic knowledge of [[The Dusk Lord]]. He presented it to Lovgar as an intellectual challenge during his next visit. She accepted eagerly and was soon corrupted by its dark scriptures—a corruption made easier by her secret prayers to Shar, hidden beneath her worship of Ilmater to cope with her traumatic past.
 
-**The Betrayal:** When Lysander attempted to report Vorlag's corruption to superiors, she made terrible choice. Rather than kill him outright, she used ritual to slowly transform him into ghoul, making him watch as divine powers abandoned him.
+**The Betrayal:** Years of infrequent visits bred resentment in Lovgar's heart. She had fallen deeply in love with her savior, and his growing absence tormented her. When he next came to see her, she lured him to a secluded place and confessed her feelings. Lysander, ever honorable, respectfully rejected her advances. Driven to madness by his refusal, she enacted the ultimate violation—using a prepared ritual to trap and slowly transform him into her ghoul servant, forcing him to watch helplessly as his divine powers drained away.
 
-**The Binding:** Transformation was deliberate and personal. Vorlag ensured Lysander retained enough original personality to understand his fall, creating perfect servant embodying her victory over divine righteousness.
+**The Binding:** Vorlag's transformation was deliberate and personal. She preserved enough of Lysander's original personality, hoping he might one day return her love. Instead, she created something unexpected—the perfect servant. His protective instincts, maybe bound to the image of the little girl she once was, now compelled him to guard the very woman who had damned him.
 
-**Years of Service:** For past fifteen years, served as Vorlag's bodyguard, enforcer, and most trusted companion, though part of him still hopes for redemption that may never come.
+**Years of Service:** For fifteen years, he has served as Vorlag's bodyguard, enforcer, and most trusted companion. Deep within his corrupted soul, a fragment of his former self still clings to hope for redemption—a hope that may never come.
 
 **Goals:** *No personal goals - exists only to serve Vorlag and protect her from threats*
 

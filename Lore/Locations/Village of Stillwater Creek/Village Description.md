@@ -3,8 +3,8 @@
 **Overall Feel:** A moderately sized village, large enough to have a few basic amenities but small enough that everyone knows each other's business. It's primarily self-sufficient in food but relies on occasional traders for anything more exotic. The mood is generally peaceful, if a little isolated, with an undercurrent of superstition regarding the nearby Direwood and Ancestor Mounds.
 
 ### Village Location
-- **Stillwater Vale Map:** ![Stillwater Location](../../../Assets/Stillwater%20location.png)
-
+- **Stillwater Vale Location:** ![Stillwater Location](../../../Assets/Stillwater%20location.png)
+![Stillwater Creek](../../../Assets/Stillwater%20Creek.jpg)
 ## Size and Population
 
 * **Dwellings:** Approximately 20 structures, mostly single-story cottages made of timber and daub with thatched roofs. A few might be two-story, particularly the Inn and perhaps Jeb's Sundries.
@@ -43,13 +43,12 @@ A few rickety wooden piers on the River Stillwater where fishing boats (mostly s
 
 ## Regional Location
 
-Stillwater Creek sits in **The Stillwater Vale**, a secluded valley in the northern Dalelands. This region was once within the sphere of influence of the legendary Dusk Lord before his banishment to the Shadowfell centuries ago. The vale retains traces of ancient necromantic influence, making it an ideal location for [[Vorlag the Pale (Necromancer)]] to begin his master's return.
+Stillwater Creek sits in **[[The Stillwater Vale]]**, a secluded valley inbetween [[Mistledale]] and [[Deepingdale]] within the broader [[Dalelands]] region. This region was once within the sphere of influence of the legendary [[The Dusk Lord]] before his banishment to the Shadowfell centuries ago. The vale retains traces of ancient necromantic influence, making it an ideal location for [[Vorlag the Pale (Necromancer)]] to begin his master's return.
 
 ## Why Stillwater Creek is Targeted by Vorlag
 
-The necromancer [[Vorlag the Pale (Necromancer)]] has chosen Stillwater Creek for specific strategic reasons in her campaign to restore the Dusk Lord:
+The necromancer [[Vorlag the Pale (Necromancer)]] attacks Stillwater Creek for strategic reasons in her campaign to restore the Dusk Lord:
 
-* **Historical Significance:** The village sits on land once directly controlled by the Dusk Lord before his banishment. Ancient ley lines and necromantic resonances still echo through the area.
-* **Shadowfell Convergence:** The village lies on a confluence of weakened planar energies—a remnant "thin spot" to the Shadowfell left from the Dusk Lord's original dominion. Vorlag intends to exploit this to create a permanent anchor point for her master's influence.
-* **Strategic Position:** Stillwater Creek's isolation makes it ideal for establishing a necromantic stronghold without immediate intervention from Dalelands authorities or major temples.
-* **Symbolic Victory:** By reclaiming this ancestral territory, Vorlag demonstrates the Dusk Lord's growing power and sends a message to other potential allies and enemies throughout the region.
+* **Historical Significance:** The Dusk Lord's old seat of power was Sessrendale a dozens of miles west. In order to restore him, Vorlag will need to desecrate all the land that did belong to its territory. The village sits on land that was once directly controlled by him before his banishment. Ancient ley lines and necromantic resonances still echo through the area. 
+* **Shadowfell Convergence:** Furthermore, the ancestor's mound of the village contained relics she needed for her desecrating rituals—she has already claimed **The Phalanx of Whispers** from the burial site. The location is also a good starting point for rituals as it lies on a confluence of weakened planar energies—a remnant "thin spot" to the Shadowfell left from the Dusk Lord's original dominion. Vorlag intends to exploit these kind of spots to create a permanent anchor point for her master's influence.
+* **Isolated Position:** Stillwater Creek's isolation also makes it ideal for changing its population into undeads without drawing too much attention and thus without immediate intervention from Dalelands authorities or major temples.

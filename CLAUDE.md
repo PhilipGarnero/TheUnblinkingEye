@@ -20,6 +20,10 @@ This is a D&D 5e campaign vault focused on **"The Unblinking Eye"** - a dark fan
 
 ## Core Campaign Mechanics
 
+### Additional rules
+- Injuries on downed creatures : 1d4 for severity (handicap, hindrance, rest, cosmetic)
+- Massive damage causes until next turn : nothing, loss of reaction, disadvantage on ability checks, prone, stunned or downed based on 1d6 in that order
+
 ### The Death's Eye Curse
 - **Minion Attraction**: Draws undead to cursed characters
 - **Foe Resurrection**: Slain enemies may rise as skeletons in areas of Vorlag's influence

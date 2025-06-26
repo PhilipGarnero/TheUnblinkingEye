@@ -69,7 +69,7 @@
 
 ### Background Feature (Hermit)
 
-- **Discovery:** Your seclusion led to the uncovering of a unique and powerful truth (details TBD with DM)
+- **Unsettling Presence**: Years of isolation have made you... peculiar. Your mannerisms, speech, and intense stare can be off-putting to others. You can leverage this to your advantage. As an action, you can force a creature that can see and hear you within 30 feet to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). On a failed save, the creature is unnerved by you and has disadvantage on Wisdom (Perception) and Wisdom (Insight) checks made against you for the next 10 minutes. Once you use this ability, you can't use it again until you finish a short or long rest.
 
 
 ## Appearance & Personality
@@ -103,7 +103,15 @@ Having returned to civilization, he enjoys its pleasures a little too much (espe
 
 ## Backstory
 
-Witte Sisse hails from the southern slopes of the Desertsmouth Mountains, where he once lived in a secluded temple devoted to **Lathander**, the Morninglord. This temple was little known, intentionally hidden from the world, as it guarded a **sacred relic**—a powerful artifact long sought by the **Cult of the Dragon**.
+Witte Sisse hails from the southern slopes of the Desertsmouth Mountains, where he once lived in a secluded temple devoted to **Lathander**, the Morninglord. This temple was little known, intentionally hidden from the world, as it guarded the **Sunstone of Renewal**—a sacred relic long sought by the **Cult of the Dragon**.
+
+### The Sunstone of Renewal
+The **Sunstone of Renewal** is a large, flawless crystal about the size of a human heart that glows with an inner golden light. Warm to the touch and pulsing with gentle, life-giving energy, it was blessed by Lathander himself as a testament to the life-giving power of the dawn.
+
+**Sacred Functions:**
+- **Beacon of Hope:** Its constant, gentle radiance served as a symbol of Lathander's enduring presence, kept in the central sanctuary where its light bathed the chamber in warm, golden glow
+- **Tool for Healing:** When a cleric channeled divine energy through the stone, they could perform great acts of healing, curing diseases, neutralizing poisons, and even regenerating lost limbs
+- **Ward Against Undeath:** The stone's light created a hallowed area around the temple, preventing undead creatures from approaching and serving as a key defense for the temple and surrounding community
 
 For years, the monks of the temple lived in peace, shielding the relic through discipline, humility, and secrecy. But eventually, the cult learned of its existence. One grim day, they launched an assault on the temple. Witte was the **only survivor**, narrowly escaping the slaughter as his brothers and sisters were slain.
 

@@ -46,8 +46,7 @@ The immediate aftermath is a scene of chaos, fear, and dawning horror. The night
 
 Amidst the chaos, some clues might emerge, pointing towards future paths:
 
-* **Vorlag's Origin Point:** It will be clear the attack was staged from the **Ancestor Mounds** or the **Direwood**. Tracks, disturbed earth, or a lingering cold spot could be investigated (leads to Path 1).
-* **Ritual Remnants:** If Vorlag was performing a ritual (Option B or C for the attack's purpose), faint traces might be found at the desecrated Shrine or a specific Mound: a circle of ash, a strange metallic tang in the air, a few dead animals drained of life, or an unusual symbol carved into stone. This could be a clue to her methods or goals.
+* **Vorlag's Origin Point:** It will be clear the attack was staged from the **Ancestor Mounds**. Tracks, disturbed earth, or a lingering cold spot could be investigated (leads to Path 1).
 * **Words of the Necromancer:** His parting taunts about **[[The Death's Eye]]** are the most direct clue. [[Elder Rowan Meadowlight]] will emphasize the need to find someone who understands such "marks."
 * **Unusual Item (Hooks for Path 1):** If one of the PCs speak with [[Young Lissie Fallowfield]] they might get directed to the Ancestor's mound. If they go there with [[Elder Rowan Meadowlight]], he will say that a peculiar item amidst the bones of a defeated Skeleton (perhaps one that seemed to direct others, or one near Vorlag), or at a spot where Vorlag stood:
     * A small, oddly carved bone that feels colder than the others and perhaps has a faint, eye-like carving.

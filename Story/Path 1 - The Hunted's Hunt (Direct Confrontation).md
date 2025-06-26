@@ -7,7 +7,7 @@
 1.  **Tracking the Shadow:**
     * Gather clues from the initial attack site (maps, artifacts, witness accounts).
     * **Quest 6: Tracking the Source** - Follow undead forces back to their staging area with ranger Lyanna Swiftarrow.
-    * Discover the theft of **Ancestral Ward Stones** from the mounds and evidence of their transport.
+    * Discover the theft of **The Phalanx of Whispers** from the mounds and evidence of its transport. Learn that Vorlag seeks additional necromantic artifacts.
 2.  **Unraveling the Conspiracy:**
     * **The Corrupted Ward Network:** Learn that [[Vorlag the Pale (Necromancer)]] stole the protective ward stones and corrupted them through necromantic rituals at the Ancestor Mounds.
     * Discover these corrupted stones now serve as **Shadowfell Anchors**, amplifying undead activity and thinning planar barriers across the region.
