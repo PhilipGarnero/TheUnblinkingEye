@@ -8,44 +8,57 @@
 
 
 ## Stats
-**Necromancer Lord**
-**Armor Class** 12 (15 with _mage armor_)
-**Hit Points** 99 (18d8 + 18)
-**Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|9 (-1)|14 (+2)|12 (+1)|18 (+4)|14 (+2)|16 (+3)|
-**Saving Throws** INT +8, WIS +6
-**Skills** Arcana +8, History +8, Insight +6, Religion +8
-**Damage Resistances** necrotic
-**Senses** passive Perception 12
-**Languages** any four languages
-**Challenge** 8 
-
-**Grim Harvest (1/Turn).** When the necromancer lord kills a creature that is not a construct or undead with a spell of 1st level or higher, the necromancer lord regains hit points equal to twice the spell's level, or three times if it is a necromancy spell.
-
-**Spellcasting.** The necromancer lord is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The necromancer lord has the following wizard spells prepared:
-
-- Cantrips (at will): _chill touch_, _mage hand_, _prestidigitation_, _toll the dead_
-- 1st level (4 slots): _false life_, _mage armor_, _magic missile_, _ray of sickness_
-- 2nd level (3 slots): _blindness/deafness_, _ray of enfeeblement_, _web_
-- 3rd level (3 slots): _animate dead_, _counterspell_, _fear_, _vampiric touch_
-- 4th level (3 slots): _blight_, _dimension door_, _phantasmal killer_
-- 5th level (2 slots): _cloudkill_, _danse macabre_
-- 6th level (1 slot): _circle of death_
-
-### **Actions**
-
-**Withering Touch.** _Melee Spell Attack:_ +8 to hit, reach 5 ft., one creature. _Hit:_ 11 (2d10) necrotic damage.
-
-### **Legendary Actions**
-
-The necromancer lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The necromancer lord regains spent legendary actions at the start of its turn.
-
-- **Cantrip.** The necromancer lord casts a cantrip.
-- **Command Undead (Costs 2 Actions).** The necromancer lord magically commands one undead creature it can see within 60 feet of it. The target must succeed on a DC 16 Charisma saving throw or obey the necromancer's commands until the end of the necromancer's next turn.
-- **Disrupt Life (Costs 3 Actions).** Each non-undead creature within 20 feet of the necromancer lord must make a DC 16 Constitution saving throw, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
+```statblock
+layout: Basic 5e Layout
+image: "[[../Assets/Vorlag.png|Show to Players]]"
+name: Vorlag the Pale
+source: Characters
+cr: 8
+size: Medium
+type: humanoid
+subtype: human
+alignment: neutral evil
+ac: 12
+hp: 99
+hit_dice: 18d8 + 18
+speed: "30 ft."
+stats: [9, 14, 12, 18, 14, 16]
+saves:
+  - intelligence: 8
+  - wisdom: 6
+skillsaves:
+  - arcana: 8
+  - history: 8
+  - insight: 6
+  - religion: 8
+damage_resistances: "necrotic"
+senses: "passive Perception 12"
+languages: "any four languages"
+traits:
+  - name: "Grim Harvest (1/Turn)"
+    desc: "When the necromancer lord kills a creature that is not a construct or undead with a spell of 1st level or higher, the necromancer lord regains hit points equal to twice the spell's level, or three times if it is a necromancy spell."
+  - name: "Spellcasting"
+    desc: "The necromancer lord is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks)."
+actions:
+  - name: Withering Touch
+    desc: "Melee Spell Attack: +8 to hit, reach 5 ft., one creature. Hit: 11 (2d10) necrotic damage."
+legendary_actions:
+  - name: "Cantrip"
+    desc: "The necromancer lord casts a cantrip."
+  - name: "Command Undead (Costs 2 Actions)"
+    desc: "The necromancer lord magically commands one undead creature it can see within 60 feet of it. The target must succeed on a DC 16 Charisma saving throw or obey the necromancer's commands until the end of the necromancer's next turn."
+  - name: "Disrupt Life (Costs 3 Actions)"
+    desc: "Each non-undead creature within 20 feet of the necromancer lord must make a DC 16 Constitution saving throw, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one."
+spells:
+  - The necromancer lord has the following wizard spells prepared
+  - Cantrips (at will): chill touch, mage hand, prestidigitation, toll the dead
+  - 1st level (4 slots): false life, mage armor, magic missile, ray of sickness
+  - 2nd level (3 slots): blindness/deafness, ray of enfeeblement, web
+  - 3rd level (3 slots): animate dead, counterspell, fear, vampiric touch
+  - 4th level (3 slots): blight, dimension door, phantasmal killer
+  - 5th level (2 slots): cloudkill, danse macabre
+  - 6th level (1 slot): circle of death
+```
 
 ## Items
 * Staff of blackened bone

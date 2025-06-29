@@ -1,4 +1,3 @@
-
 ## Basic Information
 - **Race:** Human
 - **Age:** 42
@@ -8,33 +7,46 @@
 - **Location:** [[Village of Stillwater Creek]] (investigating undead activity)
 - **Voice:** Sustained/direct/strong, mixed placement, dry air, medium tempo, loud volume, friendly tone
 
-
 ## Stats
-**Knight of the Gauntlet**
-_Medium humanoid (human), Lawful Good_
-**Armor Class** 18 (Chain mail, shield) **Hit Points** 36 (4d10 + 8) **Speed** 30 ft.
-
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
-| ------- | ------- | ------- | ------ | ------- | ------- |
-| 18 (+4) | 10 (+0) | 14 (+2) | 8 (-1) | 12 (+1) | 14 (+2) |
-
-**Saving Throws** Wis, Cha
-**Skills** Athletics +6, Intimidation +4
-**Languages** Common
-**Challenge Rating** 2
-
-
-**Lay on Hands (20/Long Rest).** As an action, the knight can touch a creature and restore up to 20 hit points. Alternatively, the knight can expend 5 of these points to cure one disease or neutralize one poison. _Source: Player's Handbook (2014) p. 84_
-
-**Channel Divinity (1/Short Rest).** The knight has one use of its Channel Divinity.
-
-- **Sacred Weapon.** As an action, the knight imbues one weapon with positive energy for 1 minute. It adds its Charisma modifier (+2) to attack rolls with that weapon, and the weapon emits bright light in a 20-foot radius. _Source: Player's Handbook (2014) p. 86_
-
-**Spellcasting.** The knight is a 4th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12). It has the following paladin spells prepared: 1st level (3 slots): _bless, protection from evil and good, shield of faith_ _Source: Player's Handbook (2014) p. 85_
-
-**Longsword.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (1d8 + 6) slashing damage.
-
-**Divine Smite (Costs a Spell Slot).** When the knight hits a creature with a melee weapon attack, it can expend one 1st-level spell slot to deal an extra 9 (2d8) radiant damage to the target. _Source: Player's Handbook (2014) p. 85_
+```statblock
+layout: Basic 5e Layout
+image: "[[../Assets/Ser Gareth Brightshield.png|Show to Players]]"
+name: Ser Gareth Brightshield
+source: Characters
+cr: 2
+size: Medium
+type: humanoid
+subtype: human
+alignment: lawful good
+ac: 18
+hp: 36
+hit_dice: 4d10 + 8
+speed: "30 ft."
+stats: [18, 10, 14, 8, 12, 14]
+saves:
+  - wisdom: 4
+  - charisma: 5
+skillsaves:
+  - athletics: 6
+  - intimidation: 4
+senses: "passive Perception 11"
+languages: "Common"
+traits:
+  - name: "Lay on Hands (20/Long Rest)"
+    desc: "As an action, the knight can touch a creature and restore up to 20 hit points. Alternatively, the knight can expend 5 of these points to cure one disease or neutralize one poison."
+  - name: "Channel Divinity (1/Short Rest)"
+    desc: "The knight has one use of its Channel Divinity."
+  - name: "Sacred Weapon"
+    desc: "As an action, the knight imbues one weapon with positive energy for 1 minute. It adds its Charisma modifier (+2) to attack rolls with that weapon, and the weapon emits bright light in a 20-foot radius."
+actions:
+  - name: Longsword
+    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) slashing damage."
+  - name: Divine Smite (Costs a Spell Slot)
+    desc: "When the knight hits a creature with a melee weapon attack, it can expend one 1st-level spell slot to deal an extra 9 (2d8) radiant damage to any target."
+spells:
+  - The knight is a 4th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks).
+  - 1st level (3 slots): bless, protection from evil and good, shield of faith
+```
 
 ## Items
 - Plate armor with Order of the Gauntlet symbol

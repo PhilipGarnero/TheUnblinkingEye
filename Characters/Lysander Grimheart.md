@@ -10,20 +10,61 @@
 
 
 ## Stats
-**Base:** Ghoul (Monster Manual, p. 148) with enhancements:
-- **AC:** 16 (Corrupted Plate Armor)
-- **HP:** 35 (6d8 + 12)
-- **STR:** 16 (+3), improved saves
-- **Retained Skills:** Religion and Insight proficiencies
-
-**Special Abilities:**
-- **Fallen Paladin's Strength:** *Divine Smite* once per day (necrotic damage)
-- **Corrupted Lay on Hands:** Touch willing undead to heal 10 HP once per day
-- **Aura of Dread:** Living creatures within 10 feet have disadvantage on fear saves
+```statblock
+name: Lysander Grimheart
+image: "[[../Assets/Lysander Ghoul.png|Show to Players]]"
+source: Characters
+size: Medium
+type: undead
+subtype: ghoul
+alignment: neutral evil
+ac: 15
+hp: 112
+hit_dice: 15d8 + 45
+speed: "30 ft."
+stats: [18, 15, 16, 11, 10, 8]
+saves:
+  strength: 6
+  constitution: 5
+skillsaves:
+  insight: 2
+  religion: 2
+damage_immunities:
+  - poison
+condition_immunities:
+  - charmed
+  - exhaustion
+  - poisoned
+senses: "darkvision 60 ft., passive Perception 10"
+languages:
+  - Common
+cr: 4
+traits:
+  - name: "Fallen Paladin's Strength"
+    desc: |
+      Once per day, when Lysander hits with a melee weapon attack, he can expend this ability to deal an extra 9 (2d8) necrotic damage.
+  - name: "Corrupted Lay on Hands"
+    desc: |
+      Once per day, Lysander can touch a willing undead creature to heal 10 hit points.
+  - name: "Aura of Dread"
+    desc: |
+      Living creatures within 10 feet of Lysander have disadvantage on saving throws against being frightened.
+actions:
+  - name: Multiattack
+    desc: |
+      Lysander makes three attacks: two with his mace and one with his claws.
+  - name: Grievous Strike
+    desc: |
+      Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 7 (1d6 + 4) bludgeoning damage. If the target is a living creature, it cannot regain hit points until the end of Lysander's next turn.
+  - name: Claws
+    desc: |
+      Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage. If the target is a creature other than an elf or undead, it must make a DC 13 Constitution saving throw. On a failed save, the target is paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+```
 
 ## Items
 - Corrupted plate armor (blackened and corroded)
 - Twisted holy symbol of Torm (radiates darkness)
+- Corrupted mace (former holy weapon, now radiates necrotic energy)
 - Remnants of paladin equipment
 - Claws (natural weapons)
 

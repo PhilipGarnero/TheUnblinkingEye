@@ -1,4 +1,4 @@
-## General Information
+## Basic Information
 
 - **Character Name:** Thoric Briserune
 - **Class & Level:** Paladin 1
@@ -8,54 +8,57 @@
 - **Experience Points:** 0
 - **Inspiration Points:** 0
 
-
-## Ability Scores
-
-| Ability      | Score | Modifier |
-| :----------- | :---: | :------: |
-| STRENGTH     |  16   |    +3    |
-| DEXTERITY    |  10   |    0     |
-| CONSTITUTION |  16   |    +3    |
-| INTELLIGENCE |  10   |    0     |
-| WISDOM       |  10   |    0     |
-| CHARISMA     |  14   |    +2    |
-
-
-## Proficiencies
-
-**Proficiency Bonus**: +2
-
-- **Saving Throw Proficiencies:** Wisdom, Charisma
-- **Skill Proficiencies:** Athletics, Intimidation, Medicine, Religion
-- **Armor:** Light armor, medium armor, heavy armor, shields
-- **Weapons:** Simple weapons, martial weapons
-- **Tools:** Smith's tools, Herbalism kit
-- **Languages:** Common, Dwarvish, Elvish
-
-
-## Combat
-
-- **Speed:** 25 ft. (7.50m was on the original sheet, which is approximately 25 ft)
-- **Hit Dice:** 1d10
-- **HP:** 13 (Maximum Hit Points)
-- **Current HP:** 13
-- **Temporary HP:** 0
-- **AC:** 16
-
-
-## Attacks
-
-| Name     | Damage/Type     | Properties |
-| :------- | :-------------- | :--------- |
-| Greataxe | 1d12 slashing   | Melee      |
-| Maul     | 2d6 bludgeoning | Melee      |
-| Mace     | 1d6 bludgeoning | Melee      |
-
-
-## Spells
-
-- **Spellcasting Class (Spellcasting Ability):** Paladin (Charisma)
-
+## Stats
+```statblock
+layout: Basic 5e Layout
+player: true
+name: Thoric Briserune
+source: Players
+size: Medium
+type: humanoid
+subtype: dwarf
+alignment: neutral
+ac: 16
+hp: 13
+hit_dice: 1d10
+speed: "25 ft."
+stats: [16, 10, 16, 10, 10, 14]
+saves:
+  - wisdom: ­
+  - charisma: ­
+skillsaves:
+  - athletics: ­
+  - intimidation: ­
+  - medicine: ­
+  - religion: ­
+senses: "darkvision 60 ft."
+languages: "Common, Dwarvish, Elvish"
+cr: 2
+traits:
+  - name: "Armor Proficiencies"
+    desc: "Light armor, medium armor, heavy armor, shields"
+  - name: "Weapon Proficiencies"
+    desc: "Simple weapons, martial weapons"
+  - name: "Tool Proficiencies"
+    desc: "Smith's tools, Herbalism kit"
+  - name: "Dwarven Resilience"
+    desc: "You have advantage on saving throws against poison, and you have resistance against poison damage."
+  - name: "Stonecunning"
+    desc: "Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check."
+  - name: "Inner Calm (Hermit Background)"
+    desc: "You have advantage on saving throws against being charmed or frightened. Furthermore, you can spend one minute in quiet meditation to grant yourself temporary hit points equal to your proficiency bonus. You can use this meditation ability a number of times equal to your Wisdom modifier, and you regain all expended uses when you finish a long rest."
+actions:
+  - name: Greataxe
+    desc: "Melee Weapon Attack, reach 5 ft., one target. Hit: 1d12 slashing damage."
+  - name: Maul
+    desc: "Melee Weapon Attack, reach 5 ft., one target. Hit: 2d6 bludgeoning damage."
+  - name: Mace
+    desc: "Melee Weapon Attack, reach 5 ft., one target. Hit: 1d6 bludgeoning damage."
+  - "Divine Sense (3/Long Rest)": "As an action, detect celestials, fiends, or undead within 60 feet for one turn."
+  - "Lay on Hands (5 hp pool)": "As an action, restore hit points or cure disease/poison (5 hp to cure)."
+spells:
+  - None: (Paladins don't gain spellcasting at level 1)
+```
 
 
 ## Features & Traits

@@ -10,15 +10,55 @@
 
 
 ## Stats
-**Base:** Drow Elite Warrior (Monster Manual, p. 128) with Cult Fanatic spellcasting (Monster Manual, p. 345)
-
-**Spell Modifications:**
-- Replace Light cantrip with *Chill Touch*
-- Add necromancy spells: *Inflict Wounds*, *Spiritual Weapon* (necrotic), *Animate Dead*
-
-**Special Abilities:**
-- **Shadow Step:** *Misty Step* as bonus action (recharge 5-6)
-- **Necrotic Strike:** Weapon attacks deal additional 1d6 necrotic damage
+```statblock
+layout: Basic 5e Layout
+name: Malachar Shadowbane
+image: "[[../Assets/Malachar Shadowbane.png|Show to Players]]"
+source: Characters
+cr: 4
+size: Medium
+type: humanoid
+subtype: drow
+alignment: neutral evil
+ac: 15
+hp: 71
+hit_dice: 13d8 + 13
+speed: "30 ft."
+stats: [13, 16, 12, 11, 13, 14]
+saves:
+  - dexterity: 5
+  - wisdom: 3
+skillsaves:
+  - perception: 3
+  - stealth: 7
+damage_resistances: "necrotic"
+senses: "darkvision 120 ft., passive Perception 13"
+languages: "Elvish, Undercommon"
+traits:
+  - name: "Fey Ancestry"
+    desc: "Malachar has advantage on saving throws against being charmed, and magic can't put him to sleep."
+  - name: "Sunlight Sensitivity"
+    desc: "While in sunlight, Malachar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+  - name: "Shadow Step (Recharge 5-6)"
+    desc: "As a bonus action, Malachar can cast misty step without expending a spell slot."
+  - name: "Necrotic Strike"
+    desc: "Malachar's weapon attacks deal an additional 1d6 necrotic damage."
+  - name: "Spellcasting"
+    desc: "Malachar is a 6th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks)."
+actions:
+  - name: Multiattack
+    desc: "Malachar makes two scimitar attacks."
+  - name: Scimitar
+    desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage plus 3 (1d6) necrotic damage."
+  - name: Hand Crossbow
+    desc: "Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and the target must make a DC 13 Constitution saving throw or be poisoned for 1 hour."
+spells:
+  - Malachar has the following cleric spells prepared
+  - Cantrips (at will): chill touch, thaumaturgy, toll the dead
+  - 1st level (4 slots): inflict wounds, guiding bolt, command
+  - 2nd level (3 slots): hold person, spiritual weapon (necrotic)
+  - 3rd level (3 slots): animate dead, dispel magic
+```
 
 ## Items
 - Dark robes adorned with bone and shadow motifs

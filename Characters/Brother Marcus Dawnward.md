@@ -10,8 +10,44 @@
 
 
 ## Stats
-**When Alive:** Priest (Monster Manual 2014, p. 348)
-**Special Abilities:** Turn Undead, divine magic, healing abilities
+```statblock
+layout: Basic 5e Layout
+name: Brother Marcus Dawnward (Deceased)
+source: Characters
+cr: 2
+size: Medium
+type: humanoid
+subtype: human
+alignment: lawful good
+ac: 13
+hp: 27
+hit_dice: 5d8 + 5
+speed: "25 ft."
+stats: [10, 10, 12, 13, 16, 13]
+skillsaves:
+  - medicine: 7
+  - persuasion: 3
+  - religion: 4
+senses: "passive Perception 13"
+languages: "Common"
+traits:
+  - name: "Divine Eminence"
+    desc: "As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st."
+  - name: "Spellcasting"
+    desc: "The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks)."
+actions:
+  - name: Mace
+    desc: "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage."
+  - name: "Turn Undead (1/Short or Long Rest)"
+    desc: "As an action, the priest presents its holy symbol and speaks a prayer censuring the undead. Each undead that can see or hear the priest within 30 feet of it must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage."
+spells:
+  - The priest has the following cleric spells prepared
+  - Cantrips (at will): light, sacred flame, thaumaturgy
+  - 1st level (4 slots): cure wounds, guiding bolt, sanctuary
+  - 2nd level (3 slots): lesser restoration, spiritual weapon
+  - 3rd level (2 slots): dispel magic, spirit guardians
+```
+**NOTE:** Character is deceased - stats provided for reference and flashback encounters only.
 
 ## Items
 **On Body:**

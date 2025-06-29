@@ -9,15 +9,37 @@
 **Voice:** Sudden/indirect/light, mixed placement, breathy air, medium tempo, mid volume, friendly tone  
 
 ## Stats
-**Armor Class:** 11  
-**Hit Points:** 4 (1d8)  
-**Speed:** 25 ft.  
-**STR:** 8 (-1) **DEX:** 13 (+1) **CON:** 12 (+1) **INT:** 11 (+0) **WIS:** 14 (+2) **CHA:** 13 (+1)  
-**Skills:** Animal Handling +4, Nature +2, Persuasion +3  
-**Senses:** Passive Perception 12  
-**Languages:** Common, Halfling  
-**Challenge Rating:** 0 (10 XP)  
-**Racial Traits:** Lucky, Brave, Halfling Nimbleness  
+```statblock
+layout: Basic 5e Layout
+name: Finzin Arnberry
+source: Characters
+cr: 0
+size: Small
+type: humanoid
+subtype: halfling
+alignment: lawful good
+ac: 11
+hp: 4
+hit_dice: 1d8
+speed: "25 ft."
+stats: [8, 13, 12, 11, 14, 13]
+skillsaves:
+  - animal handling: 4
+  - nature: 2
+  - persuasion: 3
+senses: "passive Perception 12"
+languages: "Common, Halfling"
+traits:
+  - name: "Lucky"
+    desc: "When the halfling rolls a 1 on the d20 for an attack roll, ability check, or saving throw, it can reroll the die and must use the new roll."
+  - name: "Brave"
+    desc: "The halfling has advantage on saving throws against being frightened."
+  - name: "Halfling Nimbleness"
+    desc: "The halfling can move through the space of any creature that is of a size larger than its own."
+actions:
+  - name: Handaxe
+    desc: "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) slashing damage."
+```  
 
 ## Items
 - Well-worn traveling clothes and sturdy boots

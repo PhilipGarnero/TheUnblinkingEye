@@ -9,10 +9,35 @@
 
 
 ## Stats
-**Base:** Acolyte (Monster Manual 2014, p. 342) or Commoner with Religion proficiency
-**AC:** 10
-**HP:** 9 (2d8)
-**Speed:** 30 ft.
+```statblock
+layout: Basic 5e Layout
+name: Elder Rowan Meadowlight
+source: Characters
+cr: 1/4
+size: Medium
+type: humanoid
+subtype: human
+alignment: lawful good
+ac: 10
+hp: 9
+hit_dice: 2d8
+speed: "30 ft."
+stats: [10, 10, 10, 13, 16, 13]
+skillsaves:
+  - medicine: 7
+  - religion: 4
+senses: "passive Perception 13"
+languages: "Common"
+traits:
+  - name: "Spellcasting"
+    desc: "Elder Rowan is a 1st-level spellcaster. His spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks)."
+actions:
+  - name: Club
+    desc: "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage."
+spells:
+  - Cantrips (at will): light, sacred flame, thaumaturgy
+  - 1st level (3 slots): cure wounds, sanctuary
+```
 
 ## Items
 - Simple robes

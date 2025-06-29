@@ -1,4 +1,4 @@
-## General Information
+## Basic Information
 
 - **Character Name:** Elunar the Withered
 - **Class & Level:** Druid 1
@@ -8,79 +8,56 @@
 - **Experience Points:** 0
 - **Inspiration Points:** 0
 
-
-## Ability Scores
-
-|Ability|Score|Modifier|
-|:--|:-:|:-:|
-|STRENGTH|8|-1|
-|DEXTERITY|16|+3|
-|CONSTITUTION|14|+2|
-|INTELLIGENCE|12|+1|
-|WISDOM|16|+3|
-|CHARISMA|8|-1|
-
-## Proficiencies
-
-**Proficiency Bonus**: +2
-
-- **Saving Throw Proficiencies:** Intelligence, Wisdom
-- **Skill Proficiencies:** Medicine, Nature, Perception, Religion, Survival
-- **Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
-- **Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears, shortswords, longswords, shortbows, longbows
-- **Tools:** Herbalism Kit, Poison kit
-- **Languages:** Common, Druidic, Elvish, Halflin
-
-
-## Combat
-
-- **Speed:** 10.5 m (35 ft.)
-- **Hit Dice:** 1d8
-- **HP:** 10
-- **AC:** 16
-
-
-## Attacks
-
-## Spells
-
-- **Spellcasting Ability:** Wisdom
-- **Cantrips:** Guidance, Shillelagh
-- **Prepared Spells (4 per day):**
-    
-    - Absorb Elements
-    - Animal Friendship
-    - Charm Person
-    - Cure Wounds
-    - Detect Magic
-    - Entangle
-    - Faerie Fire
-    - Fog Cloud
-    - Goodberry
-    - Healing Word
-    - Jump
-    - Longstrider
-    - Speak with Animals
-    - Thunderwave
-
-
-## Features & Traits
-
-### Wood Elf Traits
-
-- **Darkvision:** You can see in dim light within 18m (60ft) of you as if it were bright light, and in darkness as if it were dim light.
-- **Fey Ancestry:** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
-- **Trance:** Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.
-- **Mask of the Wild:** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
-
-
-### Druid Features (Level 1)
-
-
-
-### Background Feature (Hermit)
-
-- **Familiar Ground:** When you are in a desert, its secrets are open to you. You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to find hidden paths, secret doors, and natural hazards. Additionally, your deep familiarity allows you to interpret subtle clues about the area's inhabitants; you can easily recognize signs that tell you the general type of creatures in the area (e.g., beasts, undead, goblinoids), their approximate numbers, and how recently they were active.
+## Stats
+```statblock
+layout: Basic 5e Layout
+player: true
+name: Elunar the Withered
+source: Players
+size: Medium
+type: humanoid
+subtype: elf
+alignment: chaotic good
+ac: 16
+hp: 10
+hit_dice: 1d8
+speed: "35 ft."
+stats: [8, 16, 14, 12, 16, 8]
+cr: 2
+saves:
+  - intelligence: ­
+  - wisdom: ­
+skillsaves:
+  - medicine: ­
+  - nature: ­
+  - perception: ­
+  - religion: ­
+  - survival: ­
+senses: "darkvision 60 ft."
+languages: "Common, Druidic, Elvish, Halfling"
+traits:
+  - name: "Armor Proficiencies"
+    desc: "Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)"
+  - name: "Weapon Proficiencies"
+    desc: "Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears, shortswords, longswords, shortbows, longbows"
+  - name: "Tool Proficiencies"
+    desc: "Herbalism Kit, Poison kit"
+  - name: "Fey Ancestry"
+    desc: "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
+  - name: "Trance"
+    desc: "Elves don't need to sleep. Instead, they meditate deeply for 4 hours a day."
+  - name: "Mask of the Wild"
+    desc: "You can attempt to hide when only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+  - name: "Familiar Ground (Hermit background)"
+    desc: "When you are in a desert, you have advantage on Wisdom (Perception) and Intelligence (Investigation) checks to find hidden paths, secret doors, and natural hazards. You can recognize signs of creatures in the area."
+actions:
+  - name: Quarterstaff
+    desc: "Melee Weapon Attack, reach 5 ft., one target. Hit: 1d6 bludgeoning damage, or 1d8 bludgeoning damage if used with two hands."
+spells:
+  - The druid is a 1st-level spellcaster. Spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks).
+  - Cantrips (at will): guidance, shillelagh
+  - 1st level (2 slots): absorb elements, animal friendship, charm person, cure wounds, detect magic, entangle, faerie fire, fog cloud, goodberry, healing word, jump, longstrider, speak with animals, thunderwave
+```
 
 
 ## Appearance & Personality
@@ -131,4 +108,5 @@ Yuyu then helps Elunar reconnect with his true, humanoid form. Through Yuyu's he
 - Leather Armor
 - A wooden shield
 - A quarterstaff
+- A shield
 - An explorer's pack

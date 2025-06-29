@@ -1,4 +1,3 @@
-
 ## Basic Information
 - **Race:** Half-Elf
 - **Age:** 34
@@ -10,33 +9,43 @@
 
 
 ## Stats
-**Gauntlet Ranger**
-**Armor Class** 14 (Leather armor) **Hit Points** 28 (3d10 + 6) **Speed** 30 ft.
+```statblock
+layout: Basic 5e Layout
+name: Lyanna Swiftarrow
+source: Characters
+cr: 1
+size: Medium
+type: humanoid
+subtype: half-elf
+alignment: lawful good
+ac: 14
+hp: 28
+hit_dice: 3d10 + 6
+speed: "30 ft."
+stats: [10, 16, 14, 8, 14, 12]
+skillsaves:
+  - perception: 4
+  - stealth: 5
+  - survival: 4
+senses: "darkvision 60 ft., passive Perception 14"
+languages: "Common, Elvish, Undercommon"
+traits:
+  - name: "Favored Enemy: Undead"
+    desc: "The ranger has advantage on Wisdom (Survival) checks to track undead and Intelligence checks to recall information about them."
+  - name: "Fey Ancestry"
+    desc: "The ranger has advantage on saving throws against being charmed, and magic can't put it to sleep."
+  - name: "Colossus Slayer"
+    desc: "Once per turn, when the ranger hits a creature with a weapon attack, it deals an extra 4 (1d8) damage if the target is below its hit point maximum."
+actions:
+  - name: Longbow
+    desc: "Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage."
+  - name: Shortsword
+    desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
+spells:
+  - The ranger is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12).
+  - 1st level (2 slots): hunter's mark, cure wounds
+```
 
-|STR|DEX|CON|INT|WIS|CHA|
-|---|---|---|---|---|---|
-|10 (+0)|16 (+3)|14 (+2)|8 (-1)|14 (+2)|12 (+1)|
-
-**Skills** Perception +4, Stealth +5, Survival +4
-**Senses** Darkvision 60 ft.
-passive Perception 14
-**Languages** Common, Elvish, Undercommon
-**Challenge** 1
-
-
-**Favored Enemy: Undead.** The ranger has advantage on Wisdom (Survival) checks to track undead and Intelligence checks to recall information about them. _Source: Player's Handbook (2014) p. 91_
-
-**Fey Ancestry.** The ranger has advantage on saving throws against being charmed, and magic can’t put it to sleep. _Source: Player's Handbook (2014) p. 39_
-
-**Colossus Slayer.** Once per turn, when the ranger hits a creature with a weapon attack, it deals an extra 4 (1d8) damage if the target is below its hit point maximum. _Source: Player's Handbook (2014) p. 93_
-
-**Spellcasting.** The ranger is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12). It has the following ranger spells prepared: 1st level (2 slots): _hunter's mark, cure wounds_ _Source: Player's Handbook (2014) p. 91_
-
-### **Actions**
-
-**Longbow.** _Ranged Weapon Attack:_ +7 to hit, range 150/600 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage.
-
-**Shortsword.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.
 ## Items
 - Studded leather armor
 - Masterwork longbow with silver-tipped arrows

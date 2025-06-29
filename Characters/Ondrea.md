@@ -9,21 +9,37 @@
 - **Voice**: Sustained/indirect/light, mixed placement, slow tempo, impartial tone with flowing, aquatic quality
 
 ## Stats
-- **AC**: 14 (Natural Armor)
-- **HP**: 114 (12d10 + 48)
-- **Speed**: 30 ft., swim 90 ft.
-- **STR**: 18 (+4) **DEX**: 14 (+2) **CON**: 18 (+4) **INT**: 15 (+2) **WIS**: 16 (+3) **CHA**: 12 (+1)
-- **Damage Resistances**: Acid; Bludgeoning, Piercing, and Slashing from nonmagical attacks
-- **Damage Immunities**: Poison
-- **Condition Immunities**: Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Senses**: Darkvision 60 ft., Passive Perception 13
-- **Languages**: Aquan, Common
-- **CR**: 5 (1,800 XP)
-
-### Special Abilities
-- **Water Form**: Can enter a hostile creature's space and stop there. Can move through space as narrow as 1 inch wide without squeezing
-- **Freeze**: If takes cold damage, partially freezes; speed reduced by 20 feet until end of next turn
-- **Whelm**: Can engulf Medium or smaller creatures (DC 15 Dex save or be grappled and restrained)
+```statblock
+layout: Basic 5e Layout
+name: Ondrea
+source: Characters
+cr: 5
+size: Large
+type: elemental
+alignment: neutral
+ac: 14
+hp: 114
+hit_dice: 12d10 + 48
+speed: "30 ft., swim 90 ft."
+stats: [18, 14, 18, 15, 16, 12]
+damage_resistances: "acid; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "poison"
+condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
+senses: "darkvision 60 ft., passive Perception 13"
+languages: "Aquan, Common"
+traits:
+  - name: "Water Form"
+    desc: "The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing."
+  - name: "Freeze"
+    desc: "If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn."
+actions:
+  - name: Multiattack
+    desc: "The elemental makes two slam attacks."
+  - name: Slam
+    desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage."
+  - name: Whelm (Recharge 4-6)
+    desc: "The elemental can engulf a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 15 Constitution saving throw at the start of each of the elemental's turns or take 13 (2d8 + 4) bludgeoning damage. If the elemental moves, the engulfed target moves with it. The elemental can have only one creature engulfed at a time."
+```
 
 ## Items
 - **River's Blessing**: Can grant temporary water breathing to trusted allies

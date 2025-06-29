@@ -1,4 +1,4 @@
-## General Information
+## Basic Information
 
 - **Character Name:** Yuyu
 - **Class & Level:** Ranger 1
@@ -9,62 +9,65 @@
 - **Inspiration Points:** 0
 
 
-## Ability Scores
+## Stats
 
-| Ability      | Score | Modifier |
-| :----------- | :---: | :------: |
-| STRENGTH     |  10   |    0     |
-| DEXTERITY    |  17   |    +3    |
-| CONSTITUTION |  14   |    +2    |
-| INTELLIGENCE |  12   |    +1    |
-| WISDOM       |  14   |    +2    |
-| CHARISMA     |   8   |    -1    |
+```statblock
+layout: Basic 5e Layout
+name: Yuyu
+source: Players
+player: true
+size: Small
+type: humanoid
+subtype: halfling
+alignment: chaotic good
+ac: 14
+hp: 12
+hit_dice: 1d10
+speed: "25 ft."
+stats: [10, 17, 14, 12, 14, 8]
+cr: 2
+saves:
+  - strength: ­
+  - dexterity: ­
+skillsaves:
+  - athletics: ­
+  - "animal handling": ­
+  - perception: ­
+  - survival: ­
+  - nature: ­
+languages: "Common, Halfling, Orc"
+traits:
+  - name: "Armor Proficiencies"
+    desc: "Light armor, medium armor, shields"
+  - name: "Weapon Proficiencies"
+    desc: "Simple weapons, martial weapons"
+  - name: "Tool Proficiencies"
+    desc: "Pan flute, poison kit"
+  - name: "Lucky"
+    desc: "Can reroll a 1 on any attack roll, ability check, or saving throw."
+  - name: "Brave"
+    desc: "Advantage on saving throws against being Frightened."
+  - name: "Halfling Nimbleness"
+    desc: "Can move through the space of any creature that is of a size larger than yours."
+  - name: "Stout Resilience"
+    desc: "Advantage on saving throws against poison and resistance to poison damage."
+  - name: "Favored Enemy"
+    desc: "Orcs and Humans"
+  - name: "Natural Explorer"
+    desc: "Forest"
+  - name: "Wanderer (Outlander Background)"
+    desc: "Excellent memory for maps and geography. Can find food and fresh water for yourself and up to five other people each day, provided the land supports it."
+actions:
+  - name: "Whip"
+    desc: "Melee Weapon Attack, reach 10 ft., one target. Hit: 1d4 slashing damage."
+  - name: "Poison Blowgun"
+    desc: "Ranged Weapon Attack, range 25/100 ft., one target. Hit: 1 piercing damage plus 1d4 poison damage."
+  - name: "Dagger"
+    desc: "Melee/Ranged Weapon Attack, reach 5 ft. or range 20/60 ft., one target. Hit: 1d4 piercing damage."
+spells:
+  - None: Rangers don't gain spellcasting at level 1
+```
 
-## Proficiencies
-
-**Proficiency Bonus**: +2
-
-- **Saving Throw Proficiencies:** Strength, Dexterity
-- **Skill Proficiencies:** Athletics, Animal Handling, Perception, Survival, Nature
-- **Armor:** Light armor, medium armor, shields
-- **Weapons:** Simple weapons, martial weapons
-- **Tools:** Pan flute, poison kit
-- **Languages:** Common, Halfling, Orc
-
-## Combat
-- **Speed:** 25 ft. *(Note: 7.5m was on the original sheet, which is closer to 25 ft)*
-- **Hit Dice:** 1d10
-- **HP:** 12
-- **AC:** 16
-
-## Attacks
-| Name           | Damage/Type             | Properties             |
-| :------------- | :---------------------- | :--------------------- |
-| Whip           | 1d4 Slashing            | Finesse, Reach         |
-| Poison Blowgun | 1 Piercing + 1d4 Poison | Ammunition             |
-| Dagger         | 1d4 Piercing            | Finesse, Light, Thrown |
-
-## Spells
-
-- **Spellcasting Ability:** Wisdom
-- **Cantrips:** Guidance, Shillelagh
-- **Known Spells:**
-    - Speak with Animals
-
-## Features & Traits
-
-### Stout Halfling Traits
-- **Lucky:** Can reroll a 1 on any attack roll, ability check, or saving throw.
-- **Brave:** Advantage on saving throws against being Frightened.
-- **Halfling Nimbleness:** Can move through the space of any creature that is of a size larger than yours.
-- **Stout Resilience:** Advantage on saving throws against poison and resistance to poison damage.
-
-### Ranger Features (Level 1)
-- **Favored Enemy:** *Orcs and Humans*
-- **Natural Explorer:** *Forest*
-
-### Background Feature (Outlander)
-- **Wanderer:** Excellent memory for maps and geography. Can find food and fresh water for yourself and up to five other people each day, provided the land supports it.
 
 ## Appearance & Personality
 

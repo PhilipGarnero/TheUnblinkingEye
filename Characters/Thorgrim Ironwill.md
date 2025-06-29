@@ -10,34 +10,49 @@
 
 
 ## Stats
-**Dwarf Veteran of the Watch**
-**Armor Class** 18 (Chain mail, shield) **Hit Points** 30 (3d10 + 9) **Speed** 25 ft.
-
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |
-| ------- | ------- | ------- | ------- | ------- | ------ |
-| 16 (+3) | 10 (+0) | 16 (+3) | 12 (+1) | 14 (+2) | 8 (-1) |
-**Saving Throws** Str +5, Con +5 **Skills** Athletics +5, Insight +4, Perception +4 **Damage Resistances** poison
-**Senses** Darkvision 60 ft., passive Perception 14 
-**Languages** Common, Dwarvish
-**Challenge** 2
-
-**Dwarven Resilience.** The dwarf has advantage on saving throws against poison. _Source: Player's Handbook (2014) p. 20_
-
-**Second Wind (1/Short Rest).** As a bonus action, the dwarf can regain 1d10 + 3 hit points. _Source: Player's Handbook (2014) p. 72_
-
-**Action Surge (1/Short Rest).** On its turn, the dwarf can take one additional action. _Source: Player's Handbook (2014) p. 72_
-
-**Combat Maneuvers (4 Superiority Dice [d8]/Short Rest).** The dwarf knows the following maneuvers (Save DC 13):
-
-- **Commander's Strike.** When the dwarf takes the Attack action, it can forgo one of its attacks and use a bonus action to direct a friendly creature to strike. The creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.
-- **Trip Attack.** When the dwarf hits a creature with a weapon attack, it can expend one superiority die to attempt to knock the target down. It adds the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a DC 13 Strength saving throw or be knocked prone. _Source: Player's Handbook (2014) p. 74_
-
-
-### **Actions**
-
-**Battleaxe.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) slashing damage.
-
-**Heavy Crossbow.** _Ranged Weapon Attack:_ +2 to hit, range 100/400 ft., one target. _Hit:_ 5 (1d10) piercing damage.
+```statblock
+layout: Basic 5e Layout
+name: Thorgrim Ironwill
+source: Characters
+cr: 2
+size: Medium
+type: humanoid
+subtype: dwarf
+alignment: lawful good
+ac: 18
+hp: 30
+hit_dice: 3d10 + 9
+speed: "25 ft."
+stats: [16, 10, 16, 12, 14, 8]
+saves:
+  - strength: 5
+  - constitution: 5
+skillsaves:
+  - athletics: 5
+  - insight: 4
+  - perception: 4
+damage_resistances: "poison"
+senses: "darkvision 60 ft., passive Perception 14"
+languages: "Common, Dwarvish"
+traits:
+  - name: "Dwarven Resilience"
+    desc: "The dwarf has advantage on saving throws against poison."
+  - name: "Second Wind (1/Short Rest)"
+    desc: "As a bonus action, the dwarf can regain 1d10 + 3 hit points."
+  - name: "Action Surge (1/Short Rest)"
+    desc: "On its turn, the dwarf can take one additional action."
+  - name: "Combat Maneuvers (4 Superiority Dice [d8]/Short Rest)"
+    desc: "The dwarf knows Commander's Strike and Trip Attack maneuvers (Save DC 13)."
+actions:
+  - name: Battleaxe
+    desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage."
+  - name: Heavy Crossbow
+    desc: "Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage."
+  - name: Commander's Strike (Maneuver)
+    desc: "When the dwarf takes the Attack action, it can forgo one of its attacks and use a bonus action to direct a friendly creature to strike. The creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll."
+  - name: Trip Attack (Maneuver)
+    desc: "When the dwarf hits a creature with a weapon attack, it can expend one superiority die to attempt to knock the target down. It adds the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a DC 13 Strength saving throw or be knocked prone."
+```
 
 ## Items
 - Chainmail armor

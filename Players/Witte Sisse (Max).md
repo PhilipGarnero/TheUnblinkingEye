@@ -1,4 +1,4 @@
-## General Information
+## Basic Information
 
 - **Character Name:** Witte Sisse
 - **Class & Level:** Monk 1
@@ -9,67 +9,58 @@
 - **Inspiration Points:** 0
 
 
-## Ability Scores
+## Stats
 
-| Ability      | Score | Modifier |
-| ------------ | :---: | :------: |
-| STRENGTH     |  13   |    +1    |
-| DEXTERITY    |  16   |    +3    |
-| CONSTITUTION |  12   |    +1    |
-| INTELLIGENCE |  10   |    +0    |
-| WISDOM       |  16   |    +3    |
-| CHARISMA     |  10   |    +0    |
-
-
-## Proficiencies
-
-**Proficiency Bonus:** +2
-
-- **Saving Throw Proficiencies:** Strength, Dexterity
-- **Skill Proficiencies:** Acrobatics, Athlestism, Medecine, Religion
-- **Armor:** None
-- **Weapons:** Simple weapons, shortswords
-- **Tools:** Brewer's supplies, Herbalism kit
-- **Languages:** Common, Elvish, Dwarvish
-
-
-## Combat
-
-- **Speed:** 9 m (30 ft.)
-- **Hit Dice:** 1d8
-- **HP:** 9
-- **AC:** 16 (Unarmored Defense)
-
-
-## Attacks
-
-| Name         | Damage/Type     | Properties                     |
-| :----------- | :-------------- | :----------------------------- |
-| Quarterstaff | 1d6 bludgeoning | Melee                          |
-| Dart         | 1d4 piercing    | Finesse, thrown (range 6m/18m) |
-
-
-## Spells
-
-- **Spellcasting Ability:** None (Monks don't gain spellcasting at level 1)
-- **Cantrips:** None
-- **Known Spells:** None
-
-
-## Features & Traits
-
-
-### Monk Features (Level 1)
-
-- **Unarmored Defense:** While not wearing armor, your AC equals 10 + Dex mod + Wis mod
-- **Martial Arts:**
-    - You can use Dexterity instead of Strength for unarmed strikes and monk weapons
-    - Martial arts die (1d4)
-    - When you use the Attack action with an unarmed strike or monk weapon, you can make one unarmed strike as a bonus action
-
-### Background Feature (Hermit)
-
-- **Unsettling Presence**: Years of isolation have made you... peculiar. Your mannerisms, speech, and intense stare can be off-putting to others. You can leverage this to your advantage. As an action, you can force a creature that can see and hear you within 30 feet to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). On a failed save, the creature is unnerved by you and has disadvantage on Wisdom (Perception) and Wisdom (Insight) checks made against you for the next 10 minutes. Once you use this ability, you can't use it again until you finish a short or long rest.
+```statblock
+layout: Basic 5e Layout
+name: Witte Sisse
+source: Players
+player: true
+size: Medium
+type: humanoid
+subtype: human
+alignment: neutral
+ac: 16
+hp: 9
+hit_dice: 1d8
+speed: "30 ft."
+stats: [13, 16, 12, 10, 16, 10]
+cr: 2
+saves:
+  - dexterity: ­
+  - wisdom: ­
+skillsaves:
+  - acrobatics: ­
+  - athletics: ­
+  - medicine: ­
+  - religion: ­
+languages: "Common, Elvish, Dwarvish"
+traits:
+  - name: "Armor Proficiencies"
+    desc: "None"
+  - name: "Weapon Proficiencies"
+    desc: "Simple weapons, shortswords"
+  - name: "Tool Proficiencies"
+    desc: "Brewer's supplies, Herbalism kit"
+  - name: "Unarmored Defense"
+    desc: "While not wearing armor, your AC equals 10 + Dex mod + Wis mod (AC 16)"
+  - name: "Martial Arts"
+    desc: "You can use Dexterity instead of Strength for unarmed strikes and monk weapons. Martial arts die is 1d4. When you use the Attack action with an unarmed strike or monk weapon, you can make one unarmed strike as a bonus action."
+  - name: "Unsettling Presence (Hermit Background)"
+    desc: "As an action, you can force a creature that can see and hear you within 30 feet to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). On a failed save, the creature is unnerved by you and has disadvantage on Wisdom (Perception) and Wisdom (Insight) checks made against you for the next 10 minutes. Once you use this ability, you can't use it again until you finish a short or long rest."
+actions:
+  - name: "Quarterstaff"
+    desc: "Melee Weapon Attack, reach 5 ft., one target. Hit: 1d6 bludgeoning damage, or 1d8 bludgeoning damage if used with two hands."
+  - name: "Dart"
+    desc: "Ranged Weapon Attack, range 20/60 ft., one target. Hit: 1d4 piercing damage."
+  - name: "Unarmed Strike (Martial Arts)"
+    desc: "Melee Weapon Attack, reach 5 ft., one target. Hit: 1d4 bludgeoning damage."
+bonus_actions:
+  - name: "Martial Arts Unarmed Strike"
+    desc: "When you use the Attack action with an unarmed strike or monk weapon, you can make one unarmed strike as a bonus action."
+spells:
+  - None: (Monks don't gain spellcasting at level 1)
+```
 
 
 ## Appearance & Personality

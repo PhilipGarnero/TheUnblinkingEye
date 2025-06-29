@@ -8,7 +8,33 @@
 
 
 ## Stats
-*Stats to be determined based on encounter needs*
+```statblock
+layout: Basic 5e Layout
+name: Elara Meadowlight
+source: Characters
+cr: 1/8
+size: Medium
+type: humanoid
+subtype: human
+alignment: lawful good
+ac: 10
+hp: 4
+hit_dice: 1d8
+speed: "30 ft."
+stats: [10, 12, 10, 14, 13, 16]
+skillsaves:
+  - insight: 3
+  - medicine: 3
+  - persuasion: 5
+senses: "passive Perception 11"
+languages: "Common"
+traits:
+  - name: "Scholar"
+    desc: "Elara has proficiency with scholarly research and can provide detailed information about ancient curses and arcane lore."
+actions:
+  - name: Dagger
+    desc: "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d4 + 1) piercing damage."
+```
 
 ## Items
 - Ancient tomes and scrolls

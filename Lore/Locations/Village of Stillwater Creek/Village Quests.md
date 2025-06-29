@@ -20,7 +20,7 @@
 
 ### Quest 3: Recovery and Rescue
 **Giver:** [[Goody Hepzibah Pinesong]]  
-**Hook:** Several villagers are still missing and presumed taken during the attack. Goody Pinesong fears they're being held for dark purposes.  
+**Hook:** 2 villagers (Fred & Jamy are still missing and presumed taken during the attack. Goody Pinesong fears they're being held for dark purposes.  
 **Objective:** Search the Direwood and surrounding areas for missing villagers.  
 **Rewards:** 100 gp, healing poultices (3 uses, restore 1d4+1 HP each)  
 **Truth:** 2-3 villagers are imprisoned in a hidden cave near the mounds, intended for future undead conversion. They can be rescued but bear psychological trauma.
