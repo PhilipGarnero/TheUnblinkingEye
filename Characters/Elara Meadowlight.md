@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 
 ## Basic Information
 - **Race:** *To be determined*

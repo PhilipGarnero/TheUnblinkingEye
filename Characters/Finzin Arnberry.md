@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 # Finzin Arnberry
 
 ## Basic Information

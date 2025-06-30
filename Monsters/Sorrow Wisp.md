@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 # Sorrow Wisp
 
 ## Basic Information

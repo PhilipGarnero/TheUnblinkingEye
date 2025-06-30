@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 
 ## Basic Information
 - **Race:** Various (Ancient Dragons, Archfey, Leaders of Secluded Orders)

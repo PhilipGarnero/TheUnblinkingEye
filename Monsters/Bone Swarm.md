@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 # Bone Swarm
 
 ## Basic Information

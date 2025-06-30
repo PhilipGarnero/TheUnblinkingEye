@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 # Reassembling Skeleton
 
 ## Basic Information

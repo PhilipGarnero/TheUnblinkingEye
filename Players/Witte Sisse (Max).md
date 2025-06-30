@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 ## Basic Information
 
 - **Character Name:** Witte Sisse

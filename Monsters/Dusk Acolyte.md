@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 # Dusk Acolyte
 
 ## Basic Information

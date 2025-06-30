@@ -135,3 +135,10 @@ Add all character levels together:
 - Environmental dangers preventing rest
 - Time pressure from urgent missions
 - Hostile territory with patrol threats
+
+
+```encounter
+creatures:
+  - 1: Skeleton
+  - 2: Acolyte
+```

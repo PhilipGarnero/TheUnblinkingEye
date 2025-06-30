@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 # Ondrea
 
 ## Basic Information

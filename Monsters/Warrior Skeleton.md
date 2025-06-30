@@ -1,3 +1,6 @@
+---
+statblock: inline
+---
 # Warrior Skeleton
 
 ## Basic Information

@@ -24,7 +24,7 @@
 ## Climax: Assault on Vorlag's Sanctum
 
 * Fight through [[Vorlag the Pale (Necromancer)]]'s toughest guardians (e.g., **Ghouls**, **Ghasts** (Monster Manual, p. 148), **Wights** (Monster Manual, p. 300)).
-* Confront [[Vorlag the Pale (Necromancer)]] (CR 6, modified **Mage** stat block – Monster Manual, p. 347).
+* Confront [[Vorlag the Pale (Necromancer)]] (CR 8, modified **Mage** stat block – Monster Manual, p. 347).
 
 ## Lifting the Curse:
 

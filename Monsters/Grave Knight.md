@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 # Grave Knight
 
 ## Basic Information

@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 # Death Cultist
 
 ## Basic Information

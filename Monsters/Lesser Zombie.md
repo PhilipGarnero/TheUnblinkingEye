@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 # Lesser Zombie
 
 ## Basic Information

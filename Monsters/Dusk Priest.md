@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 # Dusk Priest
 
 ## Basic Information

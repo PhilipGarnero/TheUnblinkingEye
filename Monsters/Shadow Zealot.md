@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 # Shadow Zealot
 
 ## Basic Information

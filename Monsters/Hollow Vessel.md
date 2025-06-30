@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 # Hollow Vessel
 
 ## Basic Information

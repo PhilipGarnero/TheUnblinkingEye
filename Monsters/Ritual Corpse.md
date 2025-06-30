@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 # Ritual Corpse
 
 ## Basic Information

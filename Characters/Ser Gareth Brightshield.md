@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 ## Basic Information
 - **Race:** Human
 - **Age:** 42

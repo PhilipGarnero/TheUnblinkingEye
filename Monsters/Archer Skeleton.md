@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 # Archer Skeleton
 
 ## Basic Information

@@ -18,9 +18,9 @@ A faint, greyish, eye-like circle spreads from a point on each character's body 
 
 ## Additional Potential Effects (DM to choose or introduce as curse worsens)
 
-* **Whispers from Beyond:** The character suffers from unsettling whispers and visions, especially during rest. They might have disadvantage on Wisdom (Perception) checks that rely on hearing and/or require an extra hour of sleep during a long rest to avoid gaining a level of exhaustion.
+* **Whispers from Beyond:** The character suffers from unsettling whispers and visions, especially during rest. They might require an extra hour of sleep during a long rest to avoid gaining a level of exhaustion.
 * **Necrotic Frailty:** The character has vulnerability to necrotic damage. (Use with caution at low levels).
-* **Mark of the Damned (Social/Roleplaying):** Animals become uneasy in their presence (disadvantage on Wisdom (Animal Handling) checks). Some devout NPCs might react with fear or suspicion. Undead creatures of low intelligence (Skeletons, Zombies) might ignore the character unless attacked, while more intelligent undead might show a disturbing interest or attempt to command them.
+* **Mark of the Damned (Social/Roleplaying):** Animals become uneasy in their presence (disadvantage on Wisdom (Animal Handling) checks). Some devout NPCs might react with fear or suspicion. Friendly undead creatures of low intelligence (Skeletons, Zombies) might try to attack the character, while more intelligent undead might disobey at crucial times.
 
 ## Progression
 

@@ -1,3 +1,7 @@
+---
+statblock: inline
+---
+
 # Lesser Skeleton
 
 ## Basic Information
