@@ -1,7 +1,7 @@
 ## Basic Information
 
 - **Character Name:** Witte Sisse
-- **Class & Level:** Monk 1
+- **Class & Level:** Monk 2
 - **Background:** Hermit
 - **Race:** Human
 - **Alignment:** Neutral
@@ -21,9 +21,9 @@ type: humanoid
 subtype: human
 alignment: neutral
 ac: 16
-hp: 9
-hit_dice: 1d8
-speed: "30 ft."
+hp: 15
+hit_dice: 2d8
+speed: "40 ft."
 stats: [13, 16, 12, 10, 16, 10]
 cr: 2
 saves:
@@ -46,6 +46,12 @@ traits:
     desc: "While not wearing armor, your AC equals 10 + Dex mod + Wis mod (AC 16)"
   - name: "Martial Arts"
     desc: "You can use Dexterity instead of Strength for unarmed strikes and monk weapons. Martial arts die is 1d4. When you use the Attack action with an unarmed strike or monk weapon, you can make one unarmed strike as a bonus action."
+  - name: "Ki (2 points)"
+    desc: "You have 2 ki points that fuel special abilities. You regain all expended ki points when you finish a short or long rest."
+  - name: "Unarmored Movement"
+    desc: "Your speed increases by 10 feet while you are not wearing armor or wielding a shield (included in speed above)."
+  - name: "Dedicated Weapon (Optional)"
+    desc: "You can use a simple or martial weapon as a monk weapon if it lacks the heavy and special properties."
   - name: "Unsettling Presence (Hermit Background)"
     desc: "As an action, you can force a creature that can see and hear you within 30 feet to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). On a failed save, the creature is unnerved by you and has disadvantage on Wisdom (Perception) and Wisdom (Insight) checks made against you for the next 10 minutes. Once you use this ability, you can't use it again until you finish a short or long rest."
 actions:
@@ -58,6 +64,12 @@ actions:
 bonus_actions:
   - name: "Martial Arts Unarmed Strike"
     desc: "When you use the Attack action with an unarmed strike or monk weapon, you can make one unarmed strike as a bonus action."
+  - name: "Flurry of Blows (1 ki point)"
+    desc: "After you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action."
+  - name: "Patient Defense (1 ki point)"
+    desc: "You can spend 1 ki point to take the Dodge action as a bonus action on your turn."
+  - name: "Step of the Wind (1 ki point)"
+    desc: "You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn."
 spells:
   - None: (Monks don't gain spellcasting at level 1)
 ```

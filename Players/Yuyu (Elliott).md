@@ -1,7 +1,7 @@
 ## Basic Information
 
 - **Character Name:** Yuyu
-- **Class & Level:** Ranger 1
+- **Class & Level:** Ranger 2
 - **Background:** Outlander
 - **Race:** Stout Halfling
 - **Alignment:** Chaotic Good
@@ -21,8 +21,8 @@ type: humanoid
 subtype: halfling
 alignment: chaotic good
 ac: 14
-hp: 12
-hit_dice: 1d10
+hp: 22
+hit_dice: 2d10
 speed: "25 ft."
 stats: [10, 17, 14, 12, 14, 8]
 cr: 2
@@ -55,6 +55,10 @@ traits:
     desc: "Orcs and Humans"
   - name: "Natural Explorer"
     desc: "Forest"
+  - name: "Fighting Style - Archery"
+    desc: "You gain a +2 bonus to attack rolls you make with ranged weapons."
+  - name: "Tracking"
+    desc: "At 2nd level, you can track other creatures. You can move stealthily at a normal pace."
   - name: "Wanderer (Outlander Background)"
     desc: "Excellent memory for maps and geography. Can find food and fresh water for yourself and up to five other people each day, provided the land supports it."
 actions:
@@ -65,7 +69,8 @@ actions:
   - name: "Dagger"
     desc: "Melee/Ranged Weapon Attack, reach 5 ft. or range 20/60 ft., one target. Hit: 1d4 piercing damage."
 spells:
-  - None: Rangers don't gain spellcasting at level 1
+  - The ranger is a 2nd-level spellcaster. Spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks).
+  - 1st level (2 slots): hail of thorns, hunter's mark
 ```
 
 
