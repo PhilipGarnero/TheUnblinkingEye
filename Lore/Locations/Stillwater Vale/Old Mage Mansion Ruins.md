@@ -47,68 +47,47 @@ It is said an old mage used to live there a few centuries back. Villagers say th
 - **Guardian Activation**: Only if laboratory is threatened or vandalized
 - **Deactivation Command**: DC 16 Arcana to speak proper command words
 
-### Research Materials Discovered
-**Planar Research**:
-- **Shadowfell Convergence Maps**: Show weakening points between planes
-- **Temporal Analysis**: When planar barriers are strongest/weakest
-- **Corruption Patterns**: How necromantic energy spreads through leylines
-- **Mechanical Benefit**: Advantage on all checks related to planar magic
+### Critical Research Discovered
 
-**Ward Creation Knowledge**:
-- **Protective Ward Formulae**: Methods to create anti-necromantic barriers
-- **Component Lists**: Specific materials needed for ward construction
-- **Activation Procedures**: Step-by-step ward activation instructions
-- **Mechanical Benefit**: Can create permanent protective wards (cost: 500 gp materials)
-
-**Historical Intelligence**:
-- **Previous Threats**: Documentation of past supernatural incursions
-- **Mage Network**: Contacts and allies throughout the Dalelands
-- **Weakness Analysis**: Vulnerabilities of various undead and fiends
-- **Mechanical Benefit**: +2 damage against undead and fiends
+**Shadowfell Anchor Locations**:
+- **Map**: Shows 5 anchor points Vorlag is creating across the region
+- **[[The Ancestor Mounds]]**: Already corrupted (confirmed)
+- **[[Saltmere Village]]**: Future target
+- **[[Sessrendale ruins]]** : Future target
+- **[[Harrowdale]]** border: Planned anchor site
 
 ### Magical Equipment
 **Crystal Focusing Array** (immobile, 2000 gp value):
-- **Planar Detection**: Reveals active planar disturbances within 10 miles
-- **Scrying Enhancement**: +2 to all scrying spell checks
+- **Planar Detection**: Reveals active planar disturbances within the dalelands
 - **Leyline Monitoring**: Shows real-time leyline energy fluctuations
 - **Usage**: Once per day, requires 1 hour operation
 
-**Alchemical Station** (500 gp value if moved):
+**Alchemical Station** (200 gp value if moved):
 - **Potion Enhancement**: Double effectiveness of crafted healing potions
-- **Reagent Production**: Produce 50 gp worth of alchemical components per week
-- **Antidote Creation**: Craft antidotes to specific poisons and diseases
 - **Research Bonus**: +2 to all alchemy-related skill checks
 
-**Enchanted Research Tools** (300 gp total value):
-- **Identification Kit**: Automatically identify magical items (no spell required)
+**Enchanted Research Tools** (immobile, 300 gp total value):
+- **Identification Kit** (uses lvl 2 spell slot): Automatically identify magical items (no spell required)
 - **Precision Instruments**: +3 to Investigation checks in magical contexts
 - **Preservation Equipment**: Keep specimens and materials indefinitely fresh
-- **Translation Lenses**: Read any written language (including magical scripts)
+- **Translation Lenses** (uses lvl 1 spell slot): Read any written language (including magical scripts)
 
 ### Laboratory Benefits
-**Research Base**:
-- **Safe Workshop**: Protected location for magical research and experimentation
-- **Resource Access**: Ongoing supply of rare magical components
-- **Knowledge Archive**: Answer complex questions about regional magic
-- **Spell Research**: Reduce time and cost for learning new spells by 50%
-
-**Magical Services**:
+**Immediate Use**:
 - **Item Identification**: Free identification of magical items
-- **Spell Transcription**: Copy spells into spellbooks at half normal cost
-- **Ward Creation**: Craft protective barriers for other locations
-- **Consultation**: Ongoing magical advice and theoretical support
+- **Potion Brewing**: Can craft healing potions at half cost
+- **Text Translations**: Can read any written language
 
 ### Loot Summary
 **Immediate Treasure**:
-- **Reagent Collection**: 300 gp worth of rare alchemical components
 - **Spell Scrolls**: 2d4 abjuration scrolls (1st-3rd level)
 - **Research Notes**: Knowledge worth 200 gp to magical scholars
 - **Enchanted Tools**: 300 gp value, significant utility benefits
 
 **Equipment Value**:
-- **Crystal Array**: 2000 gp (requires major effort to relocate)
-- **Alchemical Station**: 500 gp (portable with proper preparation)
-- **Archive Collection**: 400 gp worth of books and documents
+- **Crystal Array**: 500 gp (immobile, functional scrying tool)
+- **Alchemical Station**: 200 gp (portable with proper preparation)
+- **Archive Collection**: 150 gp worth of books and documents
 - **Emergency Supplies**: 100 gp worth of potions and materials
 
 ### Experience Rewards

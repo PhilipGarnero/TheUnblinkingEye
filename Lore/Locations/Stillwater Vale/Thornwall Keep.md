@@ -79,24 +79,24 @@ The remnants of an old fortification on a hill overlooking the river valley, bui
 
 ### Loot and Rewards
 **Armory Contents**:
-- **Quality Weapons**: 4 longswords (+1 to damage, masterwork), 2 crossbows
+- **Standard Weapons**: 4 longswords, 2 crossbows, 20 bolts
 - **Armor Collection**: 3 sets chainmail, 1 set plate armor (needs repair)
 - **Military Equipment**: Signal horns, rope, grappling hooks
-- **Value**: 400 gp total if transported to market
+- **Value**: 200 gp total if transported to market
 
 **Captain's Treasury**:
-- **Hidden Chest**: 300 gp, official military documents, signet ring (50 gp)
-- **Battle Maps**: Detailed regional maps worth 75 gp to strategists
-- **Military Rank Insignia**: Worth 25 gp each, 6 total
+- **Hidden Chest**: 120 gp, signet ring (25 gp)
+- **[[Boots of Untraceable Passage]]**: Leave no footprints on soft surfaces like mud or sand
+- **Military Rank Insignia**: 6 tarnished insignia (5 gp each)
 
 **Well Treasure** (bottom of courtyard well):
-- **Skeleton of Previous Intruder**: Magical shortsword +1, thieves' tools, 45 gp
-- **Ancient Coins**: 2d10 ancient gold pieces worth 10 gp each to collectors
+- **Skeleton of Previous Intruder**: Thieves' tools, 25 gp
+- **Ancient Coins**: 1d6 ancient gold pieces worth 5 gp each to collectors
 
 **Secret Armory** (hidden behind false wall):
-- **Masterwork Equipment**: Silvered weapons, magic arrows (20), holy water ×3
-- **Tactical Supplies**: Military field kit, officer's spyglass (100 gp)
-- **Emergency Cache**: 150 gp, gems worth 2d4 × 25 gp
+- **Silvered Weapons**: 2 silvered shortswords, 10 silvered arrows
+- **Tactical Supplies**: Military field kit, officer's spyglass (25 gp)
+- **Emergency Cache**: 60 gp, 2 small gems (15 gp each)
 
 ### Keep Benefits
 **Strategic Location**:

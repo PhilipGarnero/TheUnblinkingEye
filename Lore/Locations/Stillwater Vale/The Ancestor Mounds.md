@@ -15,8 +15,8 @@ Two very large stone mounds that served as a burial place for ancestors of the V
 - Areas where undead have emerged from the ground
 - Crude necromantic symbols scrawled on ancient stones
 - One remaining relic hidden within: **[[Magical Items#Erlan's Unbendable Resolve|Erlan's Unbendable Resolve]]** (Vorlag has already stolen **[[Cursed Artifacts#The Phalanx of Whispers (Stolen by Vorlag)|The Phalanx of Whispers]]**)
-- **Main Mound**: Contains Fred's ritual corpse and active planar weakening ritual
-- **Second Mound**: Jamy imprisoned, Dusk Priest preparing second ritual
+- **Main Mound**: Contains Fred's ritual corpse and active planar weakening ritual. The ritual corpse is bound to protective ward stones that have been corrupted into Shadowfell anchors.
+- **Second Mound**: Jamy imprisoned, Dusk Priest preparing second ritual to create another corpse bound to ward stones
 
 ## Encounter: Lyanna Swiftarrow - Wounded Scout
 **Location**: Hidden near the Main Mound entrance
@@ -72,7 +72,7 @@ Two very large stone mounds that served as a burial place for ancestors of the V
 
 ### Tactical Notes
 - Fred's transformation is permanent - he cannot be saved or redeemed
-- Ritual Corpse (Fred) cannot leave the main chamber due to binding
+- Ritual Corpse (Fred) cannot leave the main chamber due to binding to the corrupted ward stones
 - Bone Hound uses spike volleys
 - Destroying Fred allows the spirits to appear but also triggers his Death Bomb ability
 - Reassembling Skeleton requires specific tactics to permanently destroy

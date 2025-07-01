@@ -57,11 +57,6 @@ A stone bridge that used to cross the river in the past. People say it's been bu
 - **Secret Passage**: Connects to teleportation circle chamber
 
 ### Bridge Ruins Exploration
-**Foundation Teleportation Circle**:
-- **Discovery**: DC 16 Investigation or DC 14 Arcana to locate
-- **Activation**: Requires ritual words from Old Folk sites
-- **Destinations**: Other Old Folk locations ([[The Ancestor Mounds]], [[The Whispering Grove]])
-- **Power Source**: Active leyline intersection beneath bridge
 
 **Ancient Construction**:
 - **Bridge Age**: 8000+ years old, built by Old Folk engineers
@@ -70,49 +65,28 @@ A stone bridge that used to cross the river in the past. People say it's been bu
 - **Structural Integrity**: Can support bridge reconstruction with proper materials
 
 ### Troll Knowledge (if negotiated peacefully)
-**River Traffic Intelligence**:
-- **Seasonal Patterns**: When various creatures cross, migrate, or hunt
-- **Dangerous Times**: Periods when corrupted creatures are most active
-- **Hidden Dangers**: Locations of underwater hazards and strong currents
-- **Safe Crossing**: Times and locations for safest river traversal
-
-**Regional Observations**:
-- **Vorlag's Agents**: Descriptions of suspicious figures crossing river
-- **Undead Activity**: Patterns of when and where undead appear
-- **Environmental Changes**: How corruption affects local wildlife
-- **Weather Predictions**: Natural ability to predict storms and floods
+**Vorlag Intelligence**:
+- **Recent Crossing**: Vorlag herself crossed here the day after the village attack
+- **Escort Details**: Accompanied by 2 robed figures and a cart of ritual components
+- **Overheard Conversation**: Mentioned seeking the **"Bone Grimoire of Zylkresk"** in **[[Harrowdale]]**
+- **Route**: Took the eastern road toward **[[Harrowdale]]** border
 
 ### Loot and Rewards
-**Troll Hoard** (in underwater cave):
-- **Coins**: 3d6 × 10 gp in mixed currency
-- **Shiny Objects**: Collection worth 150 gp (jewelry, gemstones, metal items)
-- **Previous Payments**: Magic items left by earlier travelers (DM choice)
-- **Useful Equipment**: Rope, grappling hooks, waterproof containers
+**Troll Hoard** (Murl grants access after negotiation):
+- **Toll Collection**: 2d6 × 10 gp from previous travelers
+- **[[Low level magical items#The Skimmer Stone]]**: Creates 5-foot floating platform on liquid surfaces
+- **Waterproof Gear**: Rope, containers, basic equipment worth 25 gp
 
-**Old Folk Chambers** (in bridge ruins):
-- **Ancient Artifacts**: 2d4 items of historical/magical significance
-- **Construction Tools**: Masterwork engineering equipment worth 200 gp
-- **Preserved Documents**: Bridge construction plans and Old Folk engineering secrets
-- **Ritual Components**: Materials for activating teleportation circle (100 gp value)
 
-### Bridge Restoration Project
-**Reconstruction Requirements**:
-- **Materials**: 2000 gp worth of stone, timber, and magical components
-- **Labor**: 20 skilled workers for 2 months OR magical assistance
-- **Troll Cooperation**: Krogg and Murl can provide labor if negotiated
-- **Engineering Knowledge**: Old Folk documents provide construction guidance
-
-**Completed Bridge Benefits**:
-- **Strategic Value**: Control important river crossing
-- **Economic Opportunity**: Charge tolls to fund other projects
-- **Defensive Position**: Fortified crossing point against Vorlag's forces
-- **Community Service**: Greatly helps regional trade and travel
+**Accessible Old Folk Chamber** (Krogg shows location after negotiation):
+- **Crossings maps**: Show locations of other Old Folk river crossings
+- **Ancient Coins**: 2d6 Old Folk gold pieces worth 10 gp each to collectors
+- **Shiny Treasures**: Collection worth 75 gp (jewelry, metal trinkets)
 
 ### Experience Rewards
 - **Peaceful Resolution**: 300 XP for negotiating with both trolls successfully
 - **Combat Victory**: Standard XP for defeated trolls + 100 bonus
-- **Circle Discovery**: 200 XP for finding and understanding teleportation circle
-- **Bridge Restoration**: 500 XP for completing bridge reconstruction project
+
 
 ## Connections
 - Location: [[The Stillwater Vale - Index]]

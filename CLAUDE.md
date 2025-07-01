@@ -56,3 +56,6 @@ Dark fantasy with themes of curse, undeath, and the struggle against necromantic
 
 ## Notes Management
 - You can link notes between them with [[]]. You can directly link to sections of notes using [[note#title]]
+
+## Gameplay Insights
+- Undead loot is usually worhtless

@@ -19,45 +19,22 @@ The main north-south road in the Vale crosses the River Stillwater at a wide, sl
 **Personality**: Friendly but cautious tone, values practical exchanges over charity
 **Stats**: Commoner with +3 to Insight and Perception checks
 
-### Information Silas Provides
-**Recent Travelers** (past month):
-- **Hooded Figures**: 3 groups of 2-4 individuals, heavily cloaked, paid in old gold
-- **Strange Cargo**: Bone dust, grave dirt, preserved organs, ritualistic materials
-- **Timing Patterns**: Most suspicious travelers cross during new moon phases
-- **Behavioral Notes**: Avoided eye contact, spoke in whispers, smelled of decay
-- **Mechanical Benefit**: Advantage on tracking Vorlag's agents
+### Bandit Problem
+**The Threat**: 6 **Bandits** (CR 1/8 each) led by **Grix Ironfist** (CR 1/2) extort 10 gp "protection fee" per crossing
 
-**Supernatural Observations**:
-- **Unnatural Mists**: Rise from river during dawn hours, especially near [[Shadowmere Pool]]
-- **Moving Lights**: Seen across water at night, seem to patrol specific routes
-- **Water Temperature**: River runs colder near corrupted tributary mouths
-- **Wildlife Changes**: Fish populations declining, water birds avoiding certain areas
-- **Mechanical Benefit**: +2 to Survival checks for detecting supernatural presence
+**Silas's Information**:
+- Bandits camp 2 miles north in abandoned mill ruins
+- They return every 3 days (next visit: tomorrow at noon)
+- Leader carries a map showing other extortion targets
 
-**Danger Route Intelligence**:
-- **Avoided Paths**: Mysterious travelers never use eastern ford or northern trails
-- **Safe Timing**: Early morning crossings seem preferred by dangerous individuals
-- **Hidden Signals**: Lantern signals used between north and south banks
-- **Supply Lines**: Regular deliveries of ritual components suggest established network
-- **Mechanical Benefit**: Avoid 50% of random encounters by following safe routes
+**Player Options**:
+1. **Track to Camp**: Follow them back to mill ruins, fight them there
+2. **Ferry Ambush**: Wait at crossing for their return tomorrow, surprise attack
+3. **Pay Protection**: 10 gp eliminates problem but sets precedent for other travelers
 
-### Protection Services Needed
-**Immediate Threats**:
-- **Corrupted River Creatures**: 2d4 **[[Corrupted Giant Frog]]s** (CR 1/4 each, necrotic bite)
-- **Bandit Extortion**: 6 **Bandits** (CR 1/8 each) demand 10 gp "protection fee" per crossing
-- **Suspicious Watchers**: 1d3 **Cult Spies** (CR 1/8 each) monitoring ferry operations
-- **Equipment Sabotage**: Ferry ropes and platform require daily maintenance checks
-
-**Combat Encounters**:
-**Corrupted Frogs Attack** (25% chance per crossing):
-- Emerge from water mid-crossing
-- Necrotic bite causes 1 point Constitution damage
-- Retreat if reduced to 1/4 health
-
-**Bandit Confrontation** (40% chance per day):
-- Demand payment before allowing crossing
-- Will negotiate but become violent if refused
-- **Peaceful Resolution**: DC 15 Intimidation or Persuasion
+**Bandit Loot**:
+- **Protection Racket**: 85 gp collected from other victims
+- **[[Low level magical items#Flint of the Sure-Strike|Flint of sure strike]]**
 
 ### Silas's Assistance (if protected)
 **Ferry Services**:
@@ -86,17 +63,9 @@ The main north-south road in the Vale crosses the River Stillwater at a wide, sl
 - **Silas's Role**: Takes cover, uses pole to defend ferry integrity
 
 ### Long-term Alliance Benefits
-**Regional Network Access**:
-- **Ferryman Guild**: Introduction to other ferry operators throughout Dalelands
-- **River Commerce**: Knowledge of trade routes and merchant schedules
-- **Communication Hub**: Messages can be passed along river network
-- **Safe Houses**: Recommendations for trustworthy inns and contacts
-
-**Strategic Intelligence**:
-- **Traffic Monitoring**: Ongoing surveillance of suspicious river crossings
-- **Pattern Recognition**: Early warning of large group movements
-- **Supply Line Disruption**: Ability to delay or misdirect hostile forces
-- **Evacuation Support**: Emergency river crossing for refugees or allies
+**Silas's Ongoing Aid** (after bandit problem solved):
+- **Free Crossings**: No charge for party's future river crossings
+- **Supply Access**: Basic traveling supplies at cost
 
 ### Rewards
 - **Protection Payment**: 100 gp for solving bandit problem permanently
@@ -104,12 +73,6 @@ The main north-south road in the Vale crosses the River Stillwater at a wide, sl
 - **Network Access**: Ongoing ally with connections throughout river system
 - **Experience**: 200 XP for establishing long-term alliance with Silas
 
-### Ferry Upgrade Options
-**Defensive Improvements** (if party invests):
-- **Armored Platform**: +2 AC for ferry, 200 gp cost
-- **Hidden Compartments**: Smuggling capability, 150 gp cost
-- **Signal System**: Communication with both banks, 100 gp cost
-- **Emergency Shelter**: Protected cabin for weather/combat, 300 gp cost
 
 ## Connections
 - Location: [[The Stillwater Vale - Index]]

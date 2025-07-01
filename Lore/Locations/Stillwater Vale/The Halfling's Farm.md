@@ -9,17 +9,12 @@ Owned by Finzin Arnberry, living alone in the western hills across the river. Fi
 **Primary Objective**: Rescue Finzin and save the farm from destruction
 
 ### Farm Under Attack
-**[[Corrupted Dire Boar]]s** (3 creatures, CR 2 each):
-- **Corruption Effects**: Glowing red eyes, foam-flecked mouths, no fear
-- **Behavior**: Focus on destroying crops and killing livestock rather than people
-- **Tactics**: Charge attacks against farm buildings and stored grain
-- **Weakness**: Take double damage from silvered weapons
-
-**[[Corrupted Wolf|Corrupted Wolves]]** (4 creatures, CR 1/4 each with modifications):
-- **Pack Coordination**: +2 to attack when 2+ wolves attack same target
-- **Corruption Bite**: DC 12 Constitution save or take 1 necrotic damage per day
-- **Tactics**: Attempt to separate and isolate targets
-- **Priority**: Attack livestock first, then turn on defenders
+**Undead Livestock** (triggered by [[The Death's Eye]] curse):
+- **3 Zombie Cattle** (CR 1/4 each): Recently deceased farm animals
+- **4 Skeleton Chickens** (CR 1/8 each): Animated by curse proximity
+- **1 Zombie Draft Horse** (CR 1): Finzin's prized workhorse
+- **Curse Trigger**: Death's Eye activates when cursed party members approach
+- **Behavior**: Attack anything living, prioritize Finzin as he's closest
 
 **Finzin Arnberry** (Halfling Farmer):
 - **Combat Stats**: Commoner with AC 12 (leather), 8 HP, farming scythe (glaive)
@@ -29,10 +24,10 @@ Owned by Finzin Arnberry, living alone in the western hills across the river. Fi
 
 ### Tactical Considerations
 **Battlefield Layout**:
-- **Farmhouse**: Stone building with reinforced shutters (AC 15, 50 HP)
-- **Barn**: Wooden structure containing livestock (AC 12, 30 HP)
-- **Root Cellar**: Underground shelter (AC 18, 100 HP)
-- **Crop Fields**: Provide concealment but difficult terrain when damaged
+- **Farmhouse**: Stone building with reinforced shutters
+- **Barn**: Wooden structure (now contains undead livestock)
+- **Root Cellar**: Underground shelter (safe from undead)
+- **Crop Fields**: Provide concealment but difficult terrain
 
 **Environmental Factors**:
 - **Well**: 20 feet deep, can provide cover or escape route
@@ -41,11 +36,11 @@ Owned by Finzin Arnberry, living alone in the western hills across the river. Fi
 - **Farm Tools**: Improvised weapons available (pitchforks, shovels, etc.)
 
 ### Finzin's Network and Assistance
-**Halfling Community Knowledge**:
-- **Regional Communities**: Locations of 12 halfling settlements within 100 miles
-- **Trade Networks**: Known routes used by small folk traders and messengers
-- **Safe Houses**: Friendly locations for rest and resupply throughout region
-- **Communication System**: How to contact other halfling communities quickly
+**Yuyu's Family Quest Information**:
+- **Two Settlements**: **Oakhaven** in [[Featherdale]] and **Willow Creek** in [[Mistledale]]
+- **Trade Routes**: Paths between halfling communities
+- **Family Trinket**: Finzin recognizes a distinctive halfling-made tool Yuyu carries
+- **Rumors**: Stories of halfling bandits called the **[[Merry Marauders]]** terrorizing settlements
 
 **Intelligence Gathering**:
 - **Wildlife Behavior**: Detailed observations of corruption effects on local animals
@@ -92,10 +87,10 @@ Owned by Finzin Arnberry, living alone in the western hills across the river. Fi
 - **Hidden Savings**: Finzin's emergency fund of 120 gp
 - **Valuable Crops**: Rare herbs and spices worth 40 gp
 
-**Corrupted Creature Loot**:
-- **Dire Boar Tusks**: 3 sets worth 15 gp each (alchemical components)
-- **Wolf Pelts**: 4 pelts, but corruption makes them worth only 2 gp each
-- **Corruption Samples**: Glowing residue worth 30 gp to researchers
+**Farm Treasure**:
+- **Finzin's Savings**: 60 gp hidden in root cellar
+- **Quality Farm Tools**: 25 gp worth of well-made equipment
+- **Preserved Foods**: 30 gp worth of halfling delicacies
 
 ### Experience Rewards
 - **Farm Defense**: 200 XP for successfully defending farm from attack

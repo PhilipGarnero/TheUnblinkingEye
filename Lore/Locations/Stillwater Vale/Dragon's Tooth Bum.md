@@ -53,10 +53,11 @@ A cavern seemingly going deep inside the dragon's tooth mountains, a chain of hi
 - **Terrain Advantage**: Narrow passages limit party formation
 
 ### Intelligence Gathered
-**Surveillance Reports**:
-- Detailed maps marking Vorlag's movement patterns
-- Timing logs of undead activities at various locations
-- Sketches of key Vorlag lieutenants
+**Artifact Competition List**:
+- **[[The Phalanx of Whispers]]**: Already stolen by Vorlag from [[The Ancestor Mounds]]
+- **Crown of the Dusk Lord**: Hidden in **[[Sessrendale ruins]]** beneath the old cathedral, probably already in possesion of Vorlag
+- **Bone Grimoire of Zylkresk**: Located in ruins near **[[Harrowdale]]** border
+- **Shard of the Sundered Veil**: Cult of Dragon seeks this in **[[Daggerdale]]**
 
 **Strategic Plans**:
 - Plans to recruit goblin and gnoll tribes before Vorlag corrupts them
@@ -68,6 +69,11 @@ A cavern seemingly going deep inside the dragon's tooth mountains, a chain of hi
 - Plans to sabotage Vorlag's rituals while stealing her research
 - Evidence of ongoing spy networks watching each other's operations
 - **Campaign Hook**: Offers potential uneasy alliance against common threat
+
+**Next Dragon Cult Base**: 
+- **Location**: Abandoned watchtower near **[[Harrowdale]]** border ruins
+- **Timeline**: Moving there in 5 days
+- **Purpose**: Intercept Vorlag's forces heading to **[[Saltmere Village]]**
 
 ### Loot
 **Guard Post**:
@@ -81,6 +87,7 @@ A cavern seemingly going deep inside the dragon's tooth mountains, a chain of hi
 - Weapon rack: 6 scimitars, 3 shortswords, studded leather armor ×4
 
 **Ritual Chamber**:
+- **[[Wraps of the Coiling Dragon]]**: Silken hand-and-foot wraps that animate during Flurry of Blows
 - **Scrying Focus**: Crystal orb worth 500 gp (functional scrying tool)
 - **Dragonclaw Altar**: Black stone altar pieces worth 200 gp if transported
 - **Ritual Components**: Rare materials worth 100 gp total
@@ -106,4 +113,4 @@ A cavern seemingly going deep inside the dragon's tooth mountains, a chain of hi
 ## Connections
 - Location: [[The Stillwater Vale - Index]]
 - Related Factions: [[Cult of the Dragon]], [[Vorlag's Forces]]
-- Related Locations: [[Village of Stillwater Creek]]
+- Related Locations:
