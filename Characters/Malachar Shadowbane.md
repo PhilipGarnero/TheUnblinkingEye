@@ -8,7 +8,7 @@ statblock: inline
 - **Class:** Cult Fanatic/Elite Warrior
 - **CR:** 4-5
 - **Alignment:** Neutral Evil
-- **Organization:** Servant of [[Vorlag the Pale (Necromancer)]] and [[The Dusk Lord]]
+- **Organization:** Servant of [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]] and [[The Dusk Lord#Basic Information|The Dusk Lord]]
 - **Specialization:** Temple destroyer and divine servant assassin
 - **Voice:** Sudden/indirect/light, nasal placement, breathy air, fast tempo, quiet volume, aggressive tone
 
@@ -75,7 +75,7 @@ spells:
 ## DM Notes & Key Info
 **Primary Role:** Vorlag's most trusted lieutenant and field commander
 
-**Key Mission:** Assassinated [[Brother Marcus Dawnward]] during Stillwater Creek attack
+**Key Mission:** Assassinated [[Brother Marcus Dawnward#Basic Information|Brother Marcus Dawnward]] during Stillwater Creek attack
 
 **Specializations:**
 - Field command of complex stealth operations
@@ -125,18 +125,18 @@ spells:
 
 **Proven Lieutenant:** Through numerous successful missions corrupting temples and eliminating divine servants, earned Vorlag's complete trust.
 
-**Key Mission - Elimination of Brother Marcus:** During Moonlit Raid on [[Village of Stillwater Creek]], tasked with eliminating Order of the Gauntlet's cleric. Successfully assassinated [[Brother Marcus Dawnward]] while cleric protected village children, using *Inflict Wounds* enhanced by necrotic strike ability.
+**Key Mission - Elimination of Brother Marcus:** During Moonlit Raid on [[Stillwater Creek - Village Index|Village of Stillwater Creek]], tasked with eliminating Order of the Gauntlet's cleric. Successfully assassinated [[Brother Marcus Dawnward#Basic Information|Brother Marcus Dawnward]] while cleric protected village children, using *Inflict Wounds* enhanced by necrotic strike ability.
 
 **Goals:**
-- **Primary Loyalty:** Absolute devotion to Vorlag and Dusk Lord's return
+- **Primary Loyalty:** Absolute devotion to [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag]] and [[The Dusk Lord#Basic Information|Dusk Lord]]'s return
 - **Personal Ambition:** Seeks to become Vorlag's heir and eventual high priest of Dusk Lord
 - **Divine Vendetta:** Particularly targets clerics and paladins of light-aligned deities
 - **Strategic Thinking:** Views every mission as part of larger plan to restore Dusk Lord
 
 ## Relationships
-**Master:** [[Vorlag the Pale (Necromancer)]] - Completely loyal, never questions orders; often given independent command of important missions
+**Master:** [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]] - Completely loyal, never questions orders; often given independent command of important missions
 
-**Target:** [[Brother Marcus Dawnward]] - Successfully assassinated during Stillwater Creek attack
+**Target:** [[Brother Marcus Dawnward#Basic Information|Brother Marcus Dawnward]] - Successfully assassinated during Stillwater Creek attack
 
 **Enemies:** Order of the Gauntlet survivors specifically seek his capture; divine spellcasters particularly antagonistic toward him
 

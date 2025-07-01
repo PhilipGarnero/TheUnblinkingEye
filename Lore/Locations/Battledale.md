@@ -6,7 +6,7 @@
 
 ## Regional Description
 
-Once a peaceful dale of scattered farms and small communities, Battledale has become a war zone between the living and the undead. The rural areas have been systematically overrun by [[Vorlag the Pale (Necromancer)]]'s forces, forcing the scattered population to flee to the fortified town of Essembra. The dale's peaceful nature has become its weakness, as there were no standing armies or fortifications to resist the undead incursion.
+Once a peaceful dale of scattered farms and small communities, Battledale has become a war zone between the living and the undead. The rural areas have been systematically overrun by [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]]'s forces, forcing the scattered population to flee to the fortified town of Essembra. The dale's peaceful nature has become its weakness, as there were no standing armies or fortifications to resist the undead incursion.
 
 ## Current State
 
@@ -19,7 +19,7 @@ Once a peaceful dale of scattered farms and small communities, Battledale has be
 ## Notable Locations
 
 ### **Essembra** 
-*Faction Control: [[Battledale Government]]*
+*Faction Control: [[Dalelands#Political Landscape|Battledale Government]]*
 - Overcrowded refugee town, population swollen from 3,000 to over 15,000
 - Makeshift camps outside the town walls house desperate refugees
 - Town guard overwhelmed, relying on volunteer militia
@@ -27,42 +27,42 @@ Once a peaceful dale of scattered farms and small communities, Battledale has be
 ![[../../Assets/Essembra.jpg]]
 
 ### **Millhaven**
-*Faction Control: [[Vorlag's Forces]]*
+*Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Former farming village of 400 inhabitants, now completely abandoned
 - Buildings converted into zombie breeding pens
 - Village well corrupted with necromantic energy
 - Grain silos filled with bones instead of wheat
 
 ### **Crow's Watch Tower**
-*Faction Control: [[Vorlag's Forces]]*
+*Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Old watchtower on Essembra's outskirts, now undead command post
 - Wights stationed here coordinate raids on refugee convoys
 - Signal fires burn with green flame to communicate with other undead outposts
 - Basement converted into torture chambers for captured survivors
 
 ### **Ashgrain Mill**
-*Faction Control: [[Vorlag's Forces]]*
+*Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Former mill town where Vorlag performed mass resurrection rituals
 - The mill wheel now turns endlessly, grinding bones into necromantic components
 - Town square contains a permanent circle for raising undead
 - Population of 600 transformed into skeletal workforce
 
 ### **Greenvale Farm**
-*Faction Control: [[Bandits]]*
+*Faction Control: [[Bandits#Major Bandit Groups|Bandits]]*
 - Large farming estate that fell to bandit occupation before undead arrived
 - Fortified farmhouse serves as bandit stronghold
 - Raiders prey on refugee convoys traveling to Essembra
 - Uneasy truce with undead forces - bandits provide intelligence in exchange for protection
 
 ### **Silverbrook Shrine**
-*Faction Control: [[Good Aligned Forces]]*
+*Faction Control: [[Good Aligned Forces#Major Organizations|Good Aligned Forces]]*
 - Small shrine to Chauntea, one of the few remaining safe havens
-- Protected by [[Brother Marcus Dawnward]] and a circle of druids
+- Protected by [[Brother Marcus Dawnward#Basic Information|Brother Marcus Dawnward]] and a circle of druids
 - Provides sanctuary for small groups of refugees
 - Holy ground prevents undead from approaching directly
 
 ### **The Deadlands**
-*Faction Control: [[Vorlag's Forces]]*
+*Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Former battlefield from ancient conflicts, now a spawning ground for undead
 - Skeletal warriors emerge from the corrupted earth nightly
 - Center contains a massive bone cathedral built by Vorlag's cultists
@@ -84,11 +84,11 @@ Once a peaceful dale of scattered farms and small communities, Battledale has be
 
 ## Faction Presence
 
-- **[[Vorlag's Forces]]:** 60% of rural territory, all major strategic points
-- **[[Battledale Government]]:** Essembra and immediate surroundings only
-- **[[Bandits]]:** Scattered strongholds, opportunistic raiders
-- **[[Good Aligned Forces]]:** Few isolated sanctuaries and shrines
-- **[[Monsters]]:** Corrupted beasts in wilderness areas, competing with undead
+- **[[Vorlag's Forces#Organization Structure|Vorlag's Forces]]:** 60% of rural territory, all major strategic points
+- **[[Dalelands#Political Landscape|Battledale Government]]:** Essembra and immediate surroundings only
+- **[[Bandits#Major Bandit Groups|Bandits]]:** Scattered strongholds, opportunistic raiders
+- **[[Good Aligned Forces#Major Organizations|Good Aligned Forces]]:** Few isolated sanctuaries and shrines
+- **[[Monsters]]**: Corrupted beasts in wilderness areas, competing with undead
 
 ## Strategic Importance
 

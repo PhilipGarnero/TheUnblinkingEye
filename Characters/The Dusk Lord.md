@@ -2,6 +2,7 @@
 statblock: inline
 ---
 
+# The Dusk Lord
 
 ## Basic Information
 - **Race:** Human (Undead)
@@ -83,7 +84,7 @@ spells:
 - Tattered robes of midnight black
 
 ## DM Notes & Key Info
-**Ultimate Threat:** Represents the larger darkness behind [[Vorlag the Pale (Necromancer)]]
+**Ultimate Threat:** Represents the larger darkness behind [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]]
 
 **Campaign Role:** Behind-the-scenes antagonist whose influence may be felt through:
 - Enhanced undead encounters
@@ -149,11 +150,11 @@ spells:
 **Goals:**
 - **Primary Objective:** Return to Material Plane and reclaim lost dominion over Dalelands
 - **The Revenge of Sessrendale:** Seeks vengeance against Archendale for destruction of original domain
-- **Immediate Strategy:** Use [[Vorlag the Pale (Necromancer)]] to establish Shadowfell anchor points
+- **Immediate Strategy:** Use [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]] to establish Shadowfell anchor points
 - **Long-term Vision:** Restore Sessrendale as necromantic stronghold and expand across Dalelands
 
 ## Relationships
-**Primary Agent:** [[Vorlag the Pale (Necromancer)]] - His most promising agent for achieving return, appears to her in visions offering power for service
+**Primary Agent:** [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]] - His most promising agent for achieving return, appears to her in visions offering power for service
 
 **Historical Enemies:** Archendale forces and their descendants, those who conquered Sessrendale
 

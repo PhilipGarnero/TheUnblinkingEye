@@ -1,6 +1,6 @@
 # Deepingdale - The Fortified Garden
 
-*Part of the [[Dalelands]] region, neighboring [[Mistledale]] and [[The Stillwater Vale]]*
+*Part of the [[Dalelands#Geographic Overview|Dalelands]] region, neighboring [[Mistledale#Regional Description|Mistledale]] and [[The Stillwater Vale - Index|The Stillwater Vale]]*
 
 **Population:** 50,000 (big & intricate dale, elves settlements, drow attacks)  
 **Status:** Functioning Dale - Agricultural center, population concentrated in walled Highmoon, outlying farms abandoned due to drow raids  
@@ -8,7 +8,7 @@
 
 ## Regional Description
 
-Deepingdale is known as the "breadbasket of the Dalelands," featuring rich agricultural lands and ancient elven settlements. The dale's complex geography includes river valleys, forested hills, and extensive farmland. While [[Vorlag the Pale (Necromancer)]]'s undead forces pose a growing threat, the more immediate danger comes from increased drow raiding parties emerging from Underdark connections, forcing rural populations into the heavily fortified city of Highmoon.
+Deepingdale is known as the "breadbasket of the Dalelands," featuring rich agricultural lands and ancient elven settlements. The dale's complex geography includes river valleys, forested hills, and extensive farmland. While [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]]'s undead forces pose a growing threat, the more immediate danger comes from increased drow raiding parties emerging from Underdark connections, forcing rural populations into the heavily fortified city of Highmoon.
 
 ## Current State
 
@@ -23,7 +23,7 @@ Deepingdale is known as the "breadbasket of the Dalelands," featuring rich agric
 ## Notable Locations
 
 ### **Highmoon**
-*Faction Control: [[Deepingdale Government]]*
+*Faction Control: [[Dalelands#Political Landscape|Deepingdale Government]]*
 - Fortified agricultural city, population 8,000 within walls
 - Additional 15,000 refugees in surrounding camps outside walls
 - Massive granaries supply food throughout the region
@@ -32,21 +32,21 @@ Deepingdale is known as the "breadbasket of the Dalelands," featuring rich agric
 ![Highmoon](/Assets/Highmoon.webp)
 
 ### **Grimwood Hollow**
-*Faction Control: [[Vorlag's Forces]]*
+*Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Forest glade where barriers to Shadowfell are thinnest
 - Twisted trees form natural amphitheater for necromantic rituals
 - Shadowfell creatures regularly manifest in the area
 - Serves as primary Shadowfell gateway for northern operations
 
 ### **Abandoned Redthorn Vineyard**
-*Faction Control: [[Vorlag's Forces]]*
+*Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Former winery now breeding ghasts in wine cellars
 - Fermentation vats converted to corpse preparation facilities
 - Vineyard workers raised as vineyard-tending zombies
 - Wine production continues but creates necromantic potions
 
 ### **Elkhorn Station**
-*Faction Control: [[Vorlag's Forces]]*
+*Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Former waystation corrupted into undead waypoint
 - Strategic location for moving undead forces across the dale
 - Underground chambers store undead reinforcements
@@ -74,7 +74,7 @@ Deepingdale is known as the "breadbasket of the Dalelands," featuring rich agric
 - Mining operations extract rare minerals for drow use
 
 ### **Thorndale Farm Collective**
-*Faction Control: [[Deepingdale Government]]*
+*Faction Control: [[Dalelands#Political Landscape|Deepingdale Government]]*
 - Last functioning agricultural area still under government control
 - 500 farmers defended by military garrison
 - Surrounded by earthworks and watchtowers
@@ -95,28 +95,28 @@ Deepingdale is known as the "breadbasket of the Dalelands," featuring rich agric
 - Network of tree-top platforms and hidden paths
 
 ### **The Sunken Cemetery**
-*Faction Control: [[Vorlag's Forces]]*
+*Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Flooded graveyard where aquatic undead spawn
 - Former burial ground now partially underwater
 - Drowned dead rise as aquatic zombies
 - Water contaminated with necromantic energy
 
 ### **Millbrook Trading Post**
-*Faction Control: [[Bandits]]*
+*Faction Control: [[Bandits#Major Bandit Groups|Bandits]]*
 - Abandoned trading post claimed by refugee bandits
 - "The Desperate Dozen" led by former merchant [[Willem Goldbrook]]
 - Rob supply convoys heading to Highmoon
 - 25 members, mostly displaced merchants and farmers
 
 ### **The Whispering Gallery**
-*Faction Control: [[Cult of the Dragon]]*
+*Faction Control: [[Cult of the Dragon#Organization Structure|Cult of the Dragon]]*
 - Natural acoustic cave system used by dragon cultists
 - Hidden cult shrine dedicated to ancient green dragons
 - 15 cultists led by half-dragon sorcerer [[Verdant Scaleheart]]
 - Cave acoustics allow long-distance communication
 
 ### **Moonwheat Mills**
-*Faction Control: [[Good Aligned Forces]]*
+*Faction Control: [[Good Aligned Forces#Major Organizations|Good Aligned Forces]]*
 - Series of water mills maintained by temple coalition
 - Priests of Chauntea coordinate food production efforts
 - Mills protected by divine magic and temple guards
@@ -124,14 +124,14 @@ Deepingdale is known as the "breadbasket of the Dalelands," featuring rich agric
 
 ## Faction Presence
 
-- **[[Deepingdale Government]]:** 45% of territory, Highmoon and defended agricultural areas
+- **[[Dalelands#Political Landscape|Deepingdale Government]]:** 45% of territory, Highmoon and defended agricultural areas
 - **[[Drow Forces]]:** 20% of territory, underground networks and hill complexes
-- **[[Vorlag's Forces]]:** 15% of territory, corrupted sites and Shadowfell connections
+- **[[Vorlag's Forces#Organization Structure|Vorlag's Forces]]:** 15% of territory, corrupted sites and Shadowfell connections
 - **[[Elven Sanctuaries]]:** 10% of territory, forest strongholds and sacred sites
-- **[[Good Aligned Forces]]:** 5% of territory, temples and mills
-- **[[Bandits]]:** 3% of territory, isolated hideouts
-- **[[Cult of the Dragon]]:** 1% of territory, hidden cave systems
-- **[[Monsters]]:** 1% of territory, magical corruption sites
+- **[[Good Aligned Forces#Major Organizations|Good Aligned Forces]]:** 5% of territory, temples and mills
+- **[[Bandits#Major Bandit Groups|Bandits]]:** 3% of territory, isolated hideouts
+- **[[Cult of the Dragon#Organization Structure|Cult of the Dragon]]:** 1% of territory, hidden cave systems
+- **[[Monsters]]**: 1% of territory, magical corruption sites
 
 ## Strategic Importance
 
@@ -139,7 +139,7 @@ Deepingdale's agricultural capacity makes it crucial for feeding the entire regi
 
 ## Government Structure
 
-The [[Deepingdale Government]] operates as a defensive confederation led by Lord Mayor [[Cassandra Brightwater]] with strong cooperation from elven communities. The government has successfully maintained agricultural production despite constant threats, but relies heavily on fortification rather than territorial control.
+The [[Dalelands#Political Landscape|Deepingdale Government]] operates as a defensive confederation led by Lord Mayor [[Cassandra Brightwater]] with strong cooperation from elven communities. The government has successfully maintained agricultural production despite constant threats, but relies heavily on fortification rather than territorial control.
 
 ## Multi-Faction Conflict
 

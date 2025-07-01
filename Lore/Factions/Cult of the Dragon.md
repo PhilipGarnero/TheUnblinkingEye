@@ -42,23 +42,23 @@
 - **Artifact Hunting** - Searching for items that could aid in dracolich transformation, particularly the **Sunstone of Renewal**
 
 ### **Strategic Positions**
-- **[[Thornbridge]]** (Tasseldale) - Controls strategic bridge crossing, demands tribute
-- **[[Abandoned Goldbrook Mine]]** (Featherdale) - Small but profitable mining operation
+- **[[Tasseldale#Notable Locations|Thornbridge]]** (Tasseldale) - Controls strategic bridge crossing, demands tribute
+- **[[Featherdale#Notable Locations|Abandoned Goldbrook Mine]]** (Featherdale) - Small but profitable mining operation
 - **Hidden Sanctuaries** - Multiple secret meeting places throughout the region
 - **Urban Cells** - Infiltrated various towns and cities across the Dalelands
 
 ### **Relationships with Other Factions**
 
 #### **Opportunistic Cooperation**
-- **[[Vorlag's Forces]]** - Occasional cooperation when interests align
+- **[[Vorlag's Forces#Organization Structure|Vorlag's Forces]]** - Occasional cooperation when interests align
   - Trade information about mutual enemies
   - Temporary non-aggression pacts in contested areas
   - Shared hatred of organized good-aligned forces
 
 #### **Competitive Rivalry**
 - **Dale Governments** - Undermines legitimate authority while maintaining cover
-- **[[Good Aligned Forces]]** - Opposes temples and paladins who threaten their operations
-- **[[Bandits]]** - Competes for resources and territory
+- **[[Good Aligned Forces#Major Organizations|Good Aligned Forces]]** - Opposes temples and paladins who threaten their operations
+- **[[Bandits#Major Bandit Groups|Bandits]]** - Competes for resources and territory
 
 #### **Neutral Indifference**
 - **[[Monsters]]** - Generally ignores natural creatures unless they interfere

@@ -38,18 +38,18 @@ The traditional Dales Council structure persists but has been severely weakened:
 ### Current Dale Status
 
 **Functioning Dales (Fortified Population Centers):**
-- **[[Mistledale]]** ([[Ashabenford]]): Maintains some stability, acts as regional hub, rural populations fled to military protected Ashabenford
-- **[[Deepingdale]]** ([[Highmoon]]): Agricultural center, population concentrated in walled Highmoon (8,000), outlying farms abandoned due to drow raids
-- **[[Shadowdale]]** (Shadowdale): Historically significant but increasingly isolated, cult of the dragon controls and protects the dale in the shadows. Countryside is quite safe from other threats
-- **[[Scardale]]**: Conquered by Sembia in 1421 DR, rural population fled to bigger cities like Chandlerscross and Scarsdeep but especially fortified Scardale Town
-- **[[Archendale]]** (Archenbridge): Well protected from any threats due to its isolation and army.
+- **[[Mistledale#Notable Locations|Mistledale]]** ([[Mistledale#Notable Locations|Ashabenford]]): Maintains some stability, acts as regional hub, rural populations fled to military protected Ashabenford
+- **[[Deepingdale#Notable Locations|Deepingdale]]** ([[Deepingdale#Notable Locations|Highmoon]]): Agricultural center, population concentrated in walled Highmoon (8,000), outlying farms abandoned due to drow raids
+- **[[Shadowdale#Notable Locations|Shadowdale]]** (Shadowdale): Historically significant but increasingly isolated, cult of the dragon controls and protects the dale in the shadows. Countryside is quite safe from other threats
+- **[[Scardale#Notable Locations|Scardale]]**: Conquered by Sembia in 1421 DR, rural population fled to bigger cities like Chandlerscross and Scarsdeep but especially fortified Scardale Town
+- **[[Archendale#Notable Locations|Archendale]]** (Archenbridge): Well protected from any threats due to its isolation and army.
 
 **Struggling Dales (Mass Evacuations):**
-- **[[Battledale]]** (Essembra): Rural areas overrun by corrupted beasts & undead, survivors overcrowded into Essembra
-- **[[Featherdale]]** (Feather Falls): Intermittent contact, reports suggest population concentrated in Feather Falls town, countryside half abandoned
-- **[[Tasseldale]]** (Tasseler): Active undead threat forcing evacuations from farms and villages to bigger cities like Tegal's Mark
-- **[[Harrowdale]]**: Coastal settlements like New Velar swollen with refugees fleeing monster-infested forests, temple to Eilistraee in Velarswood provides some sanctuary
-- **[[Daggerdale]]**: Rocky region's scattered population retreating around Dagger Falls castle, bandit and monster activity makes rural life very difficult
+- **[[Battledale#Notable Locations|Battledale]]** (Essembra): Rural areas overrun by corrupted beasts & undead, survivors overcrowded into Essembra
+- **[[Featherdale#Notable Locations|Featherdale]]** (Feather Falls): Intermittent contact, reports suggest population concentrated in Feather Falls town, countryside half abandoned
+- **[[Tasseldale#Notable Locations|Tasseldale]]** (Tasseler): Active undead threat forcing evacuations from farms and villages to bigger cities like Tegal's Mark
+- **[[Harrowdale#Notable Locations|Harrowdale]]**: Coastal settlements like New Velar swollen with refugees fleeing monster-infested forests, temple to Eilistraee in Velarswood provides some sanctuary
+- **[[Daggerdale#Notable Locations|Daggerdale]]**: Rocky region's scattered population retreating around Dagger Falls castle, bandit and monster activity makes rural life very difficult
 
 **Status Unknown:**
 - Several outer dales have not been heard from in months
@@ -79,7 +79,7 @@ The Second Sundering left the region magically unstable:
 ## Vorlag's Growing Influence
 
 ### Areas Under Direct Threat
-- **[[The Stillwater Vale]]:** Current focus of Vorlag's operations, containing [[Village of Stillwater Creek/Stillwater Creek - Village Index]]
+- **[[The Stillwater Vale - Index|The Stillwater Vale]]:** Current focus of Vorlag's operations, containing [[Stillwater Creek - Village Index|Village of Stillwater Creek]]
 
 
 ### Patterns of Corruption
@@ -120,7 +120,7 @@ While major threats seem contained, unsettling patterns emerge:
 The collapse of countryside security has created a refugee crisis:
 - **Abandoned Settlements:** Hundreds of farms, hamlets, and villages lie empty
 - **Monster Territories:** Undefended rural areas now controlled by various threats:
-  - **Undead Hordes:** Vorlag's influence spreads through abandoned graveyards and battlefields
+  - **Undead Hordes:** [[Vorlag's Influence#Methods of Spreading Influence|Vorlag's influence]] spreads through abandoned graveyards and battlefields
   - **Drow Raiding Parties:** Surface expeditions from Underdark settlements target isolated communities
   - **Cult Strongholds:** Dragon cult and other factions establish bases in empty villages
   - **Aberrant Creatures:** Far Realm entities exploit planar weaknesses in remote areas
@@ -166,10 +166,10 @@ Some lingering effects from the catastrophe remain:
 ## Campaign Implications
 
 This transformed Dalelands provides:
-- **Urgency:** Clear time pressure as Vorlag's influence spreads
+- **Urgency:** Clear time pressure as [[Vorlag's Influence#Methods of Spreading Influence|Vorlag's influence]] spreads
 - **Scope:** Multiple scales of conflict from personal to regional
 - **Complexity:** Political, magical, and environmental challenges
 - **Agency:** Multiple approaches to addressing the threats
 - **Consequence:** Player actions have meaningful impact on regional recovery
 
-The region serves as both backdrop and active participant in the unfolding story, with the fate of the Dalelands hanging in the balance as Vorlag works toward her master's return.
+The region serves as both backdrop and active participant in the unfolding story, with the fate of the Dalelands hanging in the balance as [[Vorlag the Pale (Necromancer)#Goals|Vorlag]] works toward her master's return.

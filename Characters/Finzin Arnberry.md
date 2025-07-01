@@ -9,7 +9,7 @@ statblock: inline
 **Age:** 45  
 **Class:** Commoner  
 **Organization:** Independent farmer  
-**Location:** Arnberry Farm (across the river from [[Village of Stillwater Creek]])  
+**Location:** Arnberry Farm (across the river from [[Stillwater Creek - Village Index|Village of Stillwater Creek]])  
 **Voice:** Sudden/indirect/light, mixed placement, breathy air, medium tempo, mid volume, friendly tone  
 
 ## Stats
@@ -56,7 +56,7 @@ actions:
 ## DM Notes & Key Info
 - **Campaign Role:** Quest target for "Checking on Finzin" - demonstrates curse effects
 - **Tactical Notes:** Non-combatant, will use Lucky trait if forced into danger
-- **Curse Interaction:** His farm becomes dangerous when cursed PCs arrive due to [[The Death's Eye]]
+- **Curse Interaction:** His farm becomes dangerous when cursed PCs arrive due to [[The Death's Eye#Core Mechanical Effects|The Death's Eye]]
 - **Important Reminder:** Undead rise from buried livestock and dead animals when PCs approach
 - **Information Source:** Knows locations of other halfling communities that might offer sanctuary
 
@@ -67,12 +67,12 @@ Finzin is a cheerful, round-faced halfling with curly brown hair and warm hazel 
 Finzin settled his farm across the river about fifteen years ago, drawn by the fertile soil and peaceful location near Stillwater Creek. He makes regular trips to the village to sell his exceptional vegetables, fruits, and herbs. Before settling down, he traveled extensively among halfling communities throughout the region, giving him valuable knowledge of other settlements and safe routes between them. He's built a reputation for fair dealing and quality produce, making him a welcome sight at the village market.
 
 ## Relationships
-- **[[Martha "Ma" Greenthistle]]:** Regular customer who appreciates his quality vegetables for the inn
-- **[[Jebediah "Jeb" Stone]]:** Trading partner who helps him acquire farming supplies
+- **[[Village NPCs#Martha "Ma" Greenthistle & Pipkin "Pip" Solloway|Martha "Ma" Greenthistle]]:** Regular customer who appreciates his quality vegetables for the inn
+- **[[Village NPCs#Jebediah "Jeb" Stone|Jebediah "Jeb" Stone]]:** Trading partner who helps him acquire farming supplies
 - **Village residents:** Well-liked visiting merchant who brings news from other communities
 - **Halfling settlements:** Maintains connections with various halfling communities throughout the Dalelands
 - **Player Characters:** Initially pleased to see visitors, becomes terrified when undead rise due to their curse
 
 ## Quests
-- **[[Quest 8: Checking on Finzin]]:** PCs must check on his welfare after the skeleton attack, leading to combat when their curse raises undead on his property
-- **Potential information source:** Can provide directions to halfling settlements that might offer sanctuary from [[Vorlag the Pale (Necromancer)]]'s influence
+- **[[Village Quests#Quest 8: Checking on Finzin|Quest 8: Checking on Finzin]]:** PCs must check on his welfare after the skeleton attack, leading to combat when their curse raises undead on his property
+- **Potential information source:** Can provide directions to halfling settlements that might offer sanctuary from [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]]'s influence

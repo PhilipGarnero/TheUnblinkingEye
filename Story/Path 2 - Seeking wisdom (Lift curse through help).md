@@ -1,29 +1,23 @@
 * **Premise:** The party seeks powerful individuals, ancient lore, or divine intervention to cleanse the curse.
 * **How it Begins:** Consulting sages, priests, or loremasters for non-confrontational solutions.
-* **Curse Interaction:** Journeys will be perilous due to minion attraction from [[The Death's Eye]]. Foe resurrection may occur if their search leads them into areas with [[Vorlag's Influence]] or if [[Vorlag the Pale (Necromancer)]] targets those trying to help them.
+* **Curse Interaction:** Journeys are perilous due to minion attraction from [[The Death's Eye#Nature of the Curse|The Death's Eye]]. Foe resurrection occurs if their search leads them into areas with [[Vorlag's Influence#Areas of Strong Influence|Vorlag's Influence]] or if [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]] targets those trying to help them.
 
 ## Adventure Outline & Challenges:
 
 1.  **The Quest for Knowledge:**
     * Travel to renowned libraries, wise hermits, or ancient temples.
     * Navigate treacherous routes, solve riddles, or perform services for knowledge guardians.
-2.  **Securing an Audience/Ritual:**
-    * **Expert Aid (Archmage/Wizard Conclave):**
-        * May require rare spell components (e.g., celestial tear, powdered unicorn horn, Feywild bloom). Party quests for these items.
-        * Could involve consulting [[Elara Meadowlight]] or similar experts.
-    * **Divine Intervention (Temples/Holy Sites):**
-        * Seek aid from deities like Lathander, Pelor, Kelemvor, Silvanus (Player's Handbook, p. 293ff).
-        * May need to perform a great service: cleanse a desecrated site, recover a holy relic, protect the faithful.
-        * Could involve [[Divine Servants (WIP)]] at major temples.
-3.  **The Cleansing Ritual/Intervention:**
-    * A powerful, potentially lengthy ritual is performed.
-    * The party might need to defend the casters/site from a final assault by [[Vorlag the Pale (Necromancer)]]'s forces who sense the curse being undone.
+    * First attempts to lift the curse do not work so they decide to search ancient knowledge.
+    * The PCs consult two different ancient sources: **The Oracle of [[The Whispering Grove]]** in [[The Stillwater Vale - Index|The Stillwater Vale]] and the dusty archives of **The Grand Library of Silverwood** in [[Silverymoon]]. Each source provides a prophecy for the curse's removal, but the prophecies directly contradict each other regarding the necessary components or the ritual's timing. The PCs undertake a dangerous quest to find a third, definitive source, **The Scroll of Aethelred** in [[The Lost Library of Archendale]], to reconcile the conflicting information.
+    * A powerful archmage, **[[Elara Meadowlight#Basic Information|Elara Meadowlight]]** (elevated to archmage status), or an ancient dragon, **Ignis, the Scaled Loremaster** (dwelling in the mountains near [[Shadowdale]]), possesses the knowledge to break the curse. This entity demands a specific, dangerous, and morally ambiguous service in exchange for the information. For example, the PCs must retrieve a powerful artifact, **The Chronos Shard**, from a heavily guarded vault in [[Zhentil Keep]], knowing its removal destabilizes a region, or they perform a ritual that drains life force from a willing, but innocent, creature.
 
-## Climax: The Ritual's Completion
+2.  **The Curse's Evolution:**
+    * As the PCs attempt various cleansing spells and rituals, they discover that the curse, while debilitating, is **stronger than expected**. It resists all known cleansing methods, because its inherent power is simply beyond conventional means. This forces them to seek out even more obscure and dangerous methods.
+    * The PCs discover that the curse itself is a necessary component for its own removal. This may be why it failed before and forces them to look for a more "combative" cleansing.
 
-* The ritual is successfully performed, or the chosen deity/entity grants its boon.
+3.  **The Divine/Arcane Politics:**
+    * The PCs find a seemingly benevolent temple, **The Temple of the Azure Dawn** in [[Tilverton]], or an arcane order, **The Conclave of the Silver Star** in [[Shadowdale]], that promises a cure. They soon discover that a high-ranking member of the institution, **Archon Malakor**, is secretly a cultist of Vorlag or the [[The Dusk Lord#Basic Information|Dusk Lord]]. This cultist actively sabotages their efforts, provides false information, or attempts to capture them for Vorlag. The PCs expose and defeat the traitor from within.
+    * A powerful celestial, **The Emissary of Lathander** (manifesting at the [[Morninglord's Temple]] in [[Tilverton]]), or archmage, **Grand Sorcerer Theron** (residing in [[Shadowdale]]), agrees to remove the curse. However, this entity demands a significant, long-term commitment from the PCs: they pledge to actively fight Vorlag's influence across the [[Dalelands]], even after their personal curse is lifted. This greater calling effectively ends Path 2, as the curse is lifted, but the PCs are now committed to fighting Vorlag directly, transitioning them into a modified Path 1.
 
-## Lifting the Curse:
-
-* [[The Death's Eye]] marks are painfully but completely burned away by holy energy or arcane power.
-* Characters are freed and may gain additional boons or a positive relationship with the entity that aided them.
+4.  **The Endgame:**
+    * The chosen deity or powerful entity subjects the PCs to a **spiritual trial**. This trial takes place in a dreamscape or a pocket dimension, forcing the PCs to confront their fears, past mistakes, or the temptations of the curse itself. Failure means the curse remains.

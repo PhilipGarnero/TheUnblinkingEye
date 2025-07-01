@@ -53,3 +53,6 @@ Dark fantasy with themes of curse, undeath, and the struggle against necromantic
 1. **Direct Confrontation**: Hunt down and defeat Vorlag (high risk, high curse interaction)
 2. **Seeking Wisdom**: Find magical/divine cure through experts and temples
 3. **Sanctuary Flight**: Escape to lands beyond Vorlag's influence
+
+## Notes Management
+- You can link notes between them with [[]]. You can directly link to sections of notes using [[note#title]]

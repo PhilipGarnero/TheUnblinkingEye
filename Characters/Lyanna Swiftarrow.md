@@ -8,7 +8,7 @@ statblock: inline
 - **Class:** Ranger
 - **Organization:** Order of the Gauntlet
 - **Specialization:** Undead hunter and tracker
-- **Location:** [[Village of Stillwater Creek]] (investigating undead activity)
+- **Location:** [[Stillwater Creek - Village Index|Village of Stillwater Creek]] (investigating undead activity)
 - **Voice:** Sustained/indirect/light, mixed placement, dry air, medium tempo, quiet volume, impartial tone
 
 
@@ -68,11 +68,11 @@ spells:
 
 **Key Discoveries:**
 - Mapped undead patrol routes and staging areas
-- Found [[Malachar Shadowbane]] tracks from Brother Marcus's assassination
-- Identified corruption spread patterns in [[Ancestor Mounds]] and [[Direwood]]
+- Found [[Malachar Shadowbane#Basic Information|Malachar Shadowbane]] tracks from Brother Marcus's assassination
+- Identified corruption spread patterns in [[The Ancestor Mounds#Current State|Ancestor Mounds]] and [[Direwood Forest#Overview|Direwood]]
 - Located enemy supply lines and escape routes
 
-**Campaign Role:** Essential for Path 1 operations, provides tactical intelligence and combat support
+**Campaign Role:** Essential for [[Path 1 - The Hunted's Hunt (Direct Confrontation)]] operations, provides tactical intelligence and combat support
 
 ## Description
 **Physical Appearance:**
@@ -94,12 +94,12 @@ Lithe half-elf with keen eyes that miss nothing in wilderness. Auburn hair kept 
 ## History
 **Service:** Long-standing member of Order of the Gauntlet specializing in undead threats
 
-**Current Mission:** Investigating undead activity in [[Village of Stillwater Creek]] region
+**Current Mission:** Investigating undead activity in [[Stillwater Creek - Village Index|Village of Stillwater Creek]] region
 
 **Investigation Findings:**
-- **[[Ancestor Mounds]] and [[Direwood]]:** Primary sources of necromantic energy
+- **[[The Ancestor Mounds#Current State|Ancestor Mounds]] and [[Direwood Forest#Overview|Direwood]]:** Primary sources of necromantic energy
 - **Movement Trails:** Mapped undead patrol routes and staging areas
-- **[[Malachar Shadowbane]] Tracks:** Found drow footprints leading away from [[Brother Marcus Dawnward]]'s body
+- **[[Malachar Shadowbane#Basic Information|Malachar Shadowbane]] Tracks:** Found drow footprints leading away from [[Brother Marcus Dawnward#Basic Information|Brother Marcus Dawnward]]'s body
 - **Enemy Intelligence:** Coordinated operations showing tactical planning beyond simple necromancy
 
 **Goals:**
@@ -108,15 +108,15 @@ Lithe half-elf with keen eyes that miss nothing in wilderness. Auburn hair kept 
 
 ## Relationships
 **Order of the Gauntlet Team:**
-- **[[Ser Gareth Brightshield]]:** Trusted leader, provides tactical intelligence
-- **[[Brother Marcus Dawnward]]:** Mourns fallen comrade, determined to avenge him
-- **[[Thorgrim Ironwill]]:** Reliable partner, complements scouting with defensive skills
+- **[[Ser Gareth Brightshield#Basic Information|Ser Gareth Brightshield]]:** Trusted leader, provides tactical intelligence
+- **[[Brother Marcus Dawnward#Basic Information|Brother Marcus Dawnward]]:** Mourns fallen comrade, determined to avenge him
+- **[[Thorgrim Ironwill#Basic Information|Thorgrim Ironwill]]:** Reliable partner, complements scouting with defensive skills
 
 **Local Contacts:**
-- **[[Torvin Graypelt]]:** Respects local hunter's wilderness knowledge
+- **[[Village NPCs#Torvin Graypelt|Torvin Graypelt]]:** Respects local hunter's wilderness knowledge
 - **Village Scouts:** Could train locals in basic tracking and early warning
 
-**Enemy:** [[Malachar Shadowbane]] - Tracked his escape route, seeking justice for Marcus
+**Enemy:** [[Malachar Shadowbane#Basic Information|Malachar Shadowbane]] - Tracked his escape route, seeking justice for Marcus
 
 ## Quests
 **Quests She Provides:**

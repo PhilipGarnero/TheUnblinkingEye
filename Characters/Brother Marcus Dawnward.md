@@ -2,14 +2,15 @@
 statblock: inline
 ---
 
+# Brother Marcus Dawnward
 
 ## Basic Information
 - **Race:** Human
 - **Age:** 38 (at time of death)
 - **Class:** Cleric of Torm
 - **Organization:** Order of the Gauntlet
-- **Status:** **DECEASED** - Assassinated by [[Malachar Shadowbane]]
-- **Location:** Body lies in state at shrine in [[Village of Stillwater Creek]]
+- **Status:** **DECEASED** - Assassinated by [[Malachar Shadowbane#Basic Information|Malachar Shadowbane]]
+- **Location:** Body lies in state at shrine in [[Stillwater Creek - Village Index|Village of Stillwater Creek]]
 - **Voice:** *N/A - Deceased*
 
 
@@ -72,7 +73,7 @@ spells:
 - Symbol of sacrifice and cost of fighting evil
 - Team loss weakening Order's divine capabilities
 
-**Death Details:** Assassinated by [[Malachar Shadowbane]] while channeling divine energy to turn skeletons threatening village children. Malachar struck from shadows, ripped blessed holy symbol from neck, and hurled it into Direwood.
+**Death Details:** Assassinated by [[Malachar Shadowbane#History|Malachar Shadowbane]] while channeling divine energy to turn skeletons threatening village children. Malachar struck from shadows, ripped blessed holy symbol from neck, and hurled it into Direwood.
 
 **Campaign Impact:**
 - Order of the Gauntlet lacks divine magic support
@@ -96,12 +97,12 @@ Kind-faced human cleric with gentle brown eyes and calloused hands from years of
 
 **Expertise:** Specialized in healing arts, consecration rituals, undead turning, and divine protection
 
-**Final Mission:** Came to [[Village of Stillwater Creek]] to investigate undead activity
+**Final Mission:** Came to [[Stillwater Creek - Village Index|Village of Stillwater Creek]] to investigate undead activity
 
-**Death:** Assassinated by [[Malachar Shadowbane]] while channeling divine energy to turn mass of skeletons threatening village children. Struck from shadows with *Inflict Wounds* and enchanted weapons. Drow assassin ripped blessed holy symbol from neck and hurled it into Direwood out of spite.
+**Death:** Assassinated by [[Malachar Shadowbane#History|Malachar Shadowbane]] while channeling divine energy to turn mass of skeletons threatening village children. Struck from shadows with *Inflict Wounds* and enchanted weapons. Drow assassin ripped blessed holy symbol from neck and hurled it into Direwood out of spite.
 
 **Knowledge Lost:**
-- Consecration rituals needed to cleanse [[Ancestor Mounds]]
+- Consecration rituals needed to cleanse [[The Ancestor Mounds#Current State|Ancestor Mounds]]
 - Advanced undead turning techniques
 - Regional contacts and temple networks
 - Specific ceremonies for major consecrations
@@ -110,16 +111,16 @@ Kind-faced human cleric with gentle brown eyes and calloused hands from years of
 
 ## Relationships
 **Order of the Gauntlet Team:**
-- **[[Ser Gareth Brightshield]]:** Spiritual advisor and trusted friend - "Brother Marcus died as he lived - protecting innocents from evil. We will not let his sacrifice be meaningless."
-- **[[Lyanna Swiftarrow]]:** Provided healing and divine support for her missions
-- **[[Thorgrim Ironwill]]:** Close comrade, often blessed his weapons
+- **[[Ser Gareth Brightshield#Basic Information|Ser Gareth Brightshield]]:** Spiritual advisor and trusted friend - "Brother Marcus died as he lived - protecting innocents from evil. We will not let his sacrifice be meaningless."
+- **[[Lyanna Swiftarrow#Basic Information|Lyanna Swiftarrow]]:** Provided healing and divine support for her missions
+- **[[Thorgrim Ironwill#Basic Information|Thorgrim Ironwill]]:** Close comrade, often blessed his weapons
 
 **Village Impact:**
-- **[[Elder Rowan Meadowlight]]:** Fellow spiritual leader - "He was a true servant of the divine. His final act saved those children from a fate worse than death."
+- **[[Elder Rowan Meadowlight#Basic Information|Elder Rowan Meadowlight]]:** Fellow spiritual leader - "He was a true servant of the divine. His final act saved those children from a fate worse than death."
 - **Village Children:** Died protecting them from skeletal horrors
 - **Grateful Survivors:** Many owe their lives to his final sacrifice - "He stood between the monsters and our little ones. The light that surrounded him as he fell... I'll never forget it."
 
-**Enemy:** [[Malachar Shadowbane]] - His assassin
+**Enemy:** [[Malachar Shadowbane#Basic Information|Malachar Shadowbane]] - His assassin
 
 ## Quests
 **Direct Quest Hooks:**

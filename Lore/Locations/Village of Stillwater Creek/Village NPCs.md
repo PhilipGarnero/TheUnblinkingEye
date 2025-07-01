@@ -4,11 +4,11 @@ The people of Stillwater Creek are primarily human, with a few families having a
 
 ## Village Leadership & Key Figures
 
-### [[Elder Rowan Meadowlight]]
+### [[Elder Rowan Meadowlight#Basic Information|Elder Rowan Meadowlight]]
 **Role:** Village spiritual guide, historian, shrine caretaker  
 **Background:** Acolyte (Player's Handbook (2014), p. 127)  
 **Description:** One of the few who can read and write proficiently. He serves as the village's connection to their spiritual traditions and local history.  
-*See full character sheet: [[Elder Rowan Meadowlight]]*
+*See full character sheet: [[Elder Rowan Meadowlight#Basic Information|Elder Rowan Meadowlight]]*
 
 ## Shopkeepers & Craftspeople
 
@@ -50,7 +50,7 @@ The people of Stillwater Creek are primarily human, with a few families having a
 ### Young Lissie Fallowfield
 **Role:** Village child and potential witness  
 **Stats:** Non-combatant  
-**Description:** A curious, bright-eyed girl of about 10. She often plays near the edge of the village and might have seen Skeletons or strange figures near the Ancestor Mounds *before* the main attack. She could provide a vital early clue or warning.
+**Description:** A curious, bright-eyed girl of about 10. She often plays near the edge of the village and might have seen Skeletons or strange figures near [[The Ancestor Mounds#Overview|The Ancestor Mounds]] *before* the main attack. She could provide a vital early clue or warning.
 **Voice:** Sudden/indirect/light, mixed placement, breathy air, fast tempo, mid volume, friendly tone
 
 ### Finn Tarvinson and his Cronies (Brynn & Tad)
@@ -73,26 +73,26 @@ The people of Stillwater Creek are primarily human, with a few families having a
 
 Four members of the Order of the Gauntlet have arrived to investigate reports of undead activity and help cleanse the area:
 
-### [[Ser Gareth Brightshield]]
+### [[Ser Gareth Brightshield#Basic Information|Ser Gareth Brightshield]]
 **Role:** Expedition leader  
 **Stats:** Paladin (Monster Manual (2014), p. 347)  
 **Description:** A stern but righteous human paladin in his 40s. Wears plate armor bearing the Order's gauntlet symbol. Commands respect and approaches undead threats with methodical precision.  
-*See full character sheet: [[Ser Gareth Brightshield]]*
+*See full character sheet: [[Ser Gareth Brightshield#Basic Information|Ser Gareth Brightshield]]*
 
-### [[Brother Marcus Dawnward]] *(Deceased)*
+### [[Brother Marcus Dawnward#Basic Information|Brother Marcus Dawnward]] *(Deceased)*
 **Role:** Spiritual advisor and healer  
 **Stats:** Priest (Monster Manual (2014), p. 348)  
-**Description:** A human cleric of Torm who served as the group's spiritual advisor and healer. Kind-hearted but resolute against evil, he was assassinated by [[Malachar Shadowbane (Drow Cultist)]] while channeling divine energy to protect village children. His body lies in state at the shrine, awaiting proper burial rites.  
-*See full character sheet: [[Brother Marcus Dawnward]]*
+**Description:** A human cleric of Torm who served as the group's spiritual advisor and healer. Kind-hearted but resolute against evil, he was assassinated by [[Malachar Shadowbane#Basic Information|Malachar Shadowbane]] while channeling divine energy to protect village children. His body lies in state at the shrine, awaiting proper burial rites.  
+*See full character sheet: [[Brother Marcus Dawnward#Basic Information|Brother Marcus Dawnward]]*
 
-### [[Lyanna Swiftarrow]]
+### [[Lyanna Swiftarrow#Basic Information|Lyanna Swiftarrow]]
 **Role:** Ranger and tracker  
 **Stats:** Veteran (Monster Manual (2014), p. 350, with Longbow proficiency)  
 **Description:** A half-elf ranger and tracker, skilled in hunting undead creatures. Quiet and observant, she specializes in identifying necromantic corruption and tracking its source. Wields a longbow with silver-tipped arrows.  
-*See full character sheet: [[Lyanna Swiftarrow]]*
+*See full character sheet: [[Lyanna Swiftarrow#Basic Information|Lyanna Swiftarrow]]*
 
-### [[Thorgrim Ironwill]]
+### [[Thorgrim Ironwill#Basic Information|Thorgrim Ironwill]]
 **Role:** Fighter and logistics  
 **Stats:** Veteran (Monster Manual (2014), p. 350)  
 **Description:** A mountain dwarf fighter and former city guard. Practical and stalwart, he handles the group's equipment and logistics while serving as their front-line defender. Bears a warhammer blessed against undead.  
-*See full character sheet: [[Thorgrim Ironwill]]*
+*See full character sheet: [[Thorgrim Ironwill#Basic Information|Thorgrim Ironwill]]*

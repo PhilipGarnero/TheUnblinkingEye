@@ -9,21 +9,21 @@
 
 ### **The Iron Coin Company** (Tasseldale)
 - **Leader:** Captain "Gold-tooth" Marrik
-- **Base:** [[Merchant's Rest Waystation]]
+- **Base:** [[Tasseldale#Notable Locations|Merchant's Rest Waystation]]
 - **Specialty:** "Protection" rackets and convoy extortion
 - **Strength:** 40 experienced mercenaries
 - **Methods:** Professional approach, maintains business relationships
 
 ### **Merry Marauders** (Featherdale)
 - **Leader:** "Blackfoot" Pete Greenhill (Halfling)
-- **Base:** [[The Laughing Giant Inn]]
+- **Base:** [[Featherdale#Notable Locations|The Laughing Giant Inn]]
 - **Specialty:** Refugee convoy raids and supply theft
 - **Strength:** 25 halfling rogues and scouts
 - **Methods:** Quick strikes and vanishing into countryside
 
 ### **The Greenvale Raiders** (Battledale)
 - **Leader:** "Iron" Bella Thornwick
-- **Base:** [[Greenvale Farm]]
+- **Base:** [[Battledale#Notable Locations|Greenvale Farm]]
 - **Specialty:** Scavenging abandoned settlements
 - **Strength:** 30 desperate farmers turned raiders
 - **Methods:** Fortified position, intelligence gathering
@@ -109,8 +109,8 @@
 
 ### **Opportunistic Cooperation**
 - **[[Monsters]]** - Mutual avoidance
-- **[[Cult of the Dragon]]** - Occasional information trading
-- **Some [[Vorlag's Forces]]** - Limited non-aggression in specific areas
+- **[[Cult of the Dragon#Organization Structure|Cult of the Dragon]]** - Occasional information trading
+- **Some [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]** - Limited non-aggression in specific areas
 - **Corrupt Government Officials** - Bribery and protection arrangements
 
 ### **Business Relationships**
@@ -120,7 +120,7 @@
 - **Underground Economy** - Various illegal enterprises and services
 
 ### **Hostile Relations**
-- **[[Good Aligned Forces]]** - Actively hunted by paladins and militias
+- **[[Good Aligned Forces#Major Organizations|Good Aligned Forces]]** - Actively hunted by paladins and militias
 - **Most Government Forces** - Treated as criminals and enemies
 - **Rival Bandit Groups** - Competition for territory and resources
 - **Some Monster Groups** - Creatures that see bandits as prey or competitors

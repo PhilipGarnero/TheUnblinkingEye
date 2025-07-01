@@ -2,6 +2,7 @@
 statblock: inline
 ---
 
+# Mother Willow (WIP)
 
 ## Basic Information
 - **Race:** *To be determined*
@@ -22,7 +23,7 @@ statblock: inline
 - Knowledge of hidden locations
 
 ## DM Notes & Key Info
-**Campaign Role:** Alternative path for curse mitigation through natural/spiritual means
+**Campaign Role:** Alternative path for curse mitigation through natural/spiritual means ([[Path 3 - The Prey's Struggle to Safety (Fleeing Vorlag's Influence)]])
 
 **Specialties:**
 - Nature-based approaches to curse mitigation
@@ -46,4 +47,3 @@ statblock: inline
 
 ## Quests
 *Player-related quests involving this character will be tracked here.*
-

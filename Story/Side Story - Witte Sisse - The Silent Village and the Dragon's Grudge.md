@@ -1,0 +1,24 @@
+# Side Story: Witte Sisse - The Silent Village and the Dragon's Grudge
+
+## Premise
+Witte Sisse, a monk from a secluded temple, seeks to uncover the fate of the mountain villagers who once provided him solace and supplies. He also harbors a deep-seated desire for revenge against the Cult of the Dragon, who destroyed his temple and stole the sacred Sunstone of Renewal.
+
+## Inciting Incident
+After the attack on [[Stillwater Creek - Village Index|Stillwater Creek]] in [[The Stillwater Vale - Index|The Stillwater Vale]], Witte Sisse witnesses the horrifying effects of [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag]]'s necromancy firsthand. The sight of animated corpses and the pervasive blight fills him with a chilling realization: his own mountain villagers, who vanished without a trace, were likely subjected to the same fate, turned into undead servants of Vorlag. His personal quest to find them now intertwines with the larger fight against the necromancer.
+
+## Adventure Outline
+
+1.  **Whispers of the Wyrm:** As Witte Sisse travels through the [[Dalelands]], he either stumbles upon a hidden [[Cult of the Dragon#Organization Structure|Cult of the Dragon]] outpost by chance, or he deliberately ventures into the **[[Dragon's Tooth Bum#Overview|Dragon's Tooth Bum]]** (a prominent peak in [[The Stillwater Vale - Index|The Stillwater Vale]]) seeking answers about the strange occurrences in the mountains. He overhears hushed conversations or finds discarded documents detailing the Cult's current operations.
+    *   **Challenge:** The outpost or mountain trails are guarded by [[Cult of the Dragon#Organization Structure|Cult of the Dragon]] initiates and their kobold servants. Witte must use stealth or combat to gather information without raising a full alarm.
+    *   **Goal:** Witte learns that the [[Cult of the Dragon#Organization Structure|Cult of the Dragon]] is actively seeking to corrupt the **Sunstone of Renewal**, the sacred relic stolen from his temple. He also discovers their ultimate goal: to use the corrupted stone and the blood of a gold dragon to create a terrifying **"Sun Dragon."**
+
+2.  **The Serpent's Schemes:** Witte, now fully aware of the [[Cult of the Dragon#Organization Structure|Cult]]'s sinister plan, actively seeks more detailed information about their operations. He might intercept a Cult messenger, infiltrate a minor Cult meeting, or decipher coded messages left at their outposts.
+    *   **Challenge:** The [[Cult of the Dragon#Organization Structure|Cult of the Dragon]] is well-organized and secretive. Their members are fanatical, and their outposts are often protected by draconic magic or traps. Witte faces moral dilemmas regarding the methods he must employ to gain this information.
+    *   **Goal:** Witte uncovers the Cult's immediate objectives: they need to acquire the blood of a gold dragon for their ritual, and they are preparing a specific site for the Sunstone's corruption. He learns the location of a potential gold dragon lair or a planned Cult operation to capture one.
+
+3.  **Sabotage and Vengeance:** Witte takes direct action to thwart the [[Cult of the Dragon#Organization Structure|Cult of the Dragon]]'s plans. He either attempts to recover the **Sunstone of Renewal** from a heavily guarded Cult stronghold in the [[Dragon's Tooth Bum#Overview|Dragon's Tooth Bum]] area, or he intervenes to prevent the Cult from obtaining the blood of a gold dragon.
+    *   **Challenge:** This is a high-stakes confrontation. If recovering the Sunstone, Witte faces elite Scale Guards and Wyrm Priests. If preventing the dragon blood acquisition, he might have to protect a powerful, ancient gold dragon from the Cult's assault, or even fight alongside the dragon against the Cult.
+    *   **Goal:** Witte either successfully reclaims the **Sunstone of Renewal**, preventing its corruption and potentially gaining a powerful tool against necromancy, or he prevents the Cult from acquiring the gold dragon blood, severely delaying or even derailing their plans for the "Sun Dragon." He strikes a significant blow against the organization that destroyed his past.
+
+## Resolution
+Witte Sisse finds a measure of peace by actively sabotaging the [[Cult of the Dragon#Organization Structure|Cult of the Dragon]] and striking a blow against those who wronged him. Whether he recovers the Sunstone or prevents the dragon blood ritual, his personal quest becomes a vital part of the larger campaign, providing a powerful artifact or disrupting a major enemy faction. His journey reinforces his monastic discipline and provides a clear path for his vengeance, while also contributing to the broader fight against the forces of evil in the [[Dalelands]].

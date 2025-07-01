@@ -9,7 +9,7 @@ statblock: inline
 - **Current State:** Ghoul
 - **CR:** 3-4
 - **Alignment:** Neutral Evil (formerly Lawful Good)
-- **Master:** [[Vorlag the Pale (Necromancer)]]
+- **Master:** [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]]
 - **Voice:** Sustained/direct/strong, throaty placement, dry air, slow tempo, mid volume, impartial tone, sore throat
 
 
@@ -119,7 +119,7 @@ actions:
 ## History
 **The Beautiful Orphan:** Decades ago, Lysander discovered Lovgar dying in ancient ruins—a hauntingly beautiful teenager with skin pale as fresh snow, barely clinging to life. Her ethereal, ghostly beauty struck him with both pity and wonder; she seemed more spirit than flesh, her translucent features delicate as carved marble. He nursed her back to health in secret, hiding her from his wife's potential jealousy, then enrolled her as a cleric of Ilmater to study religion and ancient texts. His visits began frequent but dwindled to once yearly, each time bringing books to feed her voracious appetite for knowledge.
 
-**The Corruption:** While cleansing an ancient crypt, Lysander uncovered what seemed like another harmless scholarly text. The indecipherable tome actually contained forbidden necromantic knowledge of [[The Dusk Lord]]. He presented it to Lovgar as an intellectual challenge during his next visit. She accepted eagerly and was soon corrupted by its dark scriptures—a corruption made easier by her secret prayers to Shar, hidden beneath her worship of Ilmater to cope with her traumatic past.
+**The Corruption:** While cleansing an ancient crypt, Lysander uncovered what seemed like another harmless scholarly text. The indecipherable tome actually contained forbidden necromantic knowledge of [[The Dusk Lord#History|The Dusk Lord]]. He presented it to Lovgar as an intellectual challenge during his next visit. She accepted eagerly and was soon corrupted by its dark scriptures—a corruption made easier by her secret prayers to Shar, hidden beneath her worship of Ilmater to cope with her traumatic past.
 
 **The Betrayal:** Years of infrequent visits bred resentment in Lovgar's heart. She had fallen deeply in love with her savior, and his growing absence tormented her. When he next came to see her, she lured him to a secluded place and confessed her feelings. Lysander, ever honorable, respectfully rejected her advances. Driven to madness by his refusal, she enacted the ultimate violation—using a prepared ritual to trap and slowly transform him into her ghoul servant, forcing him to watch helplessly as his divine powers drained away.
 
@@ -130,7 +130,7 @@ actions:
 **Goals:** *No personal goals - exists only to serve Vorlag and protect her from threats*
 
 ## Relationships
-**Master:** [[Vorlag the Pale (Necromancer)]] - Most personal accomplishment and greatest trophy; utterly devoted despite inner conflict
+**Master:** [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]] - Most personal accomplishment and greatest trophy; utterly devoted despite inner conflict
 
 **Former Allies:** May be recognized by surviving members of his old order, creating strong emotional reactions
 

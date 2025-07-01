@@ -68,7 +68,7 @@ spells:
 * Staff of blackened bone
 * Grimoire bound in flayed skin
 * Decaying robes of once-fine silk
-* **The Phalanx of Whispers** (stolen from [[The Ancestor Mounds]])
+* **[[Cursed Artifacts#The Phalanx of Whispers (Stolen by Vorlag)|The Phalanx of Whispers]]** (stolen from [[The Ancestor Mounds]])
 * Various necromantic components
 
 ## DM Notes & Key Info

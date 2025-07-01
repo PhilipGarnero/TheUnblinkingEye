@@ -2,6 +2,7 @@
 statblock: inline
 ---
 
+# Elara Meadowlight
 
 ## Basic Information
 - **Race:** *To be determined*
@@ -47,10 +48,10 @@ actions:
 - Personal library collection
 
 ## DM Notes & Key Info
-**Campaign Role:** Key NPC for Path 2 (Seeking Wisdom) - provides crucial information about curse remedies
+**Campaign Role:** Key NPC for [[Path 2 - Seeking wisdom (Lift curse through help)]] - provides crucial information about curse remedies
 
 **Knowledge Areas:**
-- Detailed information about [[The Death's Eye]] curse
+- Detailed information about [[The Death's Eye#Nature of the Curse|The Death's Eye]] curse
 - Potential progression and effects
 - Traditional methods of counteracting such curses
 - Specific rituals and components needed for cures

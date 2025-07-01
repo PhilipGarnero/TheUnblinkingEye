@@ -2,12 +2,13 @@
 statblock: inline
 ---
 
+# Elder Rowan Meadowlight
 
 ## Basic Information
 - **Race:** Human
 - **Age:** 67
 - **Occupation:** Village spiritual guide, historian, shrine caretaker
-- **Location:** [[Village of Stillwater Creek]]
+- **Location:** [[Stillwater Creek - Village Index|Village of Stillwater Creek]]
 - **Background:** Acolyte (Player's Handbook 2014, p. 127)
 - **Voice:** Sustained/direct/light, mixed placement, breathy air, slow tempo, quiet volume, friendly tone
 
@@ -71,7 +72,7 @@ Weathered man with kind eyes and silver-streaked hair, often wearing simple robe
 - **Wise and Patient:** One of few villagers who can read and write proficiently
 - **Protective:** Deeply cares for village and its people
 - **Knowledgeable:** Repository of local history and spiritual traditions
-- **Honest:** Will admit when he doesn't know something, particularly about [[The Death's Eye]]
+- **Honest:** Will admit when he doesn't know something, particularly about [[The Death's Eye#Nature of the Curse|The Death's Eye]]
 
 ## History
 **Service:** Served shrine for forty years as village spiritual guide
@@ -80,7 +81,7 @@ Weathered man with kind eyes and silver-streaked hair, often wearing simple robe
 
 **Knowledge:**
 - **What He Knows:** Village history and spiritual traditions, basic undead/necromancy theory, locations of potential help (temples, sages, sanctuaries), significance of Ancestor Mounds and their corruption
-- **What He Doesn't Know:** Specific details about [[The Death's Eye]] curse, how to lift necromantic curses, advanced magical or divine remedies
+- **What He Doesn't Know:** Specific details about [[The Death's Eye#Nature of the Curse|The Death's Eye]] curse, how to lift necromantic curses, advanced magical or divine remedies
 
 **Goals:** *Protect village and guide people through spiritual matters, though acknowledges limitations in helping with curse*
 
@@ -91,7 +92,7 @@ Weathered man with kind eyes and silver-streaked hair, often wearing simple robe
 
 **Player Characters:** Sympathetic but honest about limitations - "I have served this shrine for forty years, child, but the evil that marks you now is beyond my humble knowledge. You must seek those with greater wisdom than mine."
 
-**Order of the Gauntlet:** Respects [[Ser Gareth Brightshield]] and mourns [[Brother Marcus Dawnward]]
+**Order of the Gauntlet:** Respects [[Ser Gareth Brightshield#Basic Information|Ser Gareth Brightshield]] and mourns [[Brother Marcus Dawnward#Basic Information|Brother Marcus Dawnward]]
 
 ## Quests
 **Quests He Provides:**
@@ -100,7 +101,7 @@ Weathered man with kind eyes and silver-streaked hair, often wearing simple robe
 - Spiritual counsel and village history exposition
 
 **Information He Provides:**
-- **Path 2 hooks:** Sage Hemlock Grimsby in Oakhaven, Temple of Sun God in Veridia, distant lands free from necromantic taint
-- **Path 3 options:** Information about fleeing Vorlag's influence
+- **Path 2 hooks:** Sage Hemlock Grimsby in Oakhaven, Temple of Sun God in Veridia, distant lands free from necromantic taint ([[Path 2 - Seeking wisdom (Lift curse through help)]])
+- **Path 3 options:** Information about fleeing Vorlag's influence ([[Path 3 - The Prey's Struggle to Safety (Fleeing Vorlag's Influence)]])
 
-**Key Dialogue:** "For your own sakes, and for the peace of this village, you must seek a cure elsewhere. Your presence now, marked by [[The Death's Eye]], will only bring more fear... and perhaps more of [[Vorlag the Pale (Necromancer)]]'s attention."
+**Key Dialogue:** "For your own sakes, and for the peace of this village, you must seek a cure elsewhere. Your presence now, marked by [[The Death's Eye#Visual Sign|The Death's Eye]], will only bring more fear... and perhaps more of [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]]'s attention."

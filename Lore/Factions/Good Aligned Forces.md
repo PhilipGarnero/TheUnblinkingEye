@@ -8,25 +8,25 @@
 ## Major Organizations
 
 ### **Order of the Gauntlet**
-- **First contact:** [[Ser Gareth Brightshield]]
+- **First contact:** [[Ser Gareth Brightshield#Basic Information|Ser Gareth Brightshield]]
 - **Mission:** Direct confrontation with evil, protection of the innocent
 - **Assets:** Paladins, clerics, and righteous warriors
 - **Base:** Mobile camps and temporary strongholds
 
 ### **Temple Networks**
 - **Faith of Lathander:** Dawn renewal and undead destruction
-  - **First contact:** [[Brother Marcus Dawnward]]
-  - **Stronghold:** [[Silverbrook Shrine]] (Battledale)
+  - **First contact:** [[Brother Marcus Dawnward#Basic Information|Brother Marcus Dawnward]]
+  - **Stronghold:** [[Battledale#Notable Locations|Silverbrook Shrine]] (Battledale)
 - **Chauntea's Servants:** Agricultural protection and healing
-  - **First contact:** [[Elder Rowan Meadowlight]]
-  - **Stronghold:** [[Brightwater Mill]] (Featherdale)
+  - **First contact:** [[Elder Rowan Meadowlight#Basic Information|Elder Rowan Meadowlight]]
+  - **Stronghold:** [[Featherdale#Notable Locations|Brightwater Mill]] (Featherdale)
 - **Selûne's Faithful:** Night protection and guidance
-  - **First contact:** [[Lyanna Swiftarrow]]
-  - **Stronghold:** [[Moonlight Shrine]] (Tasseldale)
+  - **First contact:** [[Lyanna Swiftarrow#Basic Information|Lyanna Swiftarrow]]
+  - **Stronghold:** [[Tasseldale#Notable Locations|Moonlight Shrine]] (Tasseldale)
 
 ### **Druidic Circles**
 - **Circle of the Sacred Grove:** Natural protection and sanctuary
-  - **First contact:** [[Mother Willow]]
+  - **First contact:** [[Mother Willow (WIP)#Basic Information|Mother Willow]]
   - **Territory:** Hidden groves throughout the Dalelands
 - **Rangers of the Deepwood:** Wilderness scouts and defenders
   - **Operations:** Mobile patrols and refugee escort services
@@ -39,15 +39,15 @@
 ## Current Operations
 
 ### **Active Sanctuaries**
-- **[[Silverbrook Shrine]]** (Battledale) - Chauntea temple providing refugee sanctuary
-- **[[Brightwater Mill]]** (Featherdale) - Fortified mill producing food for refugees
-- **[[Moonlight Shrine]]** (Tasseldale) - Selûne temple coordinating rescue operations
-- **[[Misty Hollow]]** (Featherdale) - Hidden druid grove sheltering small groups
-- **[[Sunset Shrine]]** (Featherdale) - Lathander roadside shrine for travelers
+- **[[Battledale#Notable Locations|Silverbrook Shrine]]** (Battledale) - Chauntea temple providing refugee sanctuary
+- **[[Featherdale#Notable Locations|Brightwater Mill]]** (Featherdale) - Fortified mill producing food for refugees
+- **[[Tasseldale#Notable Locations|Moonlight Shrine]]** (Tasseldale) - Selûne temple coordinating rescue operations
+- **[[Featherdale#Notable Locations|Misty Hollow]]** (Featherdale) - Hidden druid grove sheltering small groups
+- **[[Featherdale#Notable Locations|Sunset Shrine]]** (Featherdale) - Lathander roadside shrine for travelers
 
 ### **Military Positions**
-- **[[Farmer's Last Stand]]** (Featherdale) - Militia holdout defending local territory
-- **[[Silverfall Mine]]** (Tasseldale) - Rescue operation for trapped dwarven miners
+- **[[Featherdale#Notable Locations|Farmer's Last Stand]]** (Featherdale) - Militia holdout defending local territory
+- **[[Tasseldale#Notable Locations|Silverfall Mine]]** (Tasseldale) - Rescue operation for trapped dwarven miners
 - **Mobile Camps** - Temporary bases established by Order of the Gauntlet
 
 ### **Humanitarian Efforts**
@@ -135,22 +135,22 @@
 - **Certain Bandit Groups** - Occasional cooperation against undead threats
 
 ### **Hostile**
-- **[[Vorlag's Forces]]** - Primary enemy, actively hunted and attacked
-- **[[Cult of the Dragon]]** - Opposed to cult's evil activities and goals
+- **[[Vorlag's Forces#Organization Structure|Vorlag's Forces]]** - Primary enemy, actively hunted and attacked
+- **[[Cult of the Dragon#Organization Structure|Cult of the Dragon]]** - Opposed to cult's evil activities and goals
 - **Evil Monsters** - Conflict with aberrations, fiends, and corrupted creatures
 - **Hostile Bandits** - Groups that prey on refugees and relief efforts
 
 ## Notable Leaders and Champions
 
 ### **Military Leaders**
-- **[[Ser Gareth Brightshield]]** - Paladin commander of Order of the Gauntlet forces
-- **Captain [[Thorgrim Ironwill]]** - Retired soldier leading civilian militia
-- **[[Lyanna Swiftarrow]]** - Ranger coordinating wilderness operations
+- **[[Ser Gareth Brightshield#Basic Information|Ser Gareth Brightshield]]** - Paladin commander of Order of the Gauntlet forces
+- **Captain [[Thorgrim Ironwill#Basic Information|Thorgrim Ironwill]]** - Retired soldier leading civilian militia
+- **[[Lyanna Swiftarrow#Basic Information|Lyanna Swiftarrow]]** - Ranger coordinating wilderness operations
 
 ### **Religious Leaders**
-- **[[Brother Marcus Dawnward]]** - Lathander cleric maintaining major sanctuary
-- **[[Elder Rowan Meadowlight]]** - Chauntea priest protecting agricultural resources
-- **[[Mother Willow]]** - Druid providing hidden sanctuaries
+- **[[Brother Marcus Dawnward#Basic Information|Brother Marcus Dawnward]]** - Lathander cleric maintaining major sanctuary
+- **[[Elder Rowan Meadowlight#Basic Information|Elder Rowan Meadowlight]]** - Chauntea priest protecting agricultural resources
+- **[[Mother Willow (WIP)#Basic Information|Mother Willow]]** - Druid providing hidden sanctuaries
 
 ### **Civic Leaders**
 - Various mayors, town guards, and community organizers

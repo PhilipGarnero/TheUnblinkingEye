@@ -9,7 +9,7 @@ statblock: inline
 - **Class:** Fighter
 - **Organization:** Order of the Gauntlet
 - **Background:** Former city guard
-- **Location:** [[Village of Stillwater Creek]] (investigating undead activity)
+- **Location:** [[Stillwater Creek - Village Index|Village of Stillwater Creek]] (investigating undead activity)
 - **Voice:** Sustained/direct/strong, throaty placement, dry air, slow tempo, mid volume, friendly tone
 
 
@@ -101,7 +101,7 @@ Stocky mountain dwarf with iron-gray beard braided with small blessed charms. Pr
 
 **Service:** Long-standing member of Order of the Gauntlet specializing in defensive operations
 
-**Current Mission:** Part of expedition investigating undead activity in [[Village of Stillwater Creek]] region
+**Current Mission:** Part of expedition investigating undead activity in [[Stillwater Creek - Village Index|Village of Stillwater Creek]] region
 
 **Current Projects:**
 - **Village Fortification:** Improving perimeter defense, early warning systems, fallback positions, supply caches
@@ -113,12 +113,12 @@ Stocky mountain dwarf with iron-gray beard braided with small blessed charms. Pr
 
 ## Relationships
 **Order of the Gauntlet Team:**
-- **[[Ser Gareth Brightshield]]:** Trusted by leader for tactical planning and logistics
-- **[[Brother Marcus Dawnward]]:** Mourns fallen comrade, determined to complete mission
-- **[[Lyanna Swiftarrow]]:** Provides defensive support for her scouting operations
+- **[[Ser Gareth Brightshield#Basic Information|Ser Gareth Brightshield]]:** Trusted by leader for tactical planning and logistics
+- **[[Brother Marcus Dawnward#Basic Information|Brother Marcus Dawnward]]:** Mourns fallen comrade, determined to complete mission
+- **[[Lyanna Swiftarrow#Basic Information|Lyanna Swiftarrow]]:** Provides defensive support for her scouting operations
 
 **Village Relationships:**
-- **[[Borin Ironfoot]]:** Works closely with local smith on weapon repairs and fortifications
+- **[[Village NPCs#Borin Ironfoot|Borin Ironfoot]]:** Works closely with local smith on weapon repairs and fortifications
 - **Local Militia:** Training villagers in basic defensive techniques
 - **Community Leaders:** Coordinates with village leadership on defense planning
 

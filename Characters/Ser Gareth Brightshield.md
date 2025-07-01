@@ -8,7 +8,7 @@ statblock: inline
 - **Class:** Paladin
 - **Organization:** Order of the Gauntlet
 - **Rank:** Expedition Leader
-- **Location:** [[Village of Stillwater Creek]] (investigating undead activity)
+- **Location:** [[Stillwater Creek - Village Index|Village of Stillwater Creek]] (investigating undead activity)
 - **Voice:** Sustained/direct/strong, mixed placement, dry air, medium tempo, loud volume, friendly tone
 
 ## Stats
@@ -67,7 +67,7 @@ spells:
 - Potential long-term ally for anti-Vorlag operations
 
 **Current Situation:**
-- Leading reduced team after [[Brother Marcus Dawnward]]'s assassination
+- Leading reduced team after [[Brother Marcus Dawnward#Basic Information|Brother Marcus Dawnward]]'s assassination
 - Lacks divine power for consecrating corrupted areas
 - Desperately needs PC assistance or Order reinforcements
 - Establishing defensive positions around village
@@ -85,7 +85,7 @@ Righteous paladin in gleaming plate armor bearing Order's gauntlet symbol. Face 
 - **Methodical:** Approaches undead threats with systematic precision
 - **Righteous:** Unwavering in commitment to destroying evil
 - **Leadership:** Commands respect from team and others
-- **Burdened:** Feels responsible for [[Brother Marcus Dawnward]]'s death
+- **Burdened:** Feels responsible for [[Brother Marcus Dawnward#Basic Information|Brother Marcus Dawnward]]'s death
 - **Pragmatic:** Recognizes when he needs help to complete mission
 
 ## History
@@ -95,9 +95,9 @@ Righteous paladin in gleaming plate armor bearing Order's gauntlet symbol. Face 
 
 **Investigation Findings:**
 - Multiple settlements hit by coordinated undead attacks
-- Presence of skilled drow assassin ([[Malachar Shadowbane (Drow Cultist)]]) working with necromancer
+- Presence of skilled drow assassin ([[Malachar Shadowbane#Basic Information|Malachar Shadowbane]]) working with necromancer
 - Pattern suggests buildup to larger necromantic operation
-- [[Village of Stillwater Creek]] sits on strategically important location
+- [[Stillwater Creek - Village Index|Village of Stillwater Creek]] sits on strategically important location
 
 **Knowledge:**
 - Regional intelligence on undead activity patterns
@@ -106,17 +106,17 @@ Righteous paladin in gleaming plate armor bearing Order's gauntlet symbol. Face 
 - Reports of "dark elf assassin" at multiple attack sites
 
 **Goals:**
-- **Primary Objectives:** Avenge Brother Marcus, cleanse [[Ancestor Mounds]] corruption, protect civilians, gather intelligence on Vorlag's network
-- **Secondary Goals:** Recruit reliable allies, establish Order communication, document necromantic activities
+- **Primary Objectives:** Avenge Brother Marcus, cleanse [[The Ancestor Mounds#Overview|Ancestor Mounds]] corruption, protect civilians, gather intelligence on Vorlag's network
+- **Secondary Goals:** Recruit reliable allies, establish Order communication, document corruption, coordinate with regional allies
 
 ## Relationships
 **Order of the Gauntlet Team:**
-- **[[Brother Marcus Dawnward]]:** Deceased cleric, feels responsible for his death - "Brother Marcus died protecting innocent children from unholy abominations. His sacrifice will not be in vain, but we need divine power to complete our consecration mission."
-- **[[Lyanna Swiftarrow]]:** Reliable ranger, values her tracking skills
-- **[[Thorgrim Ironwill]]:** Trusted fighter, handles logistics and defense
+- **[[Brother Marcus Dawnward#Basic Information|Brother Marcus Dawnward]]:** Deceased cleric, feels responsible for his death - "Brother Marcus died protecting innocent children from unholy abominations. His sacrifice will not be in vain, but we need divine power to complete our consecration mission."
+- **[[Lyanna Swiftarrow#Basic Information|Lyanna Swiftarrow]]:** Reliable ranger, values her tracking skills
+- **[[Thorgrim Ironwill#Basic Information|Thorgrim Ironwill]]:** Trusted fighter, handles logistics and defense
 
 **Village Relations:**
-- **[[Elder Rowan Meadowlight]]:** Respects his spiritual guidance
+- **[[Elder Rowan Meadowlight#Basic Information|Elder Rowan Meadowlight]]:** Respects his spiritual guidance
 - **Local Leadership:** Works with village leaders on defense planning
 - **Villagers:** Viewed as protector, though some fear Order's methods
 
@@ -124,10 +124,10 @@ Righteous paladin in gleaming plate armor bearing Order's gauntlet symbol. Face 
 
 ## Quests
 **Quests He Provides:**
-- Recovery of [[Brother Marcus Dawnward]]'s blessed holy symbol
+- Recovery of [[Brother Marcus Dawnward#Items|Brother Marcus Dawnward]]'s blessed holy symbol
 - Strategic missions gathering intelligence on Vorlag's operations
 - Defensive operations coordinating village protection
-- Hunt for [[Malachar Shadowbane (Drow Cultist)]]
+- Hunt for [[Malachar Shadowbane#Basic Information|Malachar Shadowbane]]
 
 **Resources He Offers:**
 - Military expertise and tactical advice

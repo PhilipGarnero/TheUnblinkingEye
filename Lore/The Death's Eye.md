@@ -1,4 +1,6 @@
-This curse is inflicted by [[Vorlag the Pale (Necromancer)]] when she doesn't have time to deal with the adventurers directly but wishes to punish their interference or mark them for her attention.
+This curse is inflicted by [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]] when she doesn't have time to deal with the adventurers directly but wishes to punish their interference or mark them for her attention.
+
+*Back to [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]]*
 
 ### The Curse Symbol
 - **Death's Eye Mark:** ![Death's Eye](../Assets/Death%20eye.png)
@@ -14,7 +16,7 @@ A faint, greyish, eye-like circle spreads from a point on each character's body 
 ## Core Mechanical Effects
 
 1.  **Minion Attraction:** The mark acts like a beacon for Vorlag's minions or other undead creatures. In areas where Vorlag has influence or where undead are prevalent, characters with the mark are more likely to attract hostile attention. This can manifest as more frequent random encounters, or specific creatures seeking them out.
-2.  **Foe Resurrection (in areas of Vorlag's strong influence):** When the party defeats enemies (especially humanoids) in an area with Vorlag's strong influence (e.g., near his lairs, sites of his rituals, or if one of his more powerful servants is present), there is a chance that slain foes will reanimate as **Skeletons** (Monster Manual, p. 272) a few rounds after their death. This encourages tactical disposal of bodies or rapid departure from battle sites.
+2.  **Foe Resurrection (in areas of [[Vorlag's Influence#Areas of Strong Influence|Vorlag's strong influence]]):** When the party defeats enemies (especially humanoids) in an area with [[Vorlag's Influence#Areas of Strong Influence|Vorlag's strong influence]] (e.g., near his lairs, sites of his rituals, or if one of his more powerful servants is present), there is a chance that slain foes will reanimate as **Skeletons** (Monster Manual, p. 272) a few rounds after their death. This encourages tactical disposal of bodies or rapid departure from battle sites.
 
 ## Additional Potential Effects (DM to choose or introduce as curse worsens)
 

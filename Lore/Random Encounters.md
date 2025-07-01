@@ -1,9 +1,11 @@
 # Random Encounters - Stillwater Vale
 
+See the [[Monsters/|Monsters]] directory for a complete list of monsters.
+
 ## Dragon's Tooth Bum Region
 
 ### Gnoll Shaman's Healing Bargain
-**Trigger**: While exploring the mountainous region around Dragon's Tooth Bum
+**Trigger**: While exploring the mountainous region around [[Dragon's Tooth Bum#Overview|Dragon's Tooth Bum]]
 **Encounter**: A gnoll shaman named Yip-Howl approaches the party under a flag of truce
 
 **NPC Details:**
@@ -12,7 +14,7 @@
 - **Motivation**: Desperate to heal her tribe's sick and dying
 
 **The Bargain:**
-Yip-Howl offers valuable information about the "pale dead-maker" (Vorlag) in exchange for healing her tribe members who have been afflicted by a wasting disease.
+Yip-Howl offers valuable information about the "pale dead-maker" ([[Vorlag the Pale (Necromancer)#Basic Information|Vorlag]]) in exchange for healing her tribe members who have been afflicted by a wasting disease.
 
 **Information Provided:**
 - Vorlag's agents visited the gnoll territories two weeks ago
@@ -81,7 +83,7 @@ If the party refuses or attacks, Yip-Howl retreats but 2d4 gnoll warriors emerge
 - **Appearance**: Dressed in black mourning clothes, carries a worn leather satchel
 
 **The Situation:**
-Marta's husband Garrett died three days ago during Vorlag's attack on Stillwater Creek. She's convinced his spirit is trapped and suffering because she heard his voice calling to her from the old mill ruins.
+Marta's husband Garrett died three days ago during [[Campaign Overview - The Unblinking Eye#The Attack|Vorlag's attack on Stillwater Creek]]. She's convinced his spirit is trapped and suffering because she heard his voice calling to her from the old mill ruins.
 
 **Investigation Reveals:**
 - Garrett's body was partially consumed by skeletons during the attack
@@ -91,7 +93,7 @@ Marta's husband Garrett died three days ago during Vorlag's attack on Stillwater
 
 **Potential Outcomes:**
 - **Help Marta**: Laying the miller's spirit to rest gives Marta closure (she realizes Garrett has moved on)
-- **Investigate Together**: Marta provides information about Stillwater Creek before the attack
+- **Investigate Together**: Marta provides information about [[Stillwater Creek - Village Index|Stillwater Creek]] before the attack
 - **Dismiss Her**: She attempts to enter the ruins alone and may be endangered by unstable structures
 
 **Rewards:**
@@ -109,7 +111,7 @@ Marta's husband Garrett died three days ago during Vorlag's attack on Stillwater
 - **Crew**: 3 guards, 1 driver, 1 apprentice
 
 **The Corruption:**
-Tobias purchased "protective charms" from a pale stranger (one of Vorlag's agents) a week ago. The charms are slowly corrupting the entire caravan with necromantic energy.
+Tobias purchased "protective charms" from a pale stranger (one of [[Vorlag's Forces#Organization Structure|Vorlag's agents]]) a week ago. The charms are slowly corrupting the entire caravan with necromantic energy.
 
 **Signs of Corruption (DC 13 Insight/Investigation):**
 - Tobias and crew have pale, sickly complexions
@@ -142,7 +144,7 @@ Kael captured a young orc scout (Grosh) from a tribe that's been raiding settlem
 
 **Grosh's Story (if questioned):**
 - His tribe lived peacefully in the mountains until undead overran their territory
-- They've been driven from their ancestral lands by Vorlag's expanding influence
+- They've been driven from their ancestral lands by [[Vorlag's Influence#Methods of Spreading Influence|Vorlag's expanding influence]]
 - The tribe only raids because they're starving and desperate
 - He offers to lead the party to his chief to negotiate peace
 
@@ -170,13 +172,13 @@ Kael captured a young orc scout (Grosh) from a tribe that's been raiding settlem
 A modest stone shrine dedicated to Lathander, the Morninglord, sits beside an old trade route. However, the shrine radiates an aura of unease and the morning sun never seems to touch it directly.
 
 **Corruption Details:**
-- Vorlag's agents desecrated the shrine two weeks ago
+- [[Vorlag's Forces#Organization Structure|Vorlag's agents]] desecrated the shrine two weeks ago
 - The corruption is subtle but growing stronger
 - Holy symbols placed here become tarnished within hours
 - DC 15 Religion check reveals the desecration
 
 **Effects on Cursed Characters:**
-- Death's Eye curse symptoms intensify within 30 feet of the shrine
+- [[The Death's Eye#Nature of the Curse|Death's Eye curse]] symptoms intensify within 30 feet of the shrine
 - Cursed characters feel watched and experience whispered voices
 - Long rest within 100 feet provides no hit point recovery
 
@@ -205,13 +207,13 @@ A modest stone shrine dedicated to Lathander, the Morninglord, sits beside an ol
 **NPC Details:**
 - **Hamish Ironforge**: Dwarf blacksmith, 50s, stocky build
 - **Voice**: Strong/direct, throaty placement, loud volume, aggressive but worried tone
-- **Situation**: His son was kidnapped by bandits working for Vorlag
+- **Situation**: His son was kidnapped by [[Bandits#Major Bandit Groups|bandits]] working for Vorlag
 
 **The Demand:**
 Bandits want Hamish to forge weapons and armor for undead servants. The gear needs special properties to accommodate skeletal anatomy and resist holy damage.
 
 **Hamish's Dilemma:**
-- Refuses to arm Vorlag's forces
+- Refuses to arm [[Vorlag's Forces#Organization Structure|Vorlag's forces]]
 - Desperately wants to save his son
 - Knows his weapons could be used against innocent people
 - Local authorities are too weak to help
@@ -243,7 +245,7 @@ Bandits want Hamish to forge weapons and armor for undead servants. The gear nee
 - **Cover Story**: Traveling merchant interested in regional trade
 
 **Hidden Truth:**
-Rosalind is an agent of a rival necromancer investigating Vorlag's activities. She seeks information about the Death's Eye curse and Vorlag's capabilities.
+Rosalind is an agent of a rival necromancer investigating [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag]]'s activities. She seeks information about [[The Death's Eye#Nature of the Curse|The Death's Eye]] curse and Vorlag's capabilities.
 
 **Her Approach:**
 - Appears as a curious, wealthy traveler
@@ -278,7 +280,7 @@ Rosalind is an agent of a rival necromancer investigating Vorlag's activities. S
 A spectral black carriage drawn by skeletal horses emerges from the mist. The driver, a gaunt figure in a tattered cloak, tips his hat and offers free passage to the next settlement.
 
 **The Truth:**
-This is the spirit of Mordecai Blackwheel, a carriage driver who died fleeing Vorlag's forces. He's trapped between life and death, compelled to offer rides but unable to reach any destination.
+This is the spirit of Mordecai Blackwheel, a carriage driver who died fleeing [[Vorlag's Forces#Organization Structure|Vorlag's forces]]. He's trapped between life and death, compelled to offer rides but unable to reach any destination.
 
 **NPC Details:**
 - **Mordecai Blackwheel**: Ghostly carriage driver, died 3 weeks ago
@@ -292,7 +294,7 @@ This is the spirit of Mordecai Blackwheel, a carriage driver who died fleeing Vo
 - Carriage cannot stop until Mordecai's spirit is laid to rest
 
 **Laying Mordecai to Rest:**
-- Deliver his final message to his wife in Highmoon
+- Deliver his final message to his wife in [[Deepingdale#Notable Locations|Highmoon]]
 - Retrieve his body from the crash site (guarded by 2d4 skeletons)
 - Cast Speak with Dead to learn his unfinished business
 
@@ -309,7 +311,7 @@ This is the spirit of Mordecai Blackwheel, a carriage driver who died fleeing Vo
 A circular grove of ancient oaks that once served as a druid sanctuary. The trees are now blackened and twisted, their branches forming cage-like structures around withered corpses.
 
 **The Corruption:**
-- Vorlag's agents sacrificed the grove's protector, an ancient dryad
+- [[Vorlag's Forces#Organization Structure|Vorlag's agents]] sacrificed the grove's protector, an ancient dryad
 - The grove's natural magic has been perverted into necromantic energy
 - Wildlife in the area is either dead or fleeing
 - DC 16 Nature check reveals the extent of the corruption
@@ -364,7 +366,7 @@ Aldric approaches cursed party members, claiming his organization can help lift 
 - Harvest life energy from cursed individuals
 - Use the energy to power necromantic rituals
 - Turn survivors into undead servants
-- Expand Vorlag's influence in urban areas
+- Expand [[Vorlag's Influence#Methods of Spreading Influence|Vorlag's influence]] in urban areas
 
 **Resolution Options:**
 - **Infiltrate**: Pretend to join to gather intelligence
@@ -454,14 +456,14 @@ Jasper offers valuable magical items at incredibly low prices to test the party'
 
 **Jasper's True Form:**
 - Deva serving a good-aligned deity
-- Investigating Vorlag's growing influence
+- Investigating [[Vorlag's Influence#Methods of Spreading Influence|Vorlag's growing influence]]
 - Can provide divine guidance and assistance
 - Offers alliance against the forces of undeath
 
 **Rewards for Passing:**
 - Blessed weapons (deal radiant damage to undead for 24 hours)
 - Divine protection (advantage on saves against necromancy for 1 week)
-- Information about Vorlag's weaknesses
+- Information about [[Vorlag the Pale (Necromancer)#DM Notes & Key Info|Vorlag's weaknesses]]
 - Promise of future aid in desperate times
 
 ### The Broken Bridge
@@ -495,7 +497,7 @@ On the far side of the ravine, a small refugee camp has formed. 20 families fled
 - Undead scouts tracking the refugees
 - Illness spreading through the camp
 - Conflict between refugees over next steps
-- Bandits planning to raid the vulnerable group
+- [[Bandits#Major Bandit Groups|Bandits]] planning to raid the vulnerable group
 
 **Resolution Options:**
 - **Engineering**: Repair the bridge with tools and materials
@@ -506,7 +508,7 @@ On the far side of the ravine, a small refugee camp has formed. 20 families fled
 
 **Outcomes:**
 - **Bridge Repaired**: Creates safer passage for future travelers
-- **Refugees Saved**: Gains grateful allies and information about Vorlag's activities
+- **Refugees Saved**: Gains grateful allies and information about [[Vorlag the Pale (Necromancer)#DM Notes & Key Info|Vorlag's activities]]
 - **Camp Abandoned**: Refugees scattered, potentially becoming victims
 - **United Against Vorlag**: Some refugees join the fight against the necromancer
 

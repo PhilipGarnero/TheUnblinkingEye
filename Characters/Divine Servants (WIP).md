@@ -2,6 +2,7 @@
 statblock: inline
 ---
 
+# Divine Servants (WIP)
 
 ## Basic Information
 - **Race:** Various
@@ -22,7 +23,7 @@ statblock: inline
 - Ritual components and relics
 
 ## DM Notes & Key Info
-**Campaign Role:** Potential allies for divine intervention against [[The Death's Eye]] curse
+**Campaign Role:** Potential allies for divine intervention against [[The Death's Eye#Nature of the Curse|The Death's Eye]] curse
 
 **Services Offered:**
 - Explain theological implications of the curse
@@ -43,7 +44,7 @@ statblock: inline
 
 ## Relationships
 **Allies:** Other divine servants, temple hierarchies, faithful congregations
-**Enemies:** Undead, necromancers like [[Vorlag the Pale (Necromancer)]], servants of evil deities
+**Enemies:** Undead, necromancers like [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]], servants of evil deities
 
 ## Quests
 *Player-related quests involving divine servants will be tracked here.*

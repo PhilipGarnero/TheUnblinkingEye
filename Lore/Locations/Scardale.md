@@ -6,7 +6,7 @@
 
 ## Regional Description
 
-Scardale is the largest and most populous of the dales, featuring extensive coastline and the mouth of the Ashaba River. Since its conquest by Sembia in 1421 DR, the dale operates under Sembian military occupation rather than traditional dale governance. The Sembian presence provides strong defense against [[Vorlag the Pale (Necromancer)]]'s forces, but also creates tensions with traditional dale culture and neighboring regions.
+Scardale is the largest and most populous of the dales, featuring extensive coastline and the mouth of the Ashaba River. Since its conquest by Sembia in 1421 DR, the dale operates under Sembian military occupation rather than traditional dale governance. The Sembian presence provides strong defense against [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]]'s forces, but also creates tensions with traditional dale culture and neighboring regions.
 
 ## Current State
 
@@ -30,7 +30,7 @@ Scardale is the largest and most populous of the dales, featuring extensive coas
 ![Scardale](/Assets/Scardale.jpg)
 
 ### **Blackthorn Crossing**
-*Faction Control: [[Vorlag's Forces]]*
+*Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Strategic bridge where undead cross between territories
 - Former Sembian checkpoint abandoned after undead attacks
 - Bridge fortified with bone barricades and necromantic wards
@@ -58,21 +58,21 @@ Scardale is the largest and most populous of the dales, featuring extensive coas
 - Last resort fallback position if main defenses fail
 
 ### **The Bone Gardens**
-*Faction Control: [[Vorlag's Forces]]*
+*Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Former battlefield converted into undead spawning ground
 - Site of major battle between Sembian forces and undead army
 - Fallen Sembian soldiers raised as elite skeletal warriors
 - Strategic position overlooking main trade routes
 
 ### **Sorrowspire Manor**
-*Faction Control: [[Cult of the Dragon]]*
+*Faction Control: [[Cult of the Dragon#Organization Structure|Cult of the Dragon]]*
 - Abandoned noble estate secretly occupied by dragon cultists
 - Hidden cult cell of 30 members led by former Scardale noble
 - Underground chambers contain draconic artifacts and treasure
 - Coordinates cult intelligence operations against Sembian forces
 
 ### **The Weeping Tower**
-*Faction Control: [[Good Aligned Forces]]*
+*Faction Control: [[Good Aligned Forces#Major Organizations|Good Aligned Forces]]*
 - Ancient lighthouse converted to temple of Umberlee
 - Sea priestess [[Nerida Stormcaller]] provides divine protection
 - Only major religious site not under direct Sembian control
@@ -93,7 +93,7 @@ Scardale is the largest and most populous of the dales, featuring extensive coas
 - Site of weekly skirmishes between various forces
 
 ### **Griefwatch Outpost**
-*Faction Control: [[Bandits]]*
+*Faction Control: [[Bandits#Major Bandit Groups|Bandits]]*
 - Former Sembian watchtower captured by organized bandits
 - "The Crimson Company" mercenary group turned raiders
 - 45 professional soldiers led by Captain [[Thane Bloodaxe]]
@@ -107,7 +107,7 @@ Scardale is the largest and most populous of the dales, featuring extensive coas
 - Occasional raids on coastal settlements and fishing boats
 
 ### **The Silent Quarter**
-*Faction Control: [[Vorlag's Forces]]*
+*Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Abandoned district of Scardale Town showing signs of corruption
 - Sembian forces maintain quarantine around the area
 - Necromantic influence seeps through despite containment efforts
@@ -123,11 +123,11 @@ Scardale is the largest and most populous of the dales, featuring extensive coas
 ## Faction Presence
 
 - **[[Sembian Occupation Forces]]:** 75% of secured territory, all major population centers
-- **[[Vorlag's Forces]]:** 15% of territory, border areas and abandoned regions
-- **[[Bandits]]:** 5% of territory, isolated strongholds in contested areas
-- **[[Cult of the Dragon]]:** 3% of territory, hidden cells and abandoned estates
-- **[[Good Aligned Forces]]:** 1% of territory, limited to specific religious sites
-- **[[Monsters]]:** 1% of territory, coastal and wilderness areas
+- **[[Vorlag's Forces#Organization Structure|Vorlag's Forces]]:** 15% of territory, border areas and abandoned regions
+- **[[Bandits#Major Bandit Groups|Bandits]]:** 5% of territory, isolated strongholds in contested areas
+- **[[Cult of the Dragon#Organization Structure|Cult of the Dragon]]:** 3% of territory, hidden cells and abandoned estates
+- **[[Good Aligned Forces#Major Organizations|Good Aligned Forces]]:** 1% of territory, limited to specific religious sites
+- **[[Monsters]]**: 1% of territory, coastal and wilderness areas
 
 ## Strategic Importance
 

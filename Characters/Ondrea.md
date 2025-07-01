@@ -8,7 +8,7 @@ statblock: inline
 - **Race**: Water Elemental
 - **Age**: Ancient (centuries old)
 - **Class**: Elemental Guardian
-- **Organization**: Guardian of [[The Stillwater Vale]]
+- **Organization**: Guardian of [[The Stillwater Vale - Index|The Stillwater Vale]]
 - **Location**: Stillwater River and surrounding waters
 - **Voice**: Sustained/indirect/light, mixed placement, slow tempo, impartial tone with flowing, aquatic quality
 
@@ -52,7 +52,7 @@ actions:
 - **Cleansing Rituals**: Knows ritual words that can temporarily cleanse corrupted water sources while chanted
 
 ## DM Notes & Key Info
-- **Campaign Role**: Crucial ally against [[Vorlag the Pale (Necromancer)]]'s corruption; only appears after PCs solve [[The Singing Stones]]
+- **Campaign Role**: Crucial ally against [[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]]'s corruption; only appears after PCs solve [[The Singing Stones#Overview|The Singing Stones]]
 - **Tactical Notes**: Uses water terrain advantage, can provide safe river camping spots and early warning systems
 - **Key Reminders**: Possesses extensive knowledge of Vale's magical history and Old Folk secrets
 - **Ancient Knowledge**: Knows Zylkresk Mindeater's true name, location of Erlan the Unbent's secret resting place, and cleansing ritual words
@@ -66,16 +66,16 @@ Ondrea has been the guardian spirit of River Stillwater for centuries, bound to 
 
 As an ancient being connected to the leyline network beneath the Vale, Ondrea possesses deep knowledge of the region's magical history. She knows the true names of ancient powers, the locations of sacred sites, and the ritual words passed down from the Old Folk. Recently, she has become increasingly troubled by necromantic corruption seeping into her domain, which taints her pure waters and disrupts the natural balance.
 
-Her primary motivation is to cleanse the River Stillwater and its tributaries of Vorlag's corruption. She only manifests to those who have successfully interpreted [[The Singing Stones]] messages, recognizing them as worthy allies in her fight against the spreading darkness.
+Her primary motivation is to cleanse the River Stillwater and its tributaries of Vorlag's corruption. She only manifests to those who have successfully interpreted [[The Singing Stones#Overview|The Singing Stones]] messages, recognizing them as worthy allies in her fight against the spreading darkness.
 
 ## Relationships
-- **[[Village of Stillwater Creek]]**: Long-time protector and guardian of the community
-- **[[The Singing Stones]]**: Connected to the ancient communication network, appears only to those who solve their messages
-- **[[The Ancestor Mounds]]**: Knows the spirits and their sacred burial sites
-- **[[Vorlag the Pale (Necromancer)]]**: Primary enemy whose necromantic influence corrupts her waters
+- **[[Stillwater Creek - Village Index|Village of Stillwater Creek]]**: Long-time protector and guardian of the community
+- **[[The Singing Stones#Overview|The Singing Stones]]**: Connected to the ancient communication network, appears only to those who solve their messages
+- **[[The Ancestor Mounds#Overview|The Ancestor Mounds]]**: Knows the spirits and their sacred burial sites
+- **[[Vorlag the Pale (Necromancer)#Basic Information|Vorlag the Pale]]**: Primary enemy whose necromantic influence corrupts her waters
 - **Erlan the Unbent**: Remembers the ancient hero's sacrifice and maintains connection to his legacy
 - **River Ecosystem**: Protects all water-dependent wildlife and communicates with tributary spirits
-- **Silas the Ferryman**: May work with the ferryman at Fenwater Crossing to monitor river traffic
+- **Silas the Ferryman**: May work with the ferryman at [[Fenwater Crossing#Overview|Fenwater Crossing]] to monitor river traffic
 
 ## Quests
 - **Safe River Crossing**: Provides knowledge of three shallow ford points marked by the singing stones and optimal crossing times
