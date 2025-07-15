@@ -30,7 +30,7 @@
 
 ### **Shadowbrook Smugglers** (Multiple Dales)
 - **Leader:** The mysterious "Crow"
-- **Base:** Mobile operations, multiple safe houses
+- **Base:** Mobile operations, multiple safe houses, main base used to be at [[Shadowdale#Notable Locations|Shadowbrook Crossing]] before the Cult of the Dragon's arrival
 - **Specialty:** Moving contraband and people across dale boundaries
 - **Strength:** Unknown, estimated 50+ members
 - **Methods:** Underground networks, corruption of officials

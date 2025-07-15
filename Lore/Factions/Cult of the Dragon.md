@@ -36,10 +36,20 @@
 ## Current Operations in the Dalelands
 
 ### **Shadowdale Presence**
+The cult maintains **70% effective control** of Shadowdale through hidden influence, making it the region's safest dale while serving their purposes. The [[Shadowdale#Government Structure|Shadowdale Government]] under Mayor [[Dorian Blackwood]] serves as unknowing puppets, while the real power lies with cult operations coordinator [[The Scaled Shadow]].
+
+#### **Primary Operations**
 - **Hidden Influence** - Cult operates from the shadows, protecting Shadowdale from external threats
-- **Information Gathering** - Extensive spy network monitoring regional developments
-- **Recruitment** - Seeking desperate individuals willing to embrace draconic power
-- **Artifact Hunting** - Searching for items that could aid in dracolich transformation, particularly the **Sunstone of Renewal**
+- **Information Hub** - Central coordination for regional cult activities across multiple dales
+- **Recruitment Center** - Identification and training of new cult members among refugees and desperate citizens
+- **Research Base** - Studies in draconic magic and dracolich creation away from prying eyes
+- **Resource Distribution** - Storage and distribution of cult materials throughout the region
+
+#### **Intelligence Network**
+- **Extensive Spy Network** - Monitors regional developments and tracks threats
+- **Information Coordination** - [[Starfall Mill]] serves as communication hub through miller [[Gareth Darkwater]]
+- **Enemy Monitoring** - Closely watches [[Vorlag's Forces#Organization Structure|Vorlag's Forces]] activity, particularly at [[Shadowdale#Notable Locations|The Whispering Ruins]]
+- **Government Infiltration** - Cult members placed in key positions throughout the dale's administration
 
 ### **Strategic Positions**
 - **[[Tasseldale#Notable Locations|Thornbridge]]** (Tasseldale) - Controls strategic bridge crossing, demands tribute
@@ -50,10 +60,11 @@
 ### **Relationships with Other Factions**
 
 #### **Opportunistic Cooperation**
-- **[[Vorlag's Forces#Organization Structure|Vorlag's Forces]]** - Occasional cooperation when interests align
+- **[[Vorlag's Forces#Organization Structure|Vorlag's Forces]]** - Occasional cooperation when interests align, but increasingly hostile
   - Trade information about mutual enemies
   - Temporary non-aggression pacts in contested areas
   - Shared hatred of organized good-aligned forces
+  - **Active Conflict in Shadowdale** - Cult actively suppresses Vorlag's expansion at [[Shadowdale#Notable Locations|The Echoing Ruins]], preventing necromantic corruption of major leylines
 
 #### **Competitive Rivalry**
 - **Dale Governments** - Undermines legitimate authority while maintaining cover
@@ -120,13 +131,32 @@ The cult has successfully recovered the **Sunstone of Renewal** from the destroy
 ## Notable Cult Sites
 
 ### **Shadowdale Operations**
-- **The Old Sanctum** - Hidden temple beneath Shadowdale ruins
-- **Dragon's Rest Tavern** - Front operation serving as recruitment center
-- **Scale Warehouse** - Storage facility for cult resources and artifacts
+The cult's most developed power base, featuring multiple interconnected facilities:
+
+#### **Primary Strongholds**
+- **[[Shadowdale#Notable Locations|The Old Sanctum]]** - Hidden temple beneath Shadowdale ruins housing 40 dedicated members, repository of draconic artifacts and dracolich preparation materials
+- **[[Shadowdale#Notable Locations|Scale Warehouse]]** - Storage facility disguised as legitimate merchant operation, managed by cult quartermaster [[Thorin Brasscale]]
+- **[[Shadowdale#Notable Locations|The Circle of Draconic Hymns]]** - Ancient stone circle corrupted for major draconic summoning ceremonies, heavily protected by invisible guardians
+
+#### **Front Operations**
+- **[[Shadowdale#Notable Locations|Dragon's Rest Tavern]]** - Popular tavern serving as recruitment center, innkeeper [[Marcus Goldbeard]] identifies potential cult members
+- **[[Shadowdale#Notable Locations|Starfall Mill]]** - Operating mill serving as cult meeting place and information hub, miller [[Gareth Darkwater]] is high-ranking cult fanatic
+- **[[Shadowdale#Notable Locations|Shadowbrook Crossing]]** - Strategic bridge crossing protected by disguised cult soldiers posing as mercenary guards
+
+#### **Research and Ritual Sites**
+- **[[Shadowdale#Notable Locations|Old Shadowdale Crypts]]** - Ancient burial vaults for dracolich creation experiments and necromantic research
+- **[[Shadowdale#Notable Locations|Twisted Oak Grove]]** - Forest clearing for recruitment rituals and monthly member gatherings, hidden by illusion magic
+
+#### **Intelligence Operations**
+- **[[Shadowdale#Notable Locations|The Starlight Shrine]]** - Small Selûne temple tolerated for public relations, priestess [[Sister Moira Brightstar]] unknowingly serves as intelligence source
+- **[[Shadowdale#Notable Locations|Thornwatch Keep]]** - Government fortress where cult monitors official military activities through Captain [[Roland Steelarm]]'s unknowing cooperation
 
 ### **Regional Strongholds**
 - **Thornbridge Toll House** - Fortified position controlling river crossing
 - **Goldbrook Mine Complex** - Underground facility with hidden ritual chambers
 - **Traveling Shrines** - Mobile cult operations disguised as merchant caravans
+
+### **Dragon Alliance**
+- **[[Shadowdale#Notable Locations|The Hidden Valley]]** - Ancient green dragon [[Venomfang]] maintains neutrality agreement with cult forces, occasionally provides counsel to cult leadership and serves as proof of concept for eventual dracolich transformation
 
 The Cult of the Dragon represents a patient, long-term threat that operates through manipulation and hidden influence rather than direct confrontation. Their presence in the Dalelands adds another layer of complexity to the region's political landscape, as they work to maintain enough stability to continue their operations while preparing for their ultimate goal of draconic supremacy.
