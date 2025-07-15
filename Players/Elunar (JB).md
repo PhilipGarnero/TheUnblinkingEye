@@ -5,7 +5,7 @@ statblock: inline
 ## Basic Information
 
 - **Character Name:** Elunar the Withered
-- **Class & Level:** Druid 2
+- **Class & Level:** Druid 3
 - **Background:** Hermit
 - **Race:** Wood Elf
 - **Alignment:** Chaotic Good
@@ -23,8 +23,8 @@ type: humanoid
 subtype: elf
 alignment: chaotic good
 ac: 16
-hp: 16
-hit_dice: 2d8
+hp: 30
+hit_dice: 3d8
 speed: "35 ft."
 stats: [8, 16, 14, 12, 16, 8]
 cr: 2
@@ -54,17 +54,20 @@ traits:
     desc: "You can attempt to hide when only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
   - name: "Wild Shape (2/Short Rest)"
     desc: "You can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice and regain all expended uses after a short or long rest. You can stay in beast shape for 1 hour. You can transform into any beast that has a CR of 1/4 or lower that doesn't have a flying or swimming speed. You can revert to your normal form earlier by using a bonus action."
-  - name: "Circle of the Land - Land's Stride"
-    desc: "At 2nd level, you choose a type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. Your choice grants you access to certain spells."
+  - name: "Circle of the Land - Desert"
+    desc: "At 2nd level, you choose a type of favored terrain: desert. Your choice grants you access to certain spells."
+  - name: "Circle of the Land - 2nd Level Circle Spells"
+    desc: "You gain access to circle spells: blur, silence"
   - name: "Familiar Ground (Hermit background)"
     desc: "When you are in a desert, you have advantage on Wisdom (Perception) and Intelligence (Investigation) checks to find hidden paths, secret doors, and natural hazards. You can recognize signs of creatures in the area."
 actions:
   - name: Quarterstaff
     desc: "Melee Weapon Attack, reach 5 ft., one target. Hit: 1d6 bludgeoning damage, or 1d8 bludgeoning damage if used with two hands."
 spells:
-  - The druid is a 2nd-level spellcaster. Spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks).
+  - The druid is a 3rd-level spellcaster. Spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks).
   - Cantrips (at will): control flames, create bonfire, druidcraft, frostbite, guidance, gust, infestation, magic stone, mending, mold earth, poison spray, primal savagery, produce flame, resistance, shape water, shillelagh, thorn whip, thunderclap
-  - 1st level (3 slots): absorb elements, animal friendship, beast bond, charm person, create or destroy water, cure wounds, detect magic (ritual), detect poison and disease (ritual), earth tremor, entangle, faerie fire, fog cloud, goodberry, healing word, ice knife, jump, longstrider, protection from evil and good, purify food and drink (ritual), snare, speak with animals (ritual), thunderwave
+  - 1st level (4 slots): absorb elements, animal friendship, beast bond, charm person, create or destroy water, cure wounds, detect magic (ritual), detect poison and disease (ritual), earth tremor, entangle, faerie fire, fog cloud, goodberry, healing word, ice knife, jump, longstrider, protection from evil and good, purify food and drink (ritual), snare, speak with animals (ritual), thunderwave
+  - 2nd level (2 slots): blur (circle), silence (circle), animal messenger, barkskin, beast sense, darkvision, dust devil, earthbind, enhance ability, find traps, flame blade, flaming sphere, gust of wind, heat metal, hold person, lesser restoration, locate animals or plants, locate object, moonbeam, pass without trace, protection from poison, spike growth, summon beast
 ```
 
 

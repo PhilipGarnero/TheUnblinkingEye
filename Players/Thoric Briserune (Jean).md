@@ -5,7 +5,7 @@ statblock: inline
 ## Basic Information
 
 - **Character Name:** Thoric Briserune
-- **Class & Level:** Paladin 2
+- **Class & Level:** Paladin 3
 - **Background:** Hermit
 - **Race:** Mountain Dwarf (m)
 - **Alignment:** Neutral
@@ -23,8 +23,8 @@ type: humanoid
 subtype: dwarf
 alignment: neutral
 ac: 16
-hp: 23
-hit_dice: 2d10
+hp: 39
+hit_dice: 3d10
 speed: "25 ft."
 stats: [16, 10, 16, 10, 10, 14]
 saves:
@@ -59,12 +59,16 @@ actions:
   - name: Mace
     desc: "Melee Weapon Attack, reach 5 ft., one target. Hit: 1d6 bludgeoning damage."
   - "Divine Sense (3/Long Rest)": "As an action, detect celestials, fiends, or undead within 60 feet for one turn."
-  - "Lay on Hands (10 hp pool)": "As an action, restore hit points or cure disease/poison (5 hp to cure)."
+  - "Lay on Hands (15 hp pool)": "As an action, restore hit points or cure disease/poison (5 hp to cure)."
   - "Fighting Style - Great Weapon Fighting": "When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll."
   - "Divine Smite": "When you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage."
+  - "Divine Health": "You are immune to disease."
+  - "Sacred Oath: Oath of Vengeance": "You have sworn to punish those who have committed great evils."
+  - "Channel Divinity: Abjure Enemy": "As an action, choose one creature within 60 feet. That creature must make a Wisdom saving throw. On failure, it is frightened for 1 minute or until it takes damage."
+  - "Channel Divinity: Vow of Enmity": "As a bonus action, choose a creature within 10 feet. You gain advantage on attack rolls against it for 1 minute or until it drops to 0 hit points."
 spells:
-  - The paladin is a 2nd-level spellcaster. Spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks).
-  - 1st level (2 slots): bless, ceremony (ritual), command, compelled duel, cure wounds, detect evil and good, detect magic (ritual), detect poison and disease (ritual), divine favor, heroism, protection from evil and good, purify food and drink (ritual), searing smite, shield of faith, thunderous smite, wrathful smite
+  - The paladin is a 3rd-level spellcaster. Spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks).
+  - 1st level (3 slots): bane (oath), hunter's mark (oath), bless, ceremony (ritual), command, compelled duel, cure wounds, detect evil and good, detect magic (ritual), detect poison and disease (ritual), divine favor, heroism, protection from evil and good, purify food and drink (ritual), searing smite, shield of faith, thunderous smite, wrathful smite
 ```
 
 
@@ -81,9 +85,12 @@ spells:
 ### Paladin Features (Level 1)
 
 - **Divine Sense:** As an action, you can open your awareness to detect evil and good. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You also know the type of any such creature you sense, but not its identity. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated. You can use this feature a number of times equal to 1 + your Charisma modifier (minimum of once). You regain expended uses when you finish a long rest.
-- **Lay on Hands:** As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool. Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. This feature has no effect on undead or constructs. You have a pool of healing power equal to 5 x your paladin level (10 hit points at level 2).
+- **Lay on Hands:** As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool. Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. This feature has no effect on undead or constructs. You have a pool of healing power equal to 5 x your paladin level (15 hit points at level 3).
 - **Fighting Style (Great Weapon Fighting):** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
 - **Divine Smite:** Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend, to a maximum of 6d8.
+- **Divine Health:** By 3rd level, the divine magic flowing through you makes you immune to disease.
+- **Sacred Oath (Oath of Vengeance):** You have sworn to punish those who have committed great evils. You gain oath spells and Channel Divinity options.
+- **Channel Divinity:** You can use your Channel Divinity once per short or long rest. You gain the following options: Abjure Enemy (frighten a creature) and Vow of Enmity (gain advantage on attack rolls against one creature).
 
 ### Background Feature (Hermit)
 

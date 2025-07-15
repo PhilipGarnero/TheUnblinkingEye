@@ -5,7 +5,7 @@ statblock: inline
 ## Basic Information
 
 - **Character Name:** Yuyu
-- **Class & Level:** Ranger 2
+- **Class & Level:** Ranger 3
 - **Background:** Outlander
 - **Race:** Stout Halfling
 - **Alignment:** Chaotic Good
@@ -25,8 +25,8 @@ type: humanoid
 subtype: halfling
 alignment: chaotic good
 ac: 14
-hp: 22
-hit_dice: 2d10
+hp: 36
+hit_dice: 3d10
 speed: "25 ft."
 stats: [10, 17, 14, 12, 14, 8]
 cr: 2
@@ -63,6 +63,14 @@ traits:
     desc: "You gain a +2 bonus to attack rolls you make with ranged weapons."
   - name: "Tracking"
     desc: "At 2nd level, you can track other creatures. You can move stealthily at a normal pace."
+  - name: "Primeval Awareness"
+    desc: "You can use your action to focus your awareness on the region around you. You can sense whether any of your favored enemies are present within 1 mile of you. This feature doesn't reveal the creatures' location or number."
+  - name: "Ranger Archetype: Swarmkeeper"
+    desc: "You choose the Swarmkeeper archetype and gain a swarm of nature spirits."
+  - name: "Gathered Swarm"
+    desc: "A swarm of intangible nature spirits has bonded itself to you. Once on each of your turns, you can cause the swarm to assist you immediately after you hit a creature with an attack: deal 1d6 piercing damage, move target 15 feet (Strength save vs spell save DC), or move yourself 5 feet."
+  - name: "Swarmkeeper Magic"
+    desc: "You learn the Mage Hand cantrip (takes the form of your swarming nature spirits) and additional spells: 1st level - Faerie Fire."
   - name: "Wanderer (Outlander Background)"
     desc: "Excellent memory for maps and geography. Can find food and fresh water for yourself and up to five other people each day, provided the land supports it."
 actions:
@@ -72,9 +80,12 @@ actions:
     desc: "Ranged Weapon Attack, range 25/100 ft., one target. Hit: 1 piercing damage plus 1d4 poison damage."
   - name: "Dagger"
     desc: "Melee/Ranged Weapon Attack, reach 5 ft. or range 20/60 ft., one target. Hit: 1d4 piercing damage."
+  - name: "Mage Hand (Swarmkeeper)"
+    desc: "Cantrip. The hand takes the form of your swarming nature spirits. Range 30 feet."
 spells:
-  - The ranger is a 2nd-level spellcaster. Spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks).
-  - 1st level (2 slots): hail of thorns, hunter's mark
+  - The ranger is a 3rd-level spellcaster. Spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks).
+  - Cantrips (at will): mage hand (swarmkeeper)
+  - 1st level (3 slots): faerie fire (swarmkeeper), hail of thorns, hunter's mark
 ```
 
 

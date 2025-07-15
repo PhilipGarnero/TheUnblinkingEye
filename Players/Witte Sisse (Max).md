@@ -1,11 +1,11 @@
 ---
 statblock: inline
 ---
-
+[]()
 ## Basic Information
 
 - **Character Name:** Witte Sisse
-- **Class & Level:** Monk 2
+- **Class & Level:** Monk 3
 - **Background:** Hermit
 - **Race:** Human
 - **Alignment:** Neutral
@@ -25,8 +25,8 @@ type: humanoid
 subtype: human
 alignment: neutral
 ac: 16
-hp: 15
-hit_dice: 2d8
+hp: 27
+hit_dice: 3d8
 speed: "40 ft."
 stats: [13, 16, 12, 10, 16, 10]
 cr: 2
@@ -38,6 +38,7 @@ skillsaves:
   - athletics: ­
   - medicine: ­
   - religion: ­
+  - performance: ­
 languages: "Common, Elvish, Dwarvish"
 traits:
   - name: "Armor Proficiencies"
@@ -50,14 +51,24 @@ traits:
     desc: "While not wearing armor, your AC equals 10 + Dex mod + Wis mod (AC 16)"
   - name: "Martial Arts"
     desc: "You can use Dexterity instead of Strength for unarmed strikes and monk weapons. Martial arts die is 1d4. When you use the Attack action with an unarmed strike or monk weapon, you can make one unarmed strike as a bonus action."
-  - name: "Ki (2 points)"
-    desc: "You have 2 ki points that fuel special abilities. You regain all expended ki points when you finish a short or long rest."
+  - name: "Ki (3 points)"
+    desc: "You have 3 ki points that fuel special abilities. You regain all expended ki points when you finish a short or long rest."
   - name: "Unarmored Movement"
     desc: "Your speed increases by 10 feet while you are not wearing armor or wielding a shield (included in speed above)."
   - name: "Dedicated Weapon (Optional)"
     desc: "You can use a simple or martial weapon as a monk weapon if it lacks the heavy and special properties."
   - name: "Unsettling Presence (Hermit Background)"
     desc: "As an action, you can force a creature that can see and hear you within 30 feet to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). On a failed save, the creature is unnerved by you and has disadvantage on Wisdom (Perception) and Wisdom (Insight) checks made against you for the next 10 minutes. Once you use this ability, you can't use it again until you finish a short or long rest."
+  - name: "Monastic Tradition: Way of the Drunken Master"
+    desc: "You move with the jerky, unpredictable movements of a drunkard, concealing a carefully executed dance of combat."
+  - name: "Bonus Proficiencies"
+    desc: "You gain proficiency in the Performance skill and brewer's supplies (already have brewer's supplies)."
+  - name: "Drunken Technique"
+    desc: "Whenever you use Flurry of Blows, you gain the benefit of the Disengage action, and your walking speed increases by 10 feet until the end of the current turn."
+  - name: "Deflect Missiles"
+    desc: "You can use your reaction to deflect or catch a missile when you are hit by a ranged weapon attack. When you do so, the damage you take is reduced by 1d10 + your Dexterity modifier + your monk level. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught."
+  - name: "Drunkard's Unpredictability"
+    desc: "While intoxicated, your erratic movements and unpredictable fighting style confound your enemies. You gain a +1 bonus to attack rolls made with unarmed strikes as your chaotic motions make you harder to anticipate and counter."
 actions:
   - name: "Quarterstaff"
     desc: "Melee Weapon Attack, reach 5 ft., one target. Hit: 1d6 bludgeoning damage, or 1d8 bludgeoning damage if used with two hands."
