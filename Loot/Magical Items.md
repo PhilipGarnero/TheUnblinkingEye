@@ -83,18 +83,9 @@ _Wondrous item, rare (requires attunement)_
 
 This is a bracelet made of 3 polished, iron-colored beads. When you consume a serving of alcohol as a bonus action or part of an action, you can cause one of the beads to glow with a warm orange light for 1 hour.
 
-- **Fortified Spirit.** While at least one bead is glowing, you have advantage on saving throws against being frightened. While two are glowing, you become proficient in persuasion. While three are glowing you have advantage against being poisoned.
-- **Purifying Gulp.** As a bonus action, if all the beads are charged, you can touch the beads to release their magic. Your body transforms the alcohol in your veins into life energy and you become sober. For 1 minute, you gain 1d8 temporary HP per turn but you have disadvantage on dexterity saving throws and lose half your movement speed as you're now processing the impurities.
+- **Fortified Spirit.** While at least one bead is glowing, you become proficient in persuasion. While two are glowing,  you have advantage on saving throws against being frightened. While three are glowing you are happy and have +1 to all Attack Rolls, Saving Throws, and most Ability Check.
+- **Purifying Gulp.** As a bonus action, if all the beads are charged, you can touch the beads to release their magic. Your body transforms the alcohol in your veins into life energy and you become sober. For 1 minute, you gain 1d8 temporary HP per turn but you have disadvantage on dexterity and wisdom saving throws and lose half your movement speed as you're now processing the impurities.
 
-## Sand of the Boneyard
-_Wondrous item, rare_ (should be crafted with bones of [[Reassembling Skeleton]])
-
-This leather pouch is filled with coarse, heavy sand mixed with tiny, bleached bone fragments. The pouch never seems to run out of this unique sand. The pouch has a number of charges equal to your Wisdom modifier (minimum of 1). The pouch regains **1 charge** daily at dawn.
-
-As an action, you can expend one or more of its charges to activate one of the following effects:
-- **Eye Grit (1 Charge):** You magically fling sand at one creature you can see within **15 feet**. The creature must succeed on a **DC 14 Constitution saving throw** or be **blinded until the end of its next turn**.
-- **Sculpting Dune (2 Charges):** You choose an unoccupied space on the ground within 30 feet. During 10 minutes, a 5-foot-tall, 10-foot-wide dune of sand slowly rises from the ground. This dune is difficult terrain and provides half cover. The dune lasts for 1 hour or until a strong wind disperses it.
-- **Sandstorm (3 Charges):** You create a 20-foot-radius sphere of swirling, blinding sand centered on a point you can see within 60 feet. The area is heavily obscured. The sandstorm lasts for 1 minute or until you use a bonus action to dismiss it.
 
 ## Claws of the Sand-Burrower
 _Wondrous item, uncommon (requires attunement)_
