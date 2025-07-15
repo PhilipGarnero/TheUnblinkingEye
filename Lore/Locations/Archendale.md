@@ -43,7 +43,7 @@ Archendale is the most isolated and heavily fortified of the dales, positioned a
 - Underground fortress protects miners and precious metal storage
 - 300 miners protected by 150 military engineers
 
-### **The Bone Garden**
+### **The Marrow Fields**
 *Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Former battlefield on Archendale's border where Vorlag's influence first took root
 - Ancient war dead spontaneously animate during certain conditions

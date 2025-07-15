@@ -1,7 +1,7 @@
 # Fenwater Crossing & The Ferryman's Hut
 
 ## Overview
-The main north-south road in the Vale crosses the River Stillwater at a wide, slow-moving point a half-day's ride south of the village. There is no bridge, only a large, sturdy raft-ferry operated by an old, reclusive ferryman named Silas.
+The main north-south road in the Vale crosses the River Stillwater at a wide, slow-moving point an hour's ride north of the village. There is no bridge, only a large, sturdy raft-ferry operated by an old, reclusive ferryman named Silas.
 
 ## Characteristics
 - The ferry is large enough for a horse and cart. Silas poles it across the river using a guide rope.
@@ -20,7 +20,7 @@ The main north-south road in the Vale crosses the River Stillwater at a wide, sl
 **Stats**: Commoner with +3 to Insight and Perception checks
 
 ### Bandit Problem
-**The Threat**: 6 **Bandits** (CR 1/8 each) led by **Grix Ironfist** (CR 1/2) extort 10 gp "protection fee" per crossing
+**The Threat**: 6 **Bandits** (CR 1/8 each) led by **Grix Ironfist** (CR 1/2) extort 10 gp "protection fee" per tenday
 
 **Silas's Information**:
 - Bandits camp 2 miles north in abandoned mill ruins
@@ -30,11 +30,34 @@ The main north-south road in the Vale crosses the River Stillwater at a wide, sl
 **Player Options**:
 1. **Track to Camp**: Follow them back to mill ruins, fight them there
 2. **Ferry Ambush**: Wait at crossing for their return tomorrow, surprise attack
-3. **Pay Protection**: 10 gp eliminates problem but sets precedent for other travelers
+3. **Ignore the issue**: Pay 2 gp per travel instead of 2cp.
 
 **Bandit Loot**:
 - **Protection Racket**: 85 gp collected from other victims
 - **[[Low level magical items#Flint of the Sure-Strike|Flint of sure strike]]**
+
+### Dragon Cult Intelligence (Revealed After Combat)
+**Discovery Method**: Information emerges during interrogation or from defeated bandits
+
+**Grix Ironfist's Confession**:
+- These bandits are now refugees
+- Their original hideout was in the mountains near [[Dragon's Tooth Bum#Overview|Dragon's Tooth Bum]]
+- Were driven out by Dragon Cultists who took over the cavern system
+- Fled to the abandoned mill and increased extortion out of desperation for survival
+
+**Witnessed Cult Activities**:
+- **War Cry**: Bandits report cultists shouted "For the Sun Dragon!" during their attacks
+- **Recruitment**: Cultists were enslaving/recruiting local mountain tribes and bandit groups
+- **Preparations**: Heard mentions of preparing for "something big" but fled before learning details
+- **Territorial Expansion**: Cult systematically clearing the mountain area of non-aligned groups
+
+**Witte Sisse Connection**:
+- The "For the Sun Dragon!" war cry immediately resonates with his temple background
+- Recognizes this as a corrupted perversion of Lathander sun worship
+- His divine knowledge identifies this as dangerous corruption of solar divine magic
+- **Personal Motivation**: Religious duty to investigate and stop this corruption of his faith
+
+**Quest Hook**: This intelligence transforms a simple bandit problem into discovery of a significant cult threat, providing natural progression to investigate [[Dragon's Tooth Bum#Overview|Dragon's Tooth Bum]].
 
 ### Silas's Assistance (if protected)
 **Ferry Services**:
@@ -54,7 +77,7 @@ The main north-south road in the Vale crosses the River Stillwater at a wide, sl
 - **Crossing Time**: 15 minutes for standard party
 - **Capacity**: Up to 8 humanoids or 1 cart with horses
 - **Weather Dependency**: Cannot operate during storms or high water
-- **Cost**: 2 cp per person, 1 sp per horse, 5 sp per cart
+- **Cost**: 2 sp per person, 1 gp per horse, 5 gp per cart
 
 **Combat During Crossing**:
 - **Difficult Terrain**: Ferry platform counts as difficult terrain during combat
@@ -68,7 +91,7 @@ The main north-south road in the Vale crosses the River Stillwater at a wide, sl
 - **Supply Access**: Basic traveling supplies at cost
 
 ### Rewards
-- **Protection Payment**: 100 gp for solving bandit problem permanently
+- **Protection Payment**: 20 gp for solving bandit problem permanently
 - **Information Value**: 50 XP per major intelligence piece provided
 - **Network Access**: Ongoing ally with connections throughout river system
 - **Experience**: 200 XP for establishing long-term alliance with Silas

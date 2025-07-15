@@ -25,7 +25,7 @@ Daggerdale is a rugged, mountainous region known for its dwarven communities, mi
 - Lord Commander [[Thorek Ironforge]] leads joint human-dwarf defense
 - Castle armory supplies militia forces throughout the region
 
-### **Ironhold Outpost**
+### **Gritstone Post**
 *Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Abandoned dwarven mining outpost, now a wight stronghold
 - Former dwarven defenders raised as undead guardians
@@ -102,7 +102,7 @@ Daggerdale is a rugged, mountainous region known for its dwarven communities, mi
 - Changing hands frequently between government and bandit forces
 - Site of recent major battle between dwarves and undead
 
-### **Thornwatch Tower**
+### **The Sentinel's Peak**
 *Faction Control: [[Good Aligned Forces#Major Organizations|Good Aligned Forces]]*
 - Watchtower maintained by ranger company
 - 15 rangers provide early warning of threats

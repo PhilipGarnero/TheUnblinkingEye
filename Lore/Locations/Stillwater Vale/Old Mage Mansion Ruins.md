@@ -49,12 +49,27 @@ It is said an old mage used to live there a few centuries back. Villagers say th
 
 ### Critical Research Discovered
 
-**Shadowfell Anchor Locations**:
-- **Map**: Shows 5 anchor points Vorlag is creating across the region
-- **[[The Ancestor Mounds]]**: Already corrupted (confirmed)
-- **[[Saltmere Village]]**: Future target
-- **[[Sessrendale ruins]]** : Future target
-- **[[Harrowdale]]** border: Planned anchor site
+**Shadowfell Anchor Network Map**:
+The ancient mage's research reveals a comprehensive network of **15 potential anchor locations** across the Dalelands where planar barriers are naturally thin. These sites are marked with arcane symbols on detailed maps, showing theoretical points where Shadowfell convergence could be established.
+
+**Mapped Anchor Locations**:
+- **[[The Ancestor Mounds]]** (Stillwater Vale)
+- **[[The Weeping Mounds]]** (Tasseldale)
+- **[[Silverleaf Cemetery]]** (Mistledale)
+- **[[Saltmere Village]]** (Harrowdale)
+- **[[Sessrendale ruins]]** (Ancient ruins)
+- **[[Grimwood Hollow]]** (Deepingdale)
+- **[[The Circle of Draconic Hymns]]** (Shadowdale)
+- **[[Ashgrain Mill]]** (Battledale)
+- **[[The Twisted Spire]]** (Deepingdale)
+- **[[The Echoing Ruins]]** (Shadowdale)
+- **[[The Wailing Mounds]]** (Featherdale)
+- **[[Deadwater Marsh]]** (Tasseldale)
+- **[[The Sunken Cemetery]]** (Deepingdale)
+- **[[Ravenshollow Outpost]]** (Archendale)
+- **[[Thornwall Keep]]** (Stillwater Vale)
+
+**Research Notes**: Each location is marked with detailed leyline intersection points, optimal ritual timing, and required corruption methods. The mage's notes indicate that activating all 15 anchors would create a permanent planar convergence, making the entire Dalelands region a Shadowfell reflection. **Current status of each anchor point can only be determined by using the Crystal Focusing Array**.
 
 ### Magical Equipment
 **Crystal Focusing Array** (immobile, 2000 gp value):

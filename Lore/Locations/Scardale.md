@@ -29,7 +29,7 @@ Scardale is the largest and most populous of the dales, featuring extensive coas
 
 ![Scardale](/Assets/Scardale.jpg)
 
-### **Blackthorn Crossing**
+### **The Traitor's Crossing**
 *Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Strategic bridge where undead cross between territories
 - Former Sembian checkpoint abandoned after undead attacks
@@ -57,7 +57,7 @@ Scardale is the largest and most populous of the dales, featuring extensive coas
 - Underground fortifications carved into coastal cliffs
 - Last resort fallback position if main defenses fail
 
-### **The Bone Gardens**
+### **The Sembian Boneyard**
 *Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Former battlefield converted into undead spawning ground
 - Site of major battle between Sembian forces and undead army
@@ -113,7 +113,7 @@ Scardale is the largest and most populous of the dales, featuring extensive coas
 - Necromantic influence seeps through despite containment efforts
 - Site of ongoing investigation by Sembian mages and clerics
 
-### **Ironhold Fortress**
+### **Bastion of Scars**
 *Faction Control: [[Sembian Occupation Forces]]*
 - Massive inland fortress protecting approach routes
 - 300 Sembian soldiers command strategic high ground

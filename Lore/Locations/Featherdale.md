@@ -67,7 +67,7 @@ Featherdale was once a peaceful agricultural dale known for its halfling communi
 - Stone bridge is the only safe river crossing for miles
 - Whoever controls it can tax or block movement through the region
 
-### **The Singing Barrows**
+### **The Wailing Mounds**
 *Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Ancient halfling burial mounds corrupted by necromantic energy
 - Ghostly halfling spirits now serve as Vorlag's scouts

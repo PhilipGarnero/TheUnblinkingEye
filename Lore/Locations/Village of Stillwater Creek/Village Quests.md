@@ -1,4 +1,4 @@
-# Stillwater Creek: Village Quests
+	# Stillwater Creek: Village Quests
 
 ## Pre-Attack Quests (2 Options)
 
@@ -22,7 +22,7 @@
 **Giver:** [[Village NPCs#Goody Hepzibah Pinesong|Goody Hepzibah Pinesong]]  
 **Hook:** 2 villagers (Fred & Jamy Sorcier) are still missing and presumed taken during the attack. Goody Pinesong fears they're being held for dark purposes.  
 **Objective:** Search the Direwood and surrounding areas for missing villagers.  
-**Rewards:** 100 gp, healing poultices (3 uses, restore 1d4+1 HP each). Additional 50 gp if Jamy is rescued alive.  
+**Rewards:** 50 gp, healing poultices (3 uses, restore 1d4+1 HP each). Additional 50 gp if Jamy is rescued alive.  
 **Truth:** Fred has been transformed into a Ritual Corpse in [[The Ancestor Mounds#Main Mound - The Completed Ritual|the Main Mound]] and cannot be saved. Jamy is imprisoned in [[The Ancestor Mounds#Second Mound - The Preparation|the Second Mound]] and can be rescued if the party acts quickly before the Dusk Priest completes the ritual. Both are located at [[The Ancestor Mounds#Overview|The Ancestor Mounds]].
 
 ### Quest 4: The Lost Holy Symbol
@@ -43,7 +43,7 @@
 **Giver:** [[Lyanna Swiftarrow#Basic Information|Lyanna Swiftarrow]]  
 **Hook:** The ranger has identified tracks leading from the attack site toward an unknown location deeper in [[Vorlag's Influence#Overview|Vorlag's territory]]. She needs capable allies to follow the trail.  
 **Objective:** Track the undead forces back to their staging area and gather intelligence on [[Vorlag the Pale (Necromancer)#DM Notes & Key Info|Vorlag's operations]].  
-**Rewards:** 200 gp, detailed map of local undead movements, Lyanna as an ally for future missions  
+**Rewards:** Lyanna as an ally for future missions  
 **Truth:** Trail leads to [[The Ancestor Mounds#Overview|The Ancestor Mounds]] where Lyanna discovers the full scope of [[Vorlag's Forces#Organization Structure|Vorlag's desecration]]. She attempts to scout [[The Ancestor Mounds#Main Mound - The Completed Ritual|the main mound]] but is wounded by a Bone Hound and forced to retreat. This quest connects directly to the mound encounters - Lyanna provides crucial intelligence about enemy positions, trap locations, and the urgent need to rescue the missing villagers before it's too late.
 
 ### Quest 7: Consecrating the Fallen
@@ -52,7 +52,7 @@
 **Objective:** Guard Elder Rowan during a day-long consecration ritual to establish a new sacred burial site.  
 **Rewards:** 100 gp, permanent sanctuary location (undead cannot approach within 30 feet), Elder Rowan's blessing  
 **Prerequisites:** This quest cannot be completed until the corruption at [[The Ancestor Mounds#Overview|The Ancestor Mounds]] is cleansed. Elder Rowan explains that the ancestral spirits are too tormented to allow new consecration while their resting place remains defiled.  
-**Mechanics:** PCs face waves of undead trying to disrupt the ritual over 8 hours. Undead emerge from the direction of the corrupted mounds, drawn by the positive energy. Success creates a safe haven for future use.
+**Mechanics:** PCs face waves of undead trying to disrupt the ritual over 30 minutes. Undead emerge from the direction of the corrupted mounds, drawn by the positive energy. Success creates a safe haven for future use.
 
 ### Quest 8: Checking on Finzin
 **Giver:** [[Village NPCs#Martha "Ma" Greenthistle & Pipkin "Pip" Solloway|Martha "Ma" Greenthistle]]  

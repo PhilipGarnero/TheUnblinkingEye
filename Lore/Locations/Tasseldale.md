@@ -60,7 +60,7 @@ Once the wealthiest of the smaller dales, Tasseldale's prosperity came from its 
 - Extorts "protection fees" from desperate refugees
 - Maintains uneasy neutrality with both undead and legitimate forces
 
-### **Copperfall Mine**
+### **The Veridian Quarry**
 *Faction Control: Contested*
 - Valuable copper mine fought over by multiple factions
 - Dwarven miners barricaded themselves inside when evacuation began

@@ -54,7 +54,7 @@ Harrowdale stretches along the coast with dense forests inland, traditionally kn
 - Sacred moonlight prevents undead from approaching directly
 - Shelters 200 refugees in underground chambers
 
-### **Blackthorn Crossing**
+### **Gallows Bridge**
 *Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Strategic bridge where undead forces cross between territories
 - Former toll station now serves as undead checkpoint

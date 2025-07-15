@@ -66,7 +66,7 @@ Mistledale is the largest of the dales by area, consisting primarily of grasslan
 - Produces weapons and armor for regional defense forces
 - Connected to Ashabenford by heavily guarded supply convoys
 
-### **The Whispering Woods**
+### **The Murmuring Forest**
 *Faction Control: [[Good Aligned Forces#Major Organizations|Good Aligned Forces]]*
 - Forest preserve maintained by druid circle
 - [[Elder Rowan Meadowlight#Basic Information|Elder Rowan Meadowlight]]'s allies coordinate natural defenses
@@ -94,7 +94,7 @@ Mistledale is the largest of the dales by area, consisting primarily of grasslan
 - Major training center for holy warriors fighting undead
 - Repository of knowledge about necromantic threats
 
-### **The Bone Garden**
+### **The Sepulcher Meadow**
 *Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Former battlefield where Vorlag's influence first took root
 - Ancient war dead spontaneously rise during certain moon phases
@@ -108,14 +108,14 @@ Mistledale is the largest of the dales by area, consisting primarily of grasslan
 - Early warning system for threats approaching from other dales
 - Houses regional intelligence headquarters
 
-### **The Singing Hills**
+### **The Resonant Hills**
 *Faction Control: [[Dwarven Clans]]*
 - Southern hill complex with multiple dwarven settlements
 - 800 dwarves organized into defensive confederation
 - Natural acoustics allow communication across long distances
 - Center of dwarven culture and craftsmanship in the region
 
-### **Shadowmere Outpost**
+### **The Gloomdale Post**
 *Faction Control: [[Cult of the Dragon#Organization Structure|Cult of the Dragon]]*
 - Hidden cult facility disguised as trading post
 - 25 cult members gather intelligence on regional affairs

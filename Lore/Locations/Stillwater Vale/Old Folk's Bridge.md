@@ -31,6 +31,19 @@ A stone bridge that used to cross the river in the past. People say it's been bu
 - **Alternative**: DC 16 Deception check to convince with false sacrifice
 - **Mechanical Effect**: Murl provides valuable information about region
 
+### Bridge Crossing Solutions (Provided by Trolls)
+If both trolls are satisfied with payment or negotiation:
+
+**Krogg's Strength Service**:
+- **Stone Lifting**: Krogg can lift and position large bridge stones to create temporary crossing points
+- **Carrying Service**: Can carry party members across one at a time (swimming with them on his back)
+- **Duration**: Temporary stone arrangement lasts 1 hour before current shifts stones
+
+**Murl's Clever Solutions**:
+- **Rope Bridge**: Knows where sturdy rope is cached upstream, can help set up temporary rope bridge
+- **Shallow Path**: Reveals seasonal ford location 100 feet upstream (DC 12 Athletics to cross)
+- **Raft Construction**: Can guide party in building makeshift raft using debris and knowledge of current patterns
+
 **Alternative Payments**:
 - **Magical Items**: Any magic item worth 100+ gp
 - **Rare Foods**: Exotic delicacies, fine wine, or unusual spices
@@ -54,7 +67,7 @@ A stone bridge that used to cross the river in the past. People say it's been bu
 - **Troll Lair**: 30x20 feet air-filled cave connected to surface
 - **Treasure Hoard**: 3d6 × 10 gp, various shiny objects worth 150 gp
 - **Stolen Goods**: Equipment from previous "toll payers"
-- **Secret Passage**: Connects to teleportation circle chamber
+
 
 ### Bridge Ruins Exploration
 
@@ -67,6 +80,7 @@ A stone bridge that used to cross the river in the past. People say it's been bu
 ### Troll Knowledge (if negotiated peacefully)
 **Vorlag Intelligence**:
 - **Recent Crossing**: Vorlag herself crossed here the day after the village attack
+- **Crossing Method**: Paid trolls with a **necromantic ritual scroll** and had Krogg lift bridge stones for her cart
 - **Escort Details**: Accompanied by 2 robed figures and a cart of ritual components
 - **Overheard Conversation**: Mentioned seeking the **"Bone Grimoire of Zylkresk"** in **[[Harrowdale]]**
 - **Route**: Took the eastern road toward **[[Harrowdale]]** border

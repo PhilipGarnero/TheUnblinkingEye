@@ -82,10 +82,13 @@ Two very large stone mounds that served as a burial place for ancestors of the V
 **Primary Objective**: Rescue Jamy before ritual completion
 
 ### Layout
-- **Entrance**: Hidden door (DC 13 Investigation) behind fallen stones
-- **Tunnel**: 40-foot sloping passage leading to the ritual chamber
+- **Hidden Entrance**: Hidden door (DC 13 Investigation) behind fallen stones that lead to the prison chamber
+- **Main Entrance**: Well seen with tunnel going down into an antechamber
+- **Tunnel**: 40-foot sloping passage leading to the small alcove
+- **Antechamber**: 15x15 ft room leading to the ritual chamber
 - **Prison Chamber**: 15x15 ft room where Jamy is held, adjacent to ritual chamber
-- **Ritual Chamber**: 25x30 ft room with incomplete ritual circle
+- **Ritual Chamber**: 25x30 ft room with incomplete ritual circle, desk in small alcove
+
 
 ### Traps
 1. **Alarm Rune** (Tunnel midpoint): DC 13 Arcana to identify, DC 15 to dispel. If triggered, alerts all enemies and starts **5-turn countdown** - Dusk Priest will sacrifice Jamy on turn 5 if not stopped.
@@ -94,6 +97,8 @@ Two very large stone mounds that served as a burial place for ancestors of the V
 - **1 Dusk Priest** (CR 2) - Leading the ritual preparation
 - **2 Dusk Acolytes** (CR 1/4 each) - Assisting with ritual components  
 - **1 Death Cultist** (CR 1/8) - Guarding Jamy
+- **1 Grave Knight** (CR 2) - Guarding the ritual chamber door
+- **1 Bone Swarm** (CR 2) - Will spawn from the walls in the antichamber if alarm is triggered
 
 ### Jamy's Condition
 - **Status**: Alive but weakened (10 HP, exhausted)
@@ -107,6 +112,7 @@ Two very large stone mounds that served as a burial place for ancestors of the V
 
 **Ritual Chamber**:
 - Incomplete ritual circle with valuable silver inlay (worth 75 gp if carefully extracted, DC 15 Investigation + tools)
+- [[Sand of the Boneyard]]
 - Obsidian ritual knife (25 gp, can be used as dagger)
 - Scroll case with necromantic notes (worth 20 gp to scholars)
 
@@ -124,7 +130,7 @@ Two very large stone mounds that served as a burial place for ancestors of the V
 
 The second phase begins at the mounds. Transform the surviving villager as we did the first - their life force will anchor the planar tears we require. The ritual circle I have provided must be completed exactly as instructed.
 
-Once both anchors are established, abandon this site. The corruption here will continue to spread without our presence. Travel south to **Saltmere Village** in [[Harrowdale]]. The coastal hamlet will serve our next phase - the harbor provides access to deeper waters where ancient things stir.
+Once both anchors are established, abandon this site. The corruption here will continue to spread without our presence. Travel east to **Saltmere Village** in [[Harrowdale]]. The coastal hamlet will serve our next phase - the harbor provides access to deeper waters where ancient things stir.
 
 Brother Malachar will meet you at the **Weeping Lighthouse** one month hence, when the autumn moon wanes. Prepare the lighthouse beacon - its light will guide more than ships to shore.
 

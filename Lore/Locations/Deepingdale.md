@@ -59,7 +59,7 @@ Deepingdale is known as the "breadbasket of the Dalelands," featuring rich agric
 - Moonwell's pure water damages undead creatures
 - Hidden elven village houses 300 survivors
 
-### **Shadowbrook**
+### **Gloomwater Creek**
 *Faction Control: [[Drow Forces]]*
 - Underground river entrance used by drow raiding parties
 - Series of caves and tunnels leading to Underdark
@@ -108,7 +108,7 @@ Deepingdale is known as the "breadbasket of the Dalelands," featuring rich agric
 - Rob supply convoys heading to Highmoon
 - 25 members, mostly displaced merchants and farmers
 
-### **The Whispering Gallery**
+### **The Cave of Lost Voices**
 *Faction Control: [[Cult of the Dragon#Organization Structure|Cult of the Dragon]]*
 - Natural acoustic cave system used by dragon cultists
 - Hidden cult shrine dedicated to ancient green dragons

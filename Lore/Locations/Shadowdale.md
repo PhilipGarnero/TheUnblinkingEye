@@ -69,7 +69,7 @@ Shadowdale holds tremendous historical significance as the former seat of powerf
 - Private rooms used for secret meetings and initiation ceremonies
 - Information hub for cult intelligence operations
 
-### **The Whispering Ruins**
+### **The Echoing Ruins**
 *Faction Control: [[Vorlag's Forces#Organization Structure|Vorlag's Forces]]*
 - Ancient magical site partially corrupted by necromantic energy
 - One of the few areas where Vorlag has established presence
@@ -111,7 +111,7 @@ Shadowdale holds tremendous historical significance as the former seat of powerf
 - Officers unaware they're actually serving cult interests
 - Maintains facade of legitimate authority
 
-### **The Singing Stones Circle**
+### **The Circle of Draconic Hymns**
 *Faction Control: [[Cult of the Dragon#Organization Structure|Cult of the Dragon]]*
 - Ancient stone circle corrupted by cult rituals
 - Site of major draconic summoning ceremonies
