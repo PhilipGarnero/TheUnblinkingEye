@@ -425,6 +425,49 @@ Miriam offers exceptional healing services at remarkably low prices. She specifi
 
 ## Roadside Encounters
 
+### The Traveling Tinker's Cart
+**Trigger**: While traveling any road throughout the Stillwater Vale
+**Encounter**: A brightly painted wagon approaches, driven by an elderly gnome tinker
+
+**NPC Details:**
+- **Pip Brightwhisper**: Forest gnome tinker, 127 years old, eternally optimistic
+- **Voice**: Direct/light, mixed placement, medium tempo, cheerful and sing-song tone
+- **Quirks**: Calls everyone "dearie" or "young sprout," hums constantly while working
+- **Companions**: Buttercup & Dandelion (two intelligent donkeys with distinct personalities)
+
+**The Magical Cart:**
+- Impossibly organized despite appearing chaotic
+- Contains far more than it should physically hold
+- Always has hot tea ready and comfortable seating
+- Minor damage repairs itself overnight
+
+**Services Offered:**
+- **Equipment Repair**: Fixes damaged gear for 25% of replacement cost
+- **Practical Gadgets**: Self-stirring spoons, mending patches, compass roses, weather vane pins (10-25 gp each)
+- **Regional News**: Current events, safe roads, upcoming festivals, reliable contacts
+- **Pip's Famous Honey Cakes**: Restore 1d4 HP and grant advantage on next Wisdom save (1 gp each, often free)
+
+**Pip's Current Problem:**
+His grandmother's hammer fell in a creek 1 mile back while helping another traveler. A family of awakened beavers has claimed it for their dam construction.
+
+**Resolution Options:**
+- **Negotiation**: DC 15 Persuasion to convince beavers to trade
+- **Replacement**: DC 20 Investigation to find suitable substitute material
+- **Barter**: Offer equally useful construction materials
+
+**Special Services:**
+- **Cart Blessing**: After genuinely helping Pip, party vehicles/mounts gain +5 ft speed for 7 days
+- **Gadget Customization**: Modify equipment with minor improvements (waterproof, self-cleaning, etc.) for 15 gp + materials
+
+**Rewards for Helping:**
+- **Brightwhisper's Blessing**: Advantage on next tool check within 24 hours
+- **Tinker's Token**: Wooden coin that glows when Pip's cart is within 1 mile
+- **Care Package**: 3 honey cakes, 2 mending patches, weather vane pin
+- **Experience**: 150 XP for solving the hammer situation, 200 XP for exceptional kindness
+
+**Campaign Connection:**
+Pip provides much-needed levity and hope in dark times. His news network spans the entire region, making him an excellent source of information about safe routes and regional developments.
+
 ### The Merchant's Test
 **Trigger**: While traveling main trade routes
 **Encounter**: A merchant offers a deal that seems too good to be true
