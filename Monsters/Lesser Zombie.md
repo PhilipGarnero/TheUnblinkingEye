@@ -27,6 +27,7 @@ speed: "15 ft."
 stats: [12, 4, 8, 3, 6, 5]
 saving_throws:
   - wisdom: 0
+damage_vulnerabilities: "radiant"
 damage_immunities: "poison"
 condition_immunities: "poisoned"
 senses: "darkvision 60 ft., passive Perception 8"

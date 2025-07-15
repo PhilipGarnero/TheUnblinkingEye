@@ -25,6 +25,7 @@ hp: 22
 hit_dice: 4d8 + 4
 speed: "20 ft."
 stats: [13, 6, 12, 3, 6, 5]
+damage_vulnerabilities: "radiant"
 damage_immunities: "poison"
 condition_immunities: "poisoned"
 senses: "darkvision 60 ft., passive Perception 8"

@@ -27,6 +27,7 @@ speed: "0 ft., fly 40 ft. (hover)"
 stats: [6, 17, 14, 10, 12, 15]
 skills:
   - stealth: 5
+damage_vulnerabilities: "radiant"
 damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
 damage_immunities: "necrotic, poison"
 condition_immunities: "exhaustion, grappled, paralyzed, poisoned, prone, restrained"

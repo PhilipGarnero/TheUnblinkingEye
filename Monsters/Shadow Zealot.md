@@ -8,7 +8,7 @@ statblock: inline
 - **Type:** Humanoid (any race)
 - **Size:** Medium
 - **Alignment:** Neutral Evil
-- **Challenge Rating:** 1
+- **Challenge Rating:** 1/2
 - **Environment:** Urban shadows, cult hideouts, assassination sites
 
 ## Stats
@@ -16,40 +16,33 @@ statblock: inline
 layout: Basic 5e Layout
 name: Shadow Zealot
 source: Monsters
-cr: 1
+cr: 1/2
 size: Medium
 type: humanoid
 subtype: any race
 alignment: neutral evil
-ac: 14
-hp: 27
-hit_dice: 5d8 + 5
+ac: 13
+hp: 22
+hit_dice: 4d8 + 4
 speed: "30 ft."
-stats: [12, 16, 12, 11, 13, 14]
+stats: [11, 15, 12, 10, 12, 13]
 skills:
-  - deception: 4
-  - stealth: 5
-  - sleight_of_hand: 5
+  - stealth: 4
+  - sleight_of_hand: 4
 senses: "passive Perception 11"
-languages: "Common and two other languages"
+languages: "Common and one other language"
 traits:
-  - name: "Dark Devotion"
-    desc: "The zealot has advantage on saving throws against being charmed or frightened."
-  - name: "Shadow Blend"
-    desc: "While in dim light or darkness, the zealot can take the Hide action as a bonus action."
+  - name: "Shadow Affinity"
+    desc: "The zealot has advantage on Stealth checks made in dim light or darkness."
   - name: "Sneak Attack (1/Turn)"
-    desc: "The zealot deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the zealot that isn't incapacitated and the zealot doesn't have disadvantage on the attack roll."
-  - name: "Shadow Step (Recharge 5-6)"
-    desc: "As a bonus action, the zealot can teleport up to 30 feet to an unoccupied space it can see that is in dim light or darkness."
+    desc: "The zealot deals an extra 3 (1d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the zealot that isn't incapacitated and the zealot doesn't have disadvantage on the attack roll."
 actions:
-  - name: Multiattack
-    desc: "The zealot makes two shortsword attacks."
   - name: Shortsword
-    desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
+    desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
   - name: Hand Crossbow
-    desc: "Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
-  - name: Poisoned Blade (3/Day)
-    desc: "The zealot coats a weapon with dark toxins. The next successful attack with that weapon deals an additional 4 (1d8) poison damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute."
+    desc: "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+  - name: Shadow Strike (1/Day)
+    desc: "If the zealot is hidden, it can make one weapon attack with advantage. If this attack hits, it deals an additional 7 (2d6) necrotic damage as shadows swirl around the weapon."
 ```
 
 ## Items

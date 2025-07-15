@@ -84,7 +84,7 @@ spells:
 
 ## Description
 **Physical Appearance:**
-Mummified humanoid wrapped in ritual bindings covered with necromantic symbols. Hands end in sharpened bone claws, and eyes glow with eldritch knowledge. Constantly mumbles incantations in dead languages. Body shows signs of deliberate preservation through dark magic.
+Humanoid wrapped in ritual bindings covered with necromantic symbols. Flesh is also carved with ritual symbols. Hands end in sharpened bone claws, and eyes glow with eldritch knowledge. Body shows signs of deliberate preservation through dark magic.
 
 **Behavior:**
 - Obsessed with completing its final ritual

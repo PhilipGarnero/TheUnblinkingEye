@@ -25,6 +25,7 @@ hp: 36
 hit_dice: 8d10 - 8
 speed: "30 ft., climb 30 ft."
 stats: [8, 15, 9, 2, 10, 3]
+damage_vulnerabilities: "radiant"
 damage_resistances: "bludgeoning, piercing, slashing"
 damage_immunities: "poison"
 condition_immunities: "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned"

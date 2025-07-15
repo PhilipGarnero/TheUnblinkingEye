@@ -6,7 +6,7 @@ statblock: inline
 
 ## Basic Information
 - **Type:** Beast (corrupted)
-- **Size:** Large
+- **Size:** Medium
 - **Alignment:** Neutral Evil
 - **Challenge Rating:** 2
 - **Environment:** Corrupted forests, areas of necromantic influence

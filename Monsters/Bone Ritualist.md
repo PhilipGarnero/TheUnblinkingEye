@@ -8,7 +8,7 @@ statblock: inline
 - **Type:** Humanoid (any race)
 - **Size:** Medium
 - **Alignment:** Neutral Evil
-- **Challenge Rating:** 1/2
+- **Challenge Rating:** 1
 - **Environment:** Necromantic laboratories, bone yards, ritual chambers
 
 ## Stats
@@ -16,16 +16,16 @@ statblock: inline
 layout: Basic 5e Layout
 name: Bone Ritualist
 source: Monsters
-cr: 1/2
+cr: 1
 size: Medium
 type: humanoid
 subtype: any race
 alignment: neutral evil
-ac: 12
-hp: 22
-hit_dice: 4d8 + 4
+ac: 13
+hp: 32
+hit_dice: 5d8 + 10
 speed: "30 ft."
-stats: [9, 14, 12, 15, 13, 11]
+stats: [9, 14, 14, 16, 14, 11]
 skills:
   - arcana: 4
   - medicine: 3

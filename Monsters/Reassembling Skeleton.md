@@ -25,7 +25,7 @@ hp: 45
 hit_dice: 7d8 + 14
 speed: "30 ft."
 stats: [15, 14, 15, 6, 8, 5]
-damage_vulnerabilities: "bludgeoning"
+damage_vulnerabilities: "bludgeoning, radiant"
 damage_immunities: "poison"
 condition_immunities: "exhaustion, poisoned"
 senses: "darkvision 60 ft., passive Perception 9"
@@ -40,7 +40,7 @@ traits:
 actions:
   - name: Multiattack
     desc: "The skeleton makes two melee attacks."
-  - name: Bone Claw
+  - name: Fencing Hit
     desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 2) slashing damage."
   - name: Bone Boomerang
     desc: "Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage. The skeleton detaches and throws one of its own bones, which comes back if thrown not further than 20ft (2 bone charges)."

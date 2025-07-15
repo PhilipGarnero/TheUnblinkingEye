@@ -27,7 +27,7 @@ speed: "40 ft."
 stats: [12, 16, 14, 3, 12, 6]
 skills:
   - perception: 3
-damage_vulnerabilities: "bludgeoning"
+damage_vulnerabilities: "bludgeoning, radiant"
 damage_immunities: "poison"
 condition_immunities: "exhaustion, poisoned"
 senses: "darkvision 60 ft., passive Perception 13"
@@ -79,5 +79,5 @@ Skeletal construct resembling a large hound, assembled from bones of various cre
 - Shows tactical awareness of terrain advantages
 
 ## Variants
-- **Bone Stalker:** Larger version (Large size, CR 2) with greater range and damage
+- **Ossivorax:** Larger version (Large size, CR 2) with greater range and damage
 - **Scrap Hound:** Uses metal fragments instead of bones, resistance to slashing damage

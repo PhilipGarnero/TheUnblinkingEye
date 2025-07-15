@@ -6,7 +6,7 @@ statblock: inline
 
 ## Basic Information
 - **Type:** Beast (corrupted)
-- **Size:** Large
+- **Size:** Medium
 - **Alignment:** Neutral Evil
 - **Challenge Rating:** 2
 - **Environment:** Corrupted farmlands, areas of necromantic influence
@@ -25,8 +25,7 @@ hp: 42
 hit_dice: 5d12 + 10
 speed: "40 ft."
 stats: [18, 10, 16, 2, 7, 5]
-damage_vulnerabilities: "silvered weapons"
-damage_immunities: "frightened"
+condition_immunities: "frightened"
 senses: "darkvision 60 ft., passive Perception 8"
 languages: "understands Common but can't speak"
 traits:

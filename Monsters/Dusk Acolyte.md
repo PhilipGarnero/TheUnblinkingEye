@@ -8,7 +8,7 @@ statblock: inline
 - **Type:** Humanoid (any race)
 - **Size:** Medium
 - **Alignment:** Neutral Evil
-- **Challenge Rating:** 1/2
+- **Challenge Rating:** 1
 - **Environment:** Hidden temples, cult strongholds, ritual sites
 
 ## Stats
@@ -16,16 +16,16 @@ statblock: inline
 layout: Basic 5e Layout
 name: Dusk Acolyte
 source: Monsters
-cr: 1/2
+cr: 1
 size: Medium
 type: humanoid
 subtype: any race
 alignment: neutral evil
-ac: 13
-hp: 16
-hit_dice: 3d8 + 3
+ac: 14
+hp: 27
+hit_dice: 5d8 + 5
 speed: "30 ft."
-stats: [10, 12, 13, 12, 15, 14]
+stats: [11, 12, 15, 13, 16, 14]
 skills:
   - medicine: 4
   - religion: 3
@@ -35,9 +35,9 @@ traits:
   - name: "Dark Devotion"
     desc: "The acolyte has advantage on saving throws against being charmed or frightened."
   - name: "Spellcasting"
-    desc: "The acolyte is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks)."
+    desc: "The acolyte is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks)."
   - name: "Unholy Recovery"
-    desc: "When the acolyte casts a necromancy spell, it regains 1 hit point per spell level cast."
+    desc: "When the acolyte casts a necromancy spell, it regains 2 hit points per spell level cast."
 actions:
   - name: Chained Scythe
     desc: "Melee Weapon Attack: +3 to hit, reach 10 ft., one target. Hit: 5 (1d6 + 1) slashing damage. If the target is Large or smaller, the acolyte can attempt to trip them. The target must succeed on a DC 11 Strength saving throw or be knocked prone."
@@ -46,8 +46,9 @@ actions:
   - name: Corrupt Healing (3/Day)
     desc: "The acolyte touches a willing undead creature and heals it for 5 (1d8 + 1) hit points. Living creatures take this amount as necrotic damage instead."
 spells:
-  - Cantrips (at will): guidance, resistance, thaumaturgy
-  - 1st level (3 slots): bane, cure wounds, inflict wounds
+  - Cantrips (at will): guidance, resistance, thaumaturgy, eldritch blast
+  - 1st level (4 slots): bane, cure wounds, inflict wounds, hex
+  - 2nd level (2 slots): hold person, spiritual weapon
 ```
 
 ## Items

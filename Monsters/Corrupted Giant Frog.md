@@ -28,7 +28,7 @@ stats: [12, 13, 11, 2, 10, 3]
 skills:
   - perception: 2
   - stealth: 3
-damage_immunities: "frightened"
+condition_immunities: "frightened"
 senses: "darkvision 30 ft., passive Perception 12"
 languages: "understands Common but can't speak"
 traits:

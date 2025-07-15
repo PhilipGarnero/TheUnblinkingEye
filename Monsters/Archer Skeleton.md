@@ -26,7 +26,7 @@ hp: 13
 hit_dice: 2d8 + 2
 speed: "30 ft."
 stats: [10, 16, 12, 6, 8, 5]
-damage_vulnerabilities: "bludgeoning"
+damage_vulnerabilities: "bludgeoning, radiant"
 damage_immunities: "poison"
 condition_immunities: "exhaustion, poisoned"
 senses: "darkvision 60 ft., passive Perception 9"
